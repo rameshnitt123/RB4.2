@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s502fff8451940a5ab32c19d08f56c61",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s502fff8451940a5ab32c19d08f56c61",
+    "id": "btnChange",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g7e49c8db788413090223cf815a2f4b6",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxTop",
+    "pf": "frmDefaultLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.common.change",
+    "wType": "Button",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yHint": "Tap Change if you want to edit your previous choice",
+        "a11yLabel": "Change"
+    }
+}

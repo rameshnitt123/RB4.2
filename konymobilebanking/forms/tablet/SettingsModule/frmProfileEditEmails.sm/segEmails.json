@@ -1,0 +1,163 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon.png"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Primary Email ID"
+            },
+            "lblDetailValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "mante_albin@bednar.io"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon.png"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Primary Email ID"
+            },
+            "lblDetailValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "mante_albin@bednar.io"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon.png"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Primary Email ID"
+            },
+            "lblDetailValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "mante_albin@bednar.io"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segEmails",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": true
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gc62f79dec9c4612978b68634c4eaf69",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxDetailsMain",
+    "pf": "frmProfileEditEmails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "df77bd98814940bf9f4ebd70eddf954c",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxEmailMain",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxDelete": "flxDelete",
+        "flxEmailMain": "flxEmailMain",
+        "flxSeparator": "flxSeparator",
+        "flxSwipe": "flxSwipe",
+        "imgDelete": "imgDelete",
+        "lblDelete": "lblDelete",
+        "lblDetail": "lblDetail",
+        "lblDetailValue": "lblDetailValue"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_b1ef263eb64945e7ac38ebbb8cc816b8": {
+        "id": "AS_Button_b1ef263eb64945e7ac38ebbb8cc816b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_gf3de7a78b714adda714d10db62efe68",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var authMode = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"AuthModule\");\nauthMode.presentationController.checkAppinit = true;\nauthMode.presentationController.commonFunctionForNavigation(\"frmEnrollLastName\");",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa17b780cf2145299376d4d3000f5c58",
+    "_text_": "EDIT",
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa17b780cf2145299376d4d3000f5c58",
+    "id": "btnEdit",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ae839573123b4de4b5cee431bf92d14d",
+    "name": "kony.ui.Button",
+    "parent": "flxBodyTxt",
+    "pf": "frmAccountMinimumBalance",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.common.editNickName",
+    "wType": "Button",
+    "zindex": 100,
+    "accessibilityconfig": {
+        "a11yHint": "Tap Edit to make changes",
+        "a11yLabel": "Edit"
+    }
+}

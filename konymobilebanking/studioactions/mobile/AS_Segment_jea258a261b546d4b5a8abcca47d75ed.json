@@ -1,0 +1,24 @@
+{
+    "AS_Segment_jea258a261b546d4b5a8abcca47d75ed": {
+        "id": "AS_Segment_jea258a261b546d4b5a8abcca47d75ed",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfd8d167d39f4048b325cec1c7aaa4dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ad2d350a1e8c400eb16c4fcac2c4dddc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.flagScroll===false)\n  {\n    alert(\"hello\");\n  }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_e5f2e904d50c41869121e3e1c2891c71": {
+        "id": "AS_FlexContainer_e5f2e904d50c41869121e3e1c2891c71",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDevRegPinConfirmation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i65f483125934a629910c32de2a71898"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_cd44290ccb57463e88f1d18887def47a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgSelectUserOnTouchEnd",
+            "display": "imgSelectUserOnTouchEnd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

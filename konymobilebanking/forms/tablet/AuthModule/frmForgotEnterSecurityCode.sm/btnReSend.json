@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7c6052109994981b932af5872b868b2",
+    "_text_": "Re-Send",
+    "_top_": {
+        "type": "string",
+        "value": "272dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s7c6052109994981b932af5872b868b2",
+    "id": "btnReSend",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fffb60fc659b423cb89adadeafbc353c",
+    "name": "kony.ui.Button",
+    "parent": "flxSecurityKeyEntry",
+    "pf": "frmForgotEnterSecurityCode",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.tab.Forgot.Resend",
+    "wType": "Button",
+    "zindex": 1
+}

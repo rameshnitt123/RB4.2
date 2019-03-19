@@ -1,0 +1,23 @@
+{
+    "AS_Form_f8d89a2175704f2181f0b39f0dc9072e": {
+        "id": "AS_Form_f8d89a2175704f2181f0b39f0dc9072e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferBankAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e3b845b9f11e4c829a51a8c95f61f61a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_d3f1feb1890c4eed9fe7aca0785aefbb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

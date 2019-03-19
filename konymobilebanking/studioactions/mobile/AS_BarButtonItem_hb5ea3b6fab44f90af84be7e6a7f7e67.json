@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_hb5ea3b6fab44f90af84be7e6a7f7e67": {
+        "id": "AS_BarButtonItem_hb5ea3b6fab44f90af84be7e6a7f7e67",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a0d15ca0786f4839ac597480062e9701",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " NUOMod.presentationController.commonFunctionForNavigation(\"frmLogin\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

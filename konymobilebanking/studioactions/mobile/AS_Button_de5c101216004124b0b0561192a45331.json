@@ -1,0 +1,23 @@
+{
+    "AS_Button_de5c101216004124b0b0561192a45331": {
+        "id": "AS_Button_de5c101216004124b0b0561192a45331",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferConfirmation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f55777c2954249b5bdd1a647d421e942"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bc15b1cc1f4240758cb7dc329757f4b0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(3);",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,31 @@
+digraph android_async_http_1_4_9_package_dependencies {
+  node [shape = box, fontsize=10.0];
+  com_loopj_android_http -> android_annotation;
+  com_loopj_android_http -> android_content;
+  com_loopj_android_http -> android_os;
+  com_loopj_android_http -> android_text;
+  com_loopj_android_http -> android_util;
+  com_loopj_android_http -> cz_msebera_android_httpclient;
+  com_loopj_android_http -> cz_msebera_android_httpclient_auth;
+  com_loopj_android_http -> cz_msebera_android_httpclient_client;
+  com_loopj_android_http -> cz_msebera_android_httpclient_client_entity;
+  com_loopj_android_http -> cz_msebera_android_httpclient_client_methods;
+  com_loopj_android_http -> cz_msebera_android_httpclient_client_params;
+  com_loopj_android_http -> cz_msebera_android_httpclient_client_protocol;
+  com_loopj_android_http -> cz_msebera_android_httpclient_client_utils;
+  com_loopj_android_http -> cz_msebera_android_httpclient_conn;
+  com_loopj_android_http -> cz_msebera_android_httpclient_conn_params;
+  com_loopj_android_http -> cz_msebera_android_httpclient_conn_scheme;
+  com_loopj_android_http -> cz_msebera_android_httpclient_conn_ssl;
+  com_loopj_android_http -> cz_msebera_android_httpclient_cookie;
+  com_loopj_android_http -> cz_msebera_android_httpclient_entity;
+  com_loopj_android_http -> cz_msebera_android_httpclient_impl_auth;
+  com_loopj_android_http -> cz_msebera_android_httpclient_impl_client;
+  com_loopj_android_http -> cz_msebera_android_httpclient_impl_conn_tsccm;
+  com_loopj_android_http -> cz_msebera_android_httpclient_impl_cookie;
+  com_loopj_android_http -> cz_msebera_android_httpclient_message;
+  com_loopj_android_http -> cz_msebera_android_httpclient_params;
+  com_loopj_android_http -> cz_msebera_android_httpclient_protocol;
+  com_loopj_android_http -> cz_msebera_android_httpclient_util;
+  com_loopj_android_http -> org_json;
+}

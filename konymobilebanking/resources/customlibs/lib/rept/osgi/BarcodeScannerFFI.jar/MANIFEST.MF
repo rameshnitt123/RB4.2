@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+
+### OSGi information
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.google.zxing.integration.android
+Bundle-Description: BarcodeScannerFFI
+Bundle-Name: BarcodeScannerFFI
+Bundle-Version: 0.0.0
+Export-Package: com.google.zxing.integration.android;uses:="android.ap
+ p,android.content,android.content.pm,android.net,android.os,android.u
+ til",com.konydemo.thirdparty.intent;uses:="android.app,android.conten
+ t,android.util,com.google.zxing.integration.android,com.konylabs.andr
+ oid,com.konylabs.ffi,com.konylabs.vm"
+Import-Package: android.app,android.content,android.content.pm,android
+ .net,android.os,android.util,com.konylabs.android,com.konylabs.ffi,co
+ m.konylabs.vm,java.io,java.lang,java.util

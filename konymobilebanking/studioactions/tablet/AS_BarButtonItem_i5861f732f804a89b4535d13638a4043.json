@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_i5861f732f804a89b4535d13638a4043": {
+        "id": "AS_BarButtonItem_i5861f732f804a89b4535d13638a4043",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bc071e5e7cbd4d2ea7d8e1e70469982d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transferMod = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"TransferModule\");\ntransferMod.presentationController.commonFunctionForNavigation(\"frmTransfers\"); \n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

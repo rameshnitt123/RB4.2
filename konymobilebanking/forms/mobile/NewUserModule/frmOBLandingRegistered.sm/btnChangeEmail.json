@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4c7b9e6ce2a4c1f9e7a517485864c02",
+    "_text_": "CHANGE EMAIL ",
+    "_top_": {
+        "type": "string",
+        "value": "6.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "CHANGE EMAIL "
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s9a3b01db69d4f18ad562f5b7ce14425",
+    "id": "btnChangeEmail",
+    "info": null,
+    "isvisible": false,
+    "kuid": "j93c3d03a78c44f3a29eaedec2b8eb0c",
+    "name": "kony.ui.Button",
+    "parent": "flxLanding",
+    "pf": "frmOBLandingRegistered",
+    "texti18n": "kony.mb.OnBoarding.ChangeEmail",
+    "wType": "Button",
+    "zindex": 1
+}

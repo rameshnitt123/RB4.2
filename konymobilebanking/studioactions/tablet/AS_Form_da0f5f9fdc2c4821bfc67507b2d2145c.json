@@ -1,0 +1,23 @@
+{
+    "AS_Form_da0f5f9fdc2c4821bfc67507b2d2145c": {
+        "id": "AS_Form_da0f5f9fdc2c4821bfc67507b2d2145c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotSelectMethod",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f2efc3f9ba754d77999c60ed49fb955a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_c3438b833a5747cab702ac0fbed36ee7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

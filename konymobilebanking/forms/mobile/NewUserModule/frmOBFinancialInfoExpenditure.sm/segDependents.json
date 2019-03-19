@@ -1,0 +1,140 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblHyphen": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$1,200,001"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$9,999,999"
+            }
+        },
+        {
+            "lblHyphen": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$1,200,001"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$9,999,999"
+            }
+        },
+        {
+            "lblHyphen": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$1,200,001"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$9,999,999"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDependents",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f2fdeb91640f4a0ab3490a2823438cf9",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxDependents",
+    "pf": "frmOBFinancialInfoExpenditure",
+    "retainselection": false,
+    "rowTemplateId": "h88f0aadd8db456bbcabd1f7132edb61",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxOBYears",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxMain": "flxMain",
+        "flxOBYears": "flxOBYears",
+        "lblHyphen": "lblHyphen",
+        "lblOption1": "lblOption1",
+        "lblOption2": "lblOption2"
+    },
+    "zindex": 3
+}

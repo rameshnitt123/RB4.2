@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_g743bebbfc92473a8a5a1cefa2158bb9": {
+        "id": "AS_FlexContainer_g743bebbfc92473a8a5a1cefa2158bb9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSecurityCode",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd407b4f1db84aaf857350c5154838d3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d7e4510e642b4ed9ab385a9b3109f3a0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "friendlyName": "frmLogin",
+            "formKUID": "h65c10a2cabc493c8ac9ef9c703d1486",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

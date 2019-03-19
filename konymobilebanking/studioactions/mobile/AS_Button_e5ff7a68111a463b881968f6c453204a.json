@@ -1,0 +1,30 @@
+{
+    "AS_Button_e5ff7a68111a463b881968f6c453204a": {
+        "id": "AS_Button_e5ff7a68111a463b881968f6c453204a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayEditAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "db1567b6c448429ca0962ae79bd8b09b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_e1cd6ae97e8a4de682d3b2d8a62e397b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "friendlyName": "frmLogin",
+            "formKUID": "h65c10a2cabc493c8ac9ef9c703d1486",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

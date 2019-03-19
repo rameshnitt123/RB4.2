@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_j8341a26743f43ff8009d5b9d183e64e": {
+        "id": "AS_FlexContainer_j8341a26743f43ff8009d5b9d183e64e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmtransfersAccountNumberEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a8cfc87106fe4ba8a7ff56c020bbfb08"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____ef1e3e8dc0f74ef9b69a704d4aed97af",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmTransfersToAccountEurope",
+            "widgetId": "tbxTo",
+            "propertyName": "text",
+            "propertyValue": "",
+            "itemKUID": "ae1a926984ff4cd48905f7e0a0102adb",
+            "widgetKUID": "d410c3974fef46f69c9810be4bc408ae",
+            "isSkinProperty": false,
+            "wType": "TextField",
+            "forkedPlatform": "all",
+            "callbackType": null,
+            "widgetPath": "this.view.tbxTo"
+        }]
+    }
+}

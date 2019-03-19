@@ -1,0 +1,30 @@
+{
+    "AS_Segment_f3f07dcc1eec44fa82726ad412da8eb7": {
+        "id": "AS_Segment_f3f07dcc1eec44fa82726ad412da8eb7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSelectExternalAccounts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i22192bd6a814bb6ac54447e1391a469"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aa72cb0ce0494de38c8646b31f677a1e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.addExternalAccounts();\nthis.enableSaveButton();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

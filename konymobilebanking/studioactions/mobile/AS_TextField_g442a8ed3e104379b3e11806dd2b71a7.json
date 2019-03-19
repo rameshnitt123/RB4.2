@@ -1,0 +1,30 @@
+{
+    "AS_TextField_g442a8ed3e104379b3e11806dd2b71a7": {
+        "id": "AS_TextField_g442a8ed3e104379b3e11806dd2b71a7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmProfileChangeAndUpdatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e9a6190c81034d669cce3baee3b28802"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_h591fd6f14c4460a9dd03852cf5ef8d9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "txtReEnterPassOnTextChange",
+            "display": "txtReEnterPassOnTextChange",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

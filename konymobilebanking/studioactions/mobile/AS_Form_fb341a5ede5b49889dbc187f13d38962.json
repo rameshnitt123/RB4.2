@@ -1,0 +1,24 @@
+{
+    "AS_Form_fb341a5ede5b49889dbc187f13d38962": {
+        "id": "AS_Form_fb341a5ede5b49889dbc187f13d38962",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPFMSelectTimePeriod",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dd3dd673296b4f01a8bf212db6da9294"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b681f1637799482989365592eede5149",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

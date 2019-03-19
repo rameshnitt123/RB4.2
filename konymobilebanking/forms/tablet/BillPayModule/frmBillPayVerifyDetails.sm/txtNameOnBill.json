@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "31dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s04932c0dfa54d5c9501c57c5366fd62",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "android": {
+        "bottom": "",
+        "centerX": "",
+        "centerY": "",
+        "maxHeight": "",
+        "maxWidth": "",
+        "minHeight": "",
+        "minWidth": "",
+        "padding": [
+            8,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": true,
+        "right": "",
+        "zIndex": 1
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sdc14f85f7984e13bb5ed2544fe80fe6",
+    "id": "txtNameOnBill",
+    "info": null,
+    "ipad": {},
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "jb4ac34d8b05453a9dd9d2362bc3e1da",
+    "maxtextlength": "",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "flxName",
+    "pf": "frmBillPayVerifyDetails",
+    "placeholderi18n": "kony.mb.cardManage.enterHere",
+    "placeholderskin": "s38a3fe90f7547a3809343bf938b77d1",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

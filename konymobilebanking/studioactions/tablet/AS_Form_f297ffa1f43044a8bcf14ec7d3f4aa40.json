@@ -1,0 +1,28 @@
+{
+    "AS_Form_f297ffa1f43044a8bcf14ec7d3f4aa40": {
+        "id": "AS_Form_f297ffa1f43044a8bcf14ec7d3f4aa40",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrollDOB",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f0253374550147b3b4da4b30bf8b6b18"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___be78e8fcf1ac4050a8f59582efcb04b9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

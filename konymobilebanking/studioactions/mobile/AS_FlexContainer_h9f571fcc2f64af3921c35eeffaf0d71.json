@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_h9f571fcc2f64af3921c35eeffaf0d71": {
+        "id": "AS_FlexContainer_h9f571fcc2f64af3921c35eeffaf0d71",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileChangeAndUpdatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e9a6190c81034d669cce3baee3b28802"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fc4712ba9a474b28b735e5a4f21d48a6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgPwdVisiblityToggleOnClick",
+            "display": "imgPwdVisiblityToggleOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

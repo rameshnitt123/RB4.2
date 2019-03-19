@@ -1,0 +1,23 @@
+{
+    "AS_Form_d01b3a19bd50480bac0b7495a52c04d7": {
+        "id": "AS_Form_d01b3a19bd50480bac0b7495a52c04d7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageTravelStartDate",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jd7cec36ff414560af033fde30d3846a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_d11b989e52814d1faa95f437ad0442a5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "Default": {
+        "contentAlignment": 5
+    },
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s187e41b14fe4ee8a6ceafeccd26702a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 2,
+    "id": "rtxCheckNumber",
+    "info": null,
+    "ipad": {
+        "render": true
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ibc897d65c2d4fbd9eb4d538089588e6",
+    "linkskin": "s9b05ba7658b47b6a5d474eb249d11b1",
+    "name": "kony.ui.RichText",
+    "parent": "flxCheckNo",
+    "pf": "frmTransactionDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": true
+    },
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "windows8": {
+        "render": true
+    },
+    "zindex": 100
+}

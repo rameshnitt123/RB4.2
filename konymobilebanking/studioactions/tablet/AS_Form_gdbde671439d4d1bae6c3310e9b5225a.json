@@ -1,0 +1,28 @@
+{
+    "AS_Form_gdbde671439d4d1bae6c3310e9b5225a": {
+        "id": "AS_Form_gdbde671439d4d1bae6c3310e9b5225a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferFrequency",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d410ac2777fd4199a729446d1817c21d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e52a9f214f644f81b5723bb2f21da640",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

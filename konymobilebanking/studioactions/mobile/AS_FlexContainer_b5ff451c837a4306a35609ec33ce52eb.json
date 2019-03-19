@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_b5ff451c837a4306a35609ec33ce52eb": {
+        "id": "AS_FlexContainer_b5ff451c837a4306a35609ec33ce52eb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c65199a8db92411ea7d36ce3b164d1b1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgPwdVisiblityToggleOnClick",
+            "display": "imgPwdVisiblityToggleOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

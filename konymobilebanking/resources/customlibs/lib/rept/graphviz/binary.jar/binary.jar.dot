@@ -1,0 +1,7 @@
+digraph binary_dependencies {
+  node [shape = box, fontsize=10.0];
+  binary -> Task;
+  binary -> httpclient_4_4_1_1;
+  binary -> konylogger;
+  binary -> velocity_1_7;
+}

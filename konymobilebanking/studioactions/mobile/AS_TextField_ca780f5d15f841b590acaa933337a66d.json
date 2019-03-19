@@ -1,0 +1,26 @@
+{
+    "AS_TextField_ca780f5d15f841b590acaa933337a66d": {
+        "id": "AS_TextField_ca780f5d15f841b590acaa933337a66d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterDOB",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fc40338e7ea64c55bfbabdaf9eacd83a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTextChange_c2885dd1f1c74153aa5ebe8cf57dc232",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.matchPasswords();",
+            "callbackType": null
+        }]
+    }
+}

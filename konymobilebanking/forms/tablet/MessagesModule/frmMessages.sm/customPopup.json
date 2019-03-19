@@ -1,0 +1,103 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_ipad_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_spa_": {},
+    "_spaandroidtablet_": {},
+    "_spaipad_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "customPopup": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "f294ac5809214c61b2e265e9baf31718",
+                "srcKUID": "h9ac5b382d544275a4b4bc11077c73df",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPopupWrapper": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ib0d3236ad334ce589d171301550a7ff",
+                "srcKUID": "a4cd7b4f71a74f95bc1fed11d90757ff",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgPopup": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bbc5edd071464bb3a1b85173a5a5e276",
+                "srcKUID": "hd5bcf9d97384d8fa20f1c37a8e7668f",
+                "wType": "Image"
+            },
+            "src": "imagedrag.png"
+        },
+        "lblPopup": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c7c5bd5cf7554d2daf77df308a9328c8",
+                "srcKUID": "i3b2a478642f474da86a1418200b18af",
+                "wType": "Label"
+            }
+        }
+    },
+    "id": "customPopup",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "f294ac5809214c61b2e265e9baf31718",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxPopup",
+    "pf": "frmMessages",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "sourceUserWidget": "h9ac5b382d544275a4b4bc11077c73df",
+    "wType": "UserWidgetInstance"
+}

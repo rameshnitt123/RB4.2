@@ -1,0 +1,30 @@
+{
+    "AS_Button_ed7b851da4f44619b16faebe734997c0": {
+        "id": "AS_Button_ed7b851da4f44619b16faebe734997c0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersStartDateEurope",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e24fef2f6f104f11aa5033593f4bf954"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f0f535136f05454a858238f1dd50eb1e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransfersEndDateEurope",
+            "friendlyName": "frmTransfersEndDateEurope",
+            "formKUID": "d1d1df6fb2a64a46b0c27dd16facaf67",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModuleEurope"
+        }]
+    }
+}

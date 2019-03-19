@@ -1,0 +1,28 @@
+{
+    "AS_Form_bc3bf42e570e41f9bce2af69105b7b5a": {
+        "id": "AS_Form_bc3bf42e570e41f9bce2af69105b7b5a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardLessHomeQR",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce3b35c45d0e4656a62a1915b0cf6f47"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a61baf6618c44393967783693f07c283",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

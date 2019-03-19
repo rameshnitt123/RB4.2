@@ -1,0 +1,138 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgAcc": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "linkedin_logo.png"
+            },
+            "lblProductInfo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Classic Checking Account"
+            },
+            "lblProductTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Classic Checking Account"
+            }
+        },
+        {
+            "imgAcc": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "linkedin_logo.png"
+            },
+            "lblProductInfo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Classic Checking Account"
+            },
+            "lblProductTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Classic Checking Account"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "57.27%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "01",
+    "disabledSkins": {
+        "widgetSkin": "s199adfc834f4591a9d6267e5ff892c0"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segSelectedProducts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": true
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f4c24d2fab0e4b91a0aa14c98cca01fe",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_0a379a49d18a640.png",
+    "pageondotimage": "pageondot_0b3cfcb006e5740.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMain",
+    "pf": "frmNAOAck",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ad916452b9e740b2b0f76dd2a6ae897d",
+    "rowcounter": 1,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "sb40e93c789242d088af0b707f338654",
+    "rowtemplate": "flxContainer",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAccountStat": "flxAccountStat",
+        "flxContainer": "flxContainer",
+        "imgAcc": "imgAcc",
+        "lblProductInfo": "lblProductInfo",
+        "lblProductTitle": "lblProductTitle"
+    },
+    "zindex": 1
+}

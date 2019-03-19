@@ -1,0 +1,22 @@
+{
+    "AS_BarButtonItem_c35fa37c09474a45883979e66193fbf1": {
+        "id": "AS_BarButtonItem_c35fa37c09474a45883979e66193fbf1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g6a645949918483d918da6ef015be28e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnRightHandle",
+            "display": "btnRightHandle",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

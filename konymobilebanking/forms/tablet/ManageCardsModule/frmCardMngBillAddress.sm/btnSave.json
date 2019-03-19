@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc0a6282388545f1ac77e36ac7db9b3f",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "53%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s99e800092424bcebb768c1ed7a3260e",
+    "id": "btnSave",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a2ec08ab2ce4490da8d1cc008c7554ab",
+    "name": "kony.ui.Button",
+    "parent": "flxLeftSide",
+    "pf": "frmCardMngBillAddress",
+    "texti18n": "kony.mb.cardManage.update",
+    "wType": "Button",
+    "zindex": 1
+}

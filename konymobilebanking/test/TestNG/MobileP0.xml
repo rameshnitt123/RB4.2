@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MobileBanking_P0" configfailurepolicy="continue">
+  <test name="MobileBankingMobile_P0">
+     <classes>
+     <class name="test.MobileBanking.tests.TestfrmLogIn">
+				<methods>					
+					<include name="login"/>
+				</methods>
+      </class>
+      
+     <!--  <class name="test.MobileBanking.tests.TestfrmTransfers">
+				<methods>
+					<include name="transferMoney"/>
+					<include name="cancelInConfirmTransfer"/>
+					<include name="checkPayAPerson"/>
+					<include name="cancelsInPayAPerson"/>
+					<include name="addNewPayeeInPayAPerson"/> 
+					<include name="addDomesticAccount"/>
+					<include name="addOtherBankAccount"/> 
+					<include name="addInternationalAccount"/> 
+				
+				</methods>
+      </class>  
+      <class name="test.MobileBanking.tests.TestDirectMarketing">
+				<methods>
+					<include name="preLoginAdCheck"/>
+					<include name="postloginAdSwipe"/> 
+					<include name="infeedBannerAd"/>
+				</methods>
+      </class> 
+      
+     <class name="test.MobileBanking.tests.TestfrmCardLessCash">
+				<methods>
+				    <include name="CashWithdrawForSelf"/>	 
+					<include name="CashWithdrawForOthers"/>	
+					<include name="CancelCashWithdraw"/>  
+					<include name="isAmountValidInCardless"/>
+					<include name="isAmountSufficientInCardless"/>	 
+					<include name="validatesecureCodeDetails"/>
+				    <include name="editAmountAndConfirmForSelfFlow"/> 
+				    <include name="editAccountAndConfirmForSelfFlow"/>
+					<include name="secureCodeOptionsInvisibleToSelfFlow"/>  
+					
+				</methods>
+      </class> 
+      
+      <class name="test.MobileBanking.tests.TestfrmSettings">
+				<methods>
+					<include name="checkAccountPreviewON"/>
+					<include name="checkAccountPreviewOFF"/> 
+					<include name="checkAccountPreview"/>
+					<exclude name="checkDeviceRegistrationON"/>				
+					<exclude name="checkDeviceDeregistrationOFF"/>					
+					<include name="checkAlertsOn"/>
+					<include name="checkAlertsOff"/>
+					
+				</methods>
+      </class> 
+      <class name="test.MobileBanking.tests.TestfrmMessages">
+				<methods>
+					<include name="newMessage"/>
+					<include name="deleteMessageInInbox"/>
+					<include name="deleteMessageInDeleted"/>
+					<include name="replyMessageinInbox"/>
+					<include name="deleteMessageInInboxbySwiping"/>
+				</methods>
+      </class> 
+      <class name="test.MobileBanking.tests.TestfrmSupport">
+				<methods>
+					<include name="checkSupportOptions"/>
+					<include name="checkSupportFAQs"/> 
+					<include name="checkSupportTermsandConditions"/>
+					<include name="checkSupportPrivacyPolicy"/>				
+					<include name="checkSupportCallUs"/>
+					
+				</methods>
+      </class> 
+      
+      <class name="test.MobileBanking.tests.TestfrmEnroll">
+				<methods>
+					<include name="checkEnroll"/>
+				</methods>
+      </class> -->
+      
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,29 @@
+{
+    "AS_Image_d46d7d4352e04a339288eedab70c301b": {
+        "id": "AS_Image_d46d7d4352e04a339288eedab70c301b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterDOB",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fc40338e7ea64c55bfbabdaf9eacd83a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_f9c8b65ca537434dbe084b4a0f576b1e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.maskUnmaskPassword();",
+            "callbackType": null
+        }]
+    }
+}

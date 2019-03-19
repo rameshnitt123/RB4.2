@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_g9adafc37f694fada06c32b511eb566d": {
+        "id": "AS_FlexContainer_g9adafc37f694fada06c32b511eb566d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgot",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fabc653950774f86a578cb382970af65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a910c16d939c477bb7f1e96dbbd16598",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var ntf = new kony.mvc.Navigation(\"frmLogin\");\nntf.navigate();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

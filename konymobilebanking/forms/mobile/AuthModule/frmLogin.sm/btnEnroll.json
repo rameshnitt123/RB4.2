@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33.51%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9552f12bf304e2594e7371303974876",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.45%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "ENROLL"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sae2e4475aa3419b8c89d14cf90383cb",
+    "id": "btnEnroll",
+    "ide_onClick": "AS_Button_f7fa01f6196a476bab10b8b1a1f46fd6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ed569f6a4b4045cd8f288a1272f455d0",
+    "name": "kony.ui.Button",
+    "parent": "flxFooter",
+    "pf": "frmLogin",
+    "texti18n": "kony.mb.login.enroll",
+    "wType": "Button",
+    "zindex": 1
+}

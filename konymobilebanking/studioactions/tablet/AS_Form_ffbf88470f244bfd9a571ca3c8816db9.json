@@ -1,0 +1,28 @@
+{
+    "AS_Form_ffbf88470f244bfd9a571ca3c8816db9": {
+        "id": "AS_Form_ffbf88470f244bfd9a571ca3c8816db9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileEnterEmailID",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i2fe8083f16f4e2c817cfb9f5c86e335"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b1d83221670245949b0af604f1e9cac1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

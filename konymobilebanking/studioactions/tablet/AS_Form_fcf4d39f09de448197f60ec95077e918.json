@@ -1,0 +1,23 @@
+{
+    "AS_Form_fcf4d39f09de448197f60ec95077e918": {
+        "id": "AS_Form_fcf4d39f09de448197f60ec95077e918",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotCreatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c16bb3b3f5a64ef8848944a39d83f909"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_aa94d584b7fb4a05a15fb5587aef6249",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.callOnPreShow();",
+            "callbackType": null
+        }]
+    }
+}

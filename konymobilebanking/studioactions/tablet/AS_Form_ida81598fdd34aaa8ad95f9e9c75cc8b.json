@@ -1,0 +1,28 @@
+{
+    "AS_Form_ida81598fdd34aaa8ad95f9e9c75cc8b": {
+        "id": "AS_Form_ida81598fdd34aaa8ad95f9e9c75cc8b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPreferencesResetStep2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i7fa4aa3957e48c78ae1f383c455cbbe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___db351c55bbf749b48c1c3d8be1b220bf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

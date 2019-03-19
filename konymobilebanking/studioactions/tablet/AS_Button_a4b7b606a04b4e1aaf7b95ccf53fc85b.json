@@ -1,0 +1,23 @@
+{
+    "AS_Button_a4b7b606a04b4e1aaf7b95ccf53fc85b": {
+        "id": "AS_Button_a4b7b606a04b4e1aaf7b95ccf53fc85b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterDOB",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f02a8866bb4743c7bb4782a195904b0c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ba72534ef3594db5a404648a8a9b46f9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(3);",
+            "callbackType": null
+        }]
+    }
+}

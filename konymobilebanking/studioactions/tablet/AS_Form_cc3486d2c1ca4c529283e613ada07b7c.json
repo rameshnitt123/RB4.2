@@ -1,0 +1,28 @@
+{
+    "AS_Form_cc3486d2c1ca4c529283e613ada07b7c": {
+        "id": "AS_Form_cc3486d2c1ca4c529283e613ada07b7c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileChangeAndUpdatePassword",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ba6229b517cb45989cd9a7d0f4b22c7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ha3aabd73abe4eaeb7774d552d1786b8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

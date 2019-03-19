@@ -1,0 +1,28 @@
+{
+    "AS_Form_hba220fa52e44666a2d63e1b1571f71e": {
+        "id": "AS_Form_hba220fa52e44666a2d63e1b1571f71e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileSelectLocation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2310f59ea7b452285136aa4a360b363"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f7d53a7054c14d3fb73175c8b620b7b8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

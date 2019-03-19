@@ -1,0 +1,201 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "imgCheckbox2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "imgCheckbox3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cadillac Sedan"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Buick "
+            },
+            "lblOption3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ford Explorer SUV"
+            },
+            "lblQuestion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Which of these cars have you owned in the past?"
+            }
+        },
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "imgCheckbox2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "imgCheckbox3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cadillac Sedan"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Buick "
+            },
+            "lblOption3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ford Explorer SUV"
+            },
+            "lblQuestion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Which of these cars have you owned in the past?"
+            }
+        },
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "imgCheckbox2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "imgCheckbox3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cadillac Sedan"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Buick "
+            },
+            "lblOption3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ford Explorer SUV"
+            },
+            "lblQuestion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Which of these cars have you owned in the past?"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDependents",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": false,
+    "kuid": "b228433b0f7b4e53a0cea8b818bd5539",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxDependents",
+    "pf": "frmOBSecurityQuestionsNew",
+    "retainselection": false,
+    "rowTemplateId": "d148cc92e0264d2cbc342be17478b0f6",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxSecurityQuestion",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxCheckbox": "flxCheckbox",
+        "flxCheckbox2": "flxCheckbox2",
+        "flxCheckbox3": "flxCheckbox3",
+        "flxGap": "flxGap",
+        "flxMain": "flxMain",
+        "flxOption1": "flxOption1",
+        "flxOption2": "flxOption2",
+        "flxOption3": "flxOption3",
+        "flxSecurityQuestion": "flxSecurityQuestion",
+        "flxSeparator1": "flxSeparator1",
+        "flxSeparator2": "flxSeparator2",
+        "imgCheckbox": "imgCheckbox",
+        "imgCheckbox2": "imgCheckbox2",
+        "imgCheckbox3": "imgCheckbox3",
+        "lblOption1": "lblOption1",
+        "lblOption2": "lblOption2",
+        "lblOption3": "lblOption3",
+        "lblQuestion": "lblQuestion"
+    },
+    "zindex": 3
+}

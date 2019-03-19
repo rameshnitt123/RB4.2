@@ -1,0 +1,24 @@
+{
+    "AS_Form_eb6bc99b89594eccbdfc7240e04c0e5f": {
+        "id": "AS_Form_eb6bc99b89594eccbdfc7240e04c0e5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersRecurrence",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dc859d3a382b431a96ebc6b38e6d92fd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d11e04841db146b8b036e0bf7cc918ae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

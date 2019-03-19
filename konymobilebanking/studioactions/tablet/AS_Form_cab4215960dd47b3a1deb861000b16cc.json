@@ -1,0 +1,28 @@
+{
+    "AS_Form_cab4215960dd47b3a1deb861000b16cc": {
+        "id": "AS_Form_cab4215960dd47b3a1deb861000b16cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileEditAddressList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e77f227444ca47eebc984339e559c6d9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ga1fcc2830964fc9abc82eb448f30961",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

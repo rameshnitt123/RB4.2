@@ -1,0 +1,23 @@
+{
+    "AS_Form_eee73f61f1d246baa627a49fec1b76de": {
+        "id": "AS_Form_eee73f61f1d246baa627a49fec1b76de",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBFinancialInfoAnnualIncome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aa1cb8fb7c834f36a45556c125f576ad"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_bfe69a6274464f5a81537ee07e98d875",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "callbackType": null
+        }]
+    }
+}

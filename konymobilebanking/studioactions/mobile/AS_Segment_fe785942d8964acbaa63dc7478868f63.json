@@ -1,0 +1,24 @@
+{
+    "AS_Segment_fe785942d8964acbaa63dc7478868f63": {
+        "id": "AS_Segment_fe785942d8964acbaa63dc7478868f63",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfd8d167d39f4048b325cec1c7aaa4dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b781cc8ee0da41b8bb8e444a36d3dce2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"on pusgh\");\n// var object = this.view.segTransactions.getFirstVisibleRow();\"\n// if((object.sectionIndex===0)&&(object.rowIndex===0))\n// {\n//   this.view.flxMainContainer.enableScrolling=true;\n//   this.view.forceLayout();\n// }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

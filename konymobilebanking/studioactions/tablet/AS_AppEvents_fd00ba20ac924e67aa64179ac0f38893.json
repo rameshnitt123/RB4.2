@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_fd00ba20ac924e67aa64179ac0f38893": {
+        "id": "AS_AppEvents_fd00ba20ac924e67aa64179ac0f38893",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cff31e3c7a0d424f9fb996d57ea3fbfb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var MenuHandler =  applicationManager.getMenuHandler();\nreturn MenuHandler.appForceTouchCallBack(eventobject);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

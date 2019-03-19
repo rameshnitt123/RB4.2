@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_dbee6bfeacb24148a255aea28b1b76bb": {
+        "id": "AS_FlexContainer_dbee6bfeacb24148a255aea28b1b76bb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotMain",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fe21355b9d46462a8db787248e2ccf00"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a3b1d313a7094cefab4395b73a1efe2f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "friendlyName": "frmLogin",
+            "formKUID": "h65c10a2cabc493c8ac9ef9c703d1486",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa133fc194df44e8bf196f4da21e6047",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "androidwearos": {
+        "needAppMenu": false
+    },
+    "canUpdateUI": true,
+    "children": [
+        "flxHeader",
+        "flxMain"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "frmDepositToCDController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPadMini",
+    "displayorientation": 1,
+    "enabledforidletimeout": true,
+    "friendlyName": "frmDepositToCDTab",
+    "id": "frmDepositToCD",
+    "ide_init": "AS_Form_a138e90c07554ec3943e6e7f40223aa7",
+    "ide_preShow": "AS_Form_a5ab6e3621b842f18fdad514083ceb06",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarAttributes": {
+                "backBarButtonItem": {
+                    "enabled": true,
+                    "info": {
+                        "title": ""
+                    },
+                    "kuid": "f85525d414b5438fa0b7c969d1e4ccf6",
+                    "style": 0,
+                    "tintColor": "f7f7f700",
+                    "type": 1
+                },
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "ea5739ca9fdb44898a2fa3f27350be17",
+                "leftBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "AS_BarButtonItem_ce02138ef77d40f082103063365de299",
+                        "info": {
+                            "image": "backbutton.png"
+                        },
+                        "kuid": "a9905e9054c34b77adc7d63be1b1574a",
+                        "onClick": "AS_BarButtonItem_ce02138ef77d40f082103063365de299",
+                        "style": 0,
+                        "tintColor": "f7f7f700",
+                        "type": 0
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "AS_BarButtonItem_aabb56dcb3c845c2a85cb1c003206d8c",
+                        "info": {
+                            "title": "",
+                            "titlei18n": "kony.tab.common.cancel"
+                        },
+                        "kuid": "be5180b505d9415999e4c96e03886fbd",
+                        "onClick": "AS_BarButtonItem_aabb56dcb3c845c2a85cb1c003206d8c",
+                        "style": 0,
+                        "tintColor": "ffffff00",
+                        "type": 1
+                    }
+                ],
+                "tintColor": "f7f7f700",
+                "translucent": false
+            }
+        },
+        "titleBar": true
+    },
+    "iphone": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4
+        },
+        "titleBar": false
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "needAppMenu": false
+    },
+    "kuid": "af89d65e8e86463bbab91ba984467c92",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": false,
+    "paddinginpixel": false,
+    "platform": "ipad",
+    "prevDevice": "iPad3",
+    "prevPlatform": "ipad",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPadMini",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spaandroidtablet": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
+    "texti18n": "kony.tab.checkDeposit.newCheckDeposit",
+    "titleBarSkin": "s7ae0ad2a25049f99b63fecb64aa6270",
+    "titlebar": false,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "needAppMenu": false
+    },
+    "winphone8": {
+        "needAppMenu": false
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Image_f4607c89362d4f5196086ad3e38bb2e5": {
+        "id": "AS_Image_f4607c89362d4f5196086ad3e38bb2e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmForgotCreatePassword",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fd4ec4e85a614e788aa27f17ad94a6c5"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

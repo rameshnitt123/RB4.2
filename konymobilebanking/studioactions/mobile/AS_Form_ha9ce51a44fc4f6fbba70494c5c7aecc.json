@@ -1,0 +1,23 @@
+{
+    "AS_Form_ha9ce51a44fc4f6fbba70494c5c7aecc": {
+        "id": "AS_Form_ha9ce51a44fc4f6fbba70494c5c7aecc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferAmount",
+            "type": "forms",
+            "platform": null,
+            "KUID": "af809a63989946cea079277475373101"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_a4cd426487e14ccd93f82464edb330fb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

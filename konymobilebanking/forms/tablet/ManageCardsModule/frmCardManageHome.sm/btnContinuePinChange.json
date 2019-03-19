@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s088e152fced4d9aac2705f9edf2645b",
+    "_text_": "CONTINUE",
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s99e800092424bcebb768c1ed7a3260e",
+    "id": "btnContinuePinChange",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ae39be63ab484d0daf80d5f05cf4593e",
+    "name": "kony.ui.Button",
+    "parent": "flxNewPinContainer",
+    "pf": "frmCardManageHome",
+    "texti18n": "kony.mb.common.continue",
+    "wType": "Button",
+    "zindex": 1
+}

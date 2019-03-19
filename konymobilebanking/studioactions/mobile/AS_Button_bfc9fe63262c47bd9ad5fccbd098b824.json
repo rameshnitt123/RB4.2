@@ -1,0 +1,21 @@
+{
+    "AS_Button_bfc9fe63262c47bd9ad5fccbd098b824": {
+        "id": "AS_Button_bfc9fe63262c47bd9ad5fccbd098b824",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d57f94fa48f94a6a9e0e44e6b09a4b80",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnContinueOnClick",
+            "display": "btnContinueOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

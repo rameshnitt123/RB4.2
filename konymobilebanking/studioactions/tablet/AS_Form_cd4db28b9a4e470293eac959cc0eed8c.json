@@ -1,0 +1,28 @@
+{
+    "AS_Form_cd4db28b9a4e470293eac959cc0eed8c": {
+        "id": "AS_Form_cd4db28b9a4e470293eac959cc0eed8c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardLessWithdrawQR",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i4c62c40598f4e37a63308f3c0855fc9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j0ef1d51232248829f4d7762fa8addaa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

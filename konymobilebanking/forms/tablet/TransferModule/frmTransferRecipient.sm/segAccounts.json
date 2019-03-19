@@ -1,0 +1,501 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "citibank_2.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Checking"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.savingStatus",
+                "text": "Saving Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank of America"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bankofamerica_1.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Little John"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.checkingStatus",
+                "text": "Checking Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Citi Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chasebank_1.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sophie Dawson"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.savingStatus",
+                "text": "Saving Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Chase Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "citibank_2.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Checking"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.checkingStatus",
+                "text": "Checking Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank of America"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bankofamerica_1.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Little John"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.savingStatus",
+                "text": "Saving Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Citi Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chasebank_1.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "John Bailey"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.checkingStatus",
+                "text": "Checking Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Chase Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "citibank_2.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Checking"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.savingStatus",
+                "text": "Saving Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank of America"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bankofamerica_1.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Little John"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.checkingStatus",
+                "text": "Checking Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Citi Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chasebank_1.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "John Bailey"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.savingStatus",
+                "text": "Saving Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Chase Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "imgBank": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bankofamerica_1.png"
+            },
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_4.png"
+            },
+            "imgError": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag_5.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Checking"
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "...2343"
+            },
+            "lblAccountStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.tab.Transfers.checkingStatus",
+                "text": "Checking Account"
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank of America"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAccounts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i0def86c363347f09ada1959fc781f9e",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_8.png",
+    "pageondotimage": "pageondot_8.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmTransferRecipient",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "g0180ab175eb4395bfca56afcaf4676c",
+    "rowcounter": 9,
+    "rowfocusskin": "sd2d67c791804f578820295b84a50b08",
+    "rowskin": "sd2d67c791804f578820295b84a50b08",
+    "rowtemplate": "flxAccounts1",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAccountName": "flxAccountName",
+        "flxAccounts1": "flxAccounts1",
+        "flxBank": "flxBank",
+        "flxDelete": "flxDelete",
+        "flxMain": "flxMain",
+        "flxSeparator": "flxSeparator",
+        "imgBank": "imgBank",
+        "imgDelete": "imgDelete",
+        "imgError": "imgError",
+        "lblAccountBal": "lblAccountBal",
+        "lblAccountName": "lblAccountName",
+        "lblAccountNumber": "lblAccountNumber",
+        "lblAccountStatus": "lblAccountStatus",
+        "lblBankName": "lblBankName",
+        "lblDelete": "lblDelete"
+    },
+    "zindex": 100
+}

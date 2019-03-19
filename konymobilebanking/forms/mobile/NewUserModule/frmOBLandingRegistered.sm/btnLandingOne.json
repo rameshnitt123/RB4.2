@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s30d39ca8c744d388569c1d52d0824b6",
+    "_text_": "LOGIN ",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "LOGIN "
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sd85a0f475ff4b3b9f0a5e4b82f68213",
+    "id": "btnLandingOne",
+    "info": null,
+    "isvisible": true,
+    "kuid": "i031d51c332b45208549260ad6e5af62",
+    "name": "kony.ui.Button",
+    "parent": "flxLanding",
+    "pf": "frmOBLandingRegistered",
+    "texti18n": "kony.mb.OnBoarding.Login",
+    "wType": "Button",
+    "zindex": 1
+}

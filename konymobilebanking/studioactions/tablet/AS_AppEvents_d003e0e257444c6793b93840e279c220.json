@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_d003e0e257444c6793b93840e279c220": {
+        "id": "AS_AppEvents_d003e0e257444c6793b93840e279c220",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d8b0aba770464d77b4333743e3c80a4c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "applicationManager.postAppInitiate();\nkony.application.setApplicationProperties({\n  \"statusBarForegroundColor\": \"000000\"\n});",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

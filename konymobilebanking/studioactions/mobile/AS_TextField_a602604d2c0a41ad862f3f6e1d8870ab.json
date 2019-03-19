@@ -1,0 +1,29 @@
+{
+    "AS_TextField_a602604d2c0a41ad862f3f6e1d8870ab": {
+        "id": "AS_TextField_a602604d2c0a41ad862f3f6e1d8870ab",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ea668f521007462185826eacf5716d10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_ac2c6aa2785644619cbc08a98857eea9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSkinsOfUsernameAndPwd",
+            "display": "resetSkinsOfUsernameAndPwd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

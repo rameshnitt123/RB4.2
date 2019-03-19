@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        60,
+        3,
+        1,
+        3
+    ],
+    "_placeholder_": "",
+    "_skin_": "s8dac453d4974469834894d3edeb67a4",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "71.60%"
+    },
+    "android": {
+        "padding": [
+            35,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "scf6e1dc6b8645fd8817b3645bc2f7bd",
+    "id": "tbxSearch",
+    "info": null,
+    "ipad": {
+        "padding": [
+            60,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "keyboardActionLabel": 1,
+            "showClearButton": false,
+            "showCloseButton": true
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardactionlabel": 3,
+    "keyboardtype": "A",
+    "kuid": "c817cdf5972b47ca885b38a16f2ba7cd",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxSearchMain",
+    "pf": "frmTransferRecipient",
+    "placeholderi18n": "kony.mb.ExternalAccounts.Search",
+    "placeholderskin": "sa89fe9d457e47049103b65ab795c1e4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "texti18n": "kony.mb.ExternalAccounts.Search",
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

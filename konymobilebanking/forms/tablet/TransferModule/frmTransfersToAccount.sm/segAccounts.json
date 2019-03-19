@@ -1,0 +1,505 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Transactions"
+                }
+            },
+            [
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Transactions"
+                }
+            },
+            [
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Available"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$1 300.829"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My_account..."
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "5464"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bank"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "15",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segAccounts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jddfb5515c6842eabf491fd9932c432b",
+    "masterdata": {},
+    "maxheight": {
+        "type": "string",
+        "value": "715dp"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSelectAccountLeft",
+    "pf": "frmTransfersToAccount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "gbc69b4a3ae04de3a03e086ed471fa02",
+    "rowcounter": 5,
+    "rowfocusskin": "sd2d67c791804f578820295b84a50b08",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxAccountsNoImage",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionHeaderTemplateId": "g4fce1a596714490b9577496fe0d8408",
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "sectionheadertemplate": "flxTransHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAccountName": "flxAccountName",
+        "flxAccountsNoImage": "flxAccountsNoImage",
+        "flxDelete": "flxDelete",
+        "flxMain": "flxMain",
+        "flxSeparator": "flxSeparator",
+        "flxShadowBottom": "flxShadowBottom",
+        "flxTransHeader": "flxTransHeader",
+        "flxTypeOneShadow": "flxTypeOneShadow",
+        "imgDelete": "imgDelete",
+        "imgUpArrow": "imgUpArrow",
+        "lblAccountBal": "lblAccountBal",
+        "lblAccountBalValue": "lblAccountBalValue",
+        "lblAccountName": "lblAccountName",
+        "lblAccountNumber": "lblAccountNumber",
+        "lblBankName": "lblBankName",
+        "lblDelete": "lblDelete",
+        "lblHeader": "lblHeader"
+    },
+    "zindex": 1
+}

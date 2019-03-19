@@ -1,0 +1,24 @@
+{
+    "AS_Form_fa68f23494284ef4ad28b2ff769388a0": {
+        "id": "AS_Form_fa68f23494284ef4ad28b2ff769388a0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayReEnterRelationNumber",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cfbd8eefc15a48159905b9a357d61706"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hd86ec53166b4efea019969640df1047",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.frmPreshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

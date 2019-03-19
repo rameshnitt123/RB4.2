@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_skin_": "sad545ac4ec344ba816f76efbf902746",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "android": {},
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb9d8ff41b9648fc8db92de6af8db701",
+    "id": "btnEmail",
+    "info": null,
+    "ipad": {},
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ce08aca6f75244afaab89061fc628353",
+    "name": "kony.ui.Button",
+    "parent": "flxLeftContent",
+    "pf": "frmCardLessContactType",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.devReg.emailId",
+    "wType": "Button",
+    "zindex": 1
+}

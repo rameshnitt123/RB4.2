@@ -1,0 +1,114 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "customPopup": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "d59d28067bf842ab873f53dddd90da58",
+                "srcKUID": "h9ac5b382d544275a4b4bc11077c73df",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPopupWrapper": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jac3a29c37af4b078cc2455311b2e0e2",
+                "srcKUID": "a4cd7b4f71a74f95bc1fed11d90757ff",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgPopup": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "idc8ccb559724bab8431d12957d1c007",
+                "srcKUID": "hd5bcf9d97384d8fa20f1c37a8e7668f",
+                "wType": "Image"
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "30%"
+                }
+            },
+            "src": "confirmation.png",
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            }
+        },
+        "lblPopup": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d81bd6f5b69748398edf63e2b7791dde",
+                "srcKUID": "i3b2a478642f474da86a1418200b18af",
+                "wType": "Label"
+            },
+            "i18n_text": "kony.tab.common.transactionMessage",
+            "text": "Payee was added successfully"
+        }
+    },
+    "id": "customPopup",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "d59d28067bf842ab873f53dddd90da58",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxPopup",
+    "pf": "frmEnrollDOB",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "h9ac5b382d544275a4b4bc11077c73df",
+    "wType": "UserWidgetInstance"
+}

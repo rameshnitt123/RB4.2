@@ -1,0 +1,142 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgAttachment": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "attachment.png"
+            },
+            "imgDownload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "download.png"
+            },
+            "lblAttachment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Statement Dec.pdf"
+            }
+        },
+        {
+            "imgAttachment": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "attachment.png"
+            },
+            "imgDownload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "download.png"
+            },
+            "lblAttachment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Statement Dec.pdf"
+            }
+        },
+        {
+            "imgAttachment": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "attachment.png"
+            },
+            "imgDownload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "download.png"
+            },
+            "lblAttachment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Statement Dec.pdf"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "-10dp"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "460dp"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {
+        "rowSkin": "s18472307db04580a2a9cb6f4681ebec"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAttachments",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "d60d07e5d2744ebe941f93285b8db694",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxNewMessage",
+    "pf": "frmNewMessage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "e61de302e3f34529a0db88d4f3761f4e",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowtemplate": "segAttachmentMain1",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAttachment": "flxAttachment",
+        "flxDownload": "flxDownload",
+        "imgAttachment": "imgAttachment",
+        "imgDownload": "imgDownload",
+        "lblAttachment": "lblAttachment",
+        "segAttachmentMain1": "segAttachmentMain1"
+    },
+    "zindex": 1
+}

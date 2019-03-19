@@ -1,0 +1,23 @@
+{
+    "AS_Button_c8033290accb4f7d8cc79bcb8fd79d79": {
+        "id": "AS_Button_c8033290accb4f7d8cc79bcb8fd79d79",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterCVV",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb884581c9154390af4af6572938d7c4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_fc6100c6cc8e44cfa4ddfb77de33fceb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(1);",
+            "callbackType": null
+        }]
+    }
+}

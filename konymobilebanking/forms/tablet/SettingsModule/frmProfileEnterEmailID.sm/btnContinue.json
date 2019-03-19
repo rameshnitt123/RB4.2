@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6adb94df9354eec99d1923e3c90344f",
+    "_text_": "",
+    "_top_": {
+        "type": "number",
+        "value": "175"
+    },
+    "_width_": {
+        "type": "number",
+        "value": "408"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sf9c4fb846f84f5ab72e34fc6432736a",
+    "id": "btnContinue",
+    "info": null,
+    "isvisible": true,
+    "kuid": "hf90be29bc704a28959e7f71848dccb7",
+    "name": "kony.ui.Button",
+    "parent": "flxMainContainer",
+    "pf": "frmProfileEnterEmailID",
+    "texti18n": "kony.mb.Profile.UpdateChanges",
+    "wType": "Button",
+    "zindex": 1
+}

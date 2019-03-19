@@ -1,0 +1,29 @@
+{
+    "AS_Image_e5f8824cb8e143e799651ab2cbbe5969": {
+        "id": "AS_Image_e5f8824cb8e143e799651ab2cbbe5969",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmP2pAmount",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a303dc034db740dfbc725d9a524fa6fd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_h961098720604855874fdbcf87de212c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.clearKeypadChar();",
+            "callbackType": null
+        }]
+    }
+}

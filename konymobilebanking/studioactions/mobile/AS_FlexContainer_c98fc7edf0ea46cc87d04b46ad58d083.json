@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_c98fc7edf0ea46cc87d04b46ad58d083": {
+        "id": "AS_FlexContainer_c98fc7edf0ea46cc87d04b46ad58d083",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2pRecurrence",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fc1b3340bcf740449400a9ea5a841623"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b28abd8764bb401a8869e367dde74a16",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var payeeMod = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"PayAPersonModule\");\npayeeMod.presentationController.commonFunctionForNavigation(\"frmTransfersDuration\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

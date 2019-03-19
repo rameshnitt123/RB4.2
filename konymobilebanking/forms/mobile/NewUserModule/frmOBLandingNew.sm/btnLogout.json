@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s7a7b7324d3d425babed0917331f386c",
+    "_text_": "Logout",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "accessibilityconfig": {
+        "a11yHint": "Click on Log Out to log out of your account",
+        "a11yLabel": "LOGOUT"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 2,
+    "disabledSkins": {
+        "focusSkin": "s31beeb1acb948a9ab9cfb48513042ca"
+    },
+    "displaytext": true,
+    "id": "btnLogout",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ff989c8ae32046a490f3b7d0d997e7f8",
+    "name": "kony.ui.Button",
+    "parent": "flxHeader",
+    "pf": "frmOBLandingNew",
+    "texti18n": "kony.mb.common.logoutCaps",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6.25%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "6.25%"
+    },
+    "_skin_": "sc61e719c72447bf9f14db24bea23eb3",
+    "_text_": "CALL BRANCH",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sc61e719c72447bf9f14db24bea23eb3",
+    "id": "btnCallBranch",
+    "info": null,
+    "isvisible": true,
+    "kuid": "gf5999b9aa1f4ffca41c69798a02cf5d",
+    "name": "kony.ui.Button",
+    "parent": "flxBtnCallBranch",
+    "pf": "frmLocation",
+    "texti18n": "kony.mb.Location.CallBranch",
+    "wType": "Button",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "CALL BRANCH"
+    }
+}

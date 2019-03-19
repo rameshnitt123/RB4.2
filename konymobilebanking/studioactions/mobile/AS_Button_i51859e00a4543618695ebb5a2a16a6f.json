@@ -1,0 +1,23 @@
+{
+    "AS_Button_i51859e00a4543618695ebb5a2a16a6f": {
+        "id": "AS_Button_i51859e00a4543618695ebb5a2a16a6f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBCreditCheck",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b3afa378678e4ca3be10897a0b1fa246"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b686d1c69849455d93425cfc6018cd78",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(9);",
+            "callbackType": null
+        }]
+    }
+}

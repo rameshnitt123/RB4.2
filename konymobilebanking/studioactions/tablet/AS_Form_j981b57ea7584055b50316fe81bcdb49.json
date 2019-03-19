@@ -1,0 +1,28 @@
+{
+    "AS_Form_j981b57ea7584055b50316fe81bcdb49": {
+        "id": "AS_Form_j981b57ea7584055b50316fe81bcdb49",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileAddAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g565bd5ec5ae4017abb7cfdb768bf20d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j163a4dba2e54b16bc6654a3e0ca7ed9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

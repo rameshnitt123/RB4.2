@@ -1,0 +1,21 @@
+{
+    "AS_Button_h1581e8856b548508b63df3103ce33f2": {
+        "id": "AS_Button_h1581e8856b548508b63df3103ce33f2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_h8e8d1067902448db15667de5cfa5bb1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnEnableOnClick",
+            "display": "btnEnableOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

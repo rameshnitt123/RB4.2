@@ -1,0 +1,1005 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "280dp"
+    },
+    "_iphone_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s7b436962d6a4647b197083ac7d03d38",
+    "_top_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "CopyLabel0a76a5b3ff1614d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cfc403e66506489a9115a22febc41851",
+                "srcKUID": "j2915ca0931649e396cfb44b6e9d1923",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0a7f34907bda844": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e2c3a63904e048baabbd5312637e7e8e",
+                "srcKUID": "aeb44c1604814b0f832edadfd8574ef8",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0a94ff9ecd91948": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cc7fbe298cdc47b384bf20b2018e9e25",
+                "srcKUID": "c2fd8c30bc7b497bb5ad002e9da6c27d",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ab34c408890a48": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c9f7c1b5bac84e35a67a6b7dc86d6793",
+                "srcKUID": "ie2dfb3fbb8a4667bb6af183b7cb29d5",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ac5bc532de9c4c": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j2fda5ab7f304d1fab090792b554c558",
+                "srcKUID": "c91921fe965749d69bb837fbe55e81bf",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ac994ad2fdf342": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e822a10c6b534672b10be907ac9425fb",
+                "srcKUID": "i8d0d4b380c343ff819b5591d284b4d2",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ad59c12db08643": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h862ea086583458185ae3f4a3c62443a",
+                "srcKUID": "j7dd1e224af9456e81ef2fd3ca97e90e",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0afb21220dd1048": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bf152510f1aa43239ac673781d2bafc8",
+                "srcKUID": "b8a18b251c8d41e5ac0e0365b0ba80b2",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0b03e3bad6b9d44": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a9a2f8d8abad4cec97dfdf01a82b1d11",
+                "srcKUID": "e04e3b5c497a42ae934d03b850c50d63",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0b0a37999379943": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "je9b395258d1473589f08820b86fb6cc",
+                "srcKUID": "fea7b65f76ef413aa59f50e7172fdc73",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0b4b0a19342f045": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ed5688a604ca4739948f25feeb0fb789",
+                "srcKUID": "i34c9b1feb0a4f05aa300047148d35a3",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0b563e30ec2824f": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gb2efa0841ed4c9581c4ba4338460822",
+                "srcKUID": "h955eade1d39432b820917cca9d4e824",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0b8ef4801079c4c": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ed4da85352794834b887f2599b178a80",
+                "srcKUID": "eaee8b3a4565491188d710e66e60386c",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0bd3347987a2d42": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e81404caf959479e85b3cb0c0ebfad58",
+                "srcKUID": "a97642bf94794ad3b0fb44676573d3b7",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0bf31efe96e8544": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e8bb1c07dad043a1afe270a82ca0bd6b",
+                "srcKUID": "ae6134afef614b64b484e601d3ba6d43",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0bf70befd32634d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h5f5efd2e8324eb99a2c7a57df293ea2",
+                "srcKUID": "a920dd43766a4a28b60d1940cadf8b14",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c0073a9abe6c45": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j50fa8649de5460daa0f3714c935def6",
+                "srcKUID": "e015e8ceb91a4fba82b2110fa7d4c325",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c0d1ace9366e41": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a446eff84ca0456e928f1dd30335bec0",
+                "srcKUID": "a3e5addee27b4103a1cbba2043215d36",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c17fd38ae73541": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d2d13ea7298e4b50a05fbc86f3e5495c",
+                "srcKUID": "cdf1754eb7de4b2ca93e67e94e0a0d85",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c2fe2e1e8eda49": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fe88cfc2e38f4279aac65514d8fdb9c0",
+                "srcKUID": "ec1e65561e9c433d93a9eb549134cdb6",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c337ca75834644": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g3efb784e6d341b78cdf318c7635cfaf",
+                "srcKUID": "caffdbca96e947f9b87c069c33fa344c",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c37cb272050745": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ce61bfd9d6274e7fba2966b420ced7b8",
+                "srcKUID": "ge60c9e717474a6c8956f965950c8f16",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c4ece711d79f4e": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c985a1dfc51c47aaa00e680f58dacf73",
+                "srcKUID": "a53cd66c2aa147a0b61dd37b311f2025",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c5a024606df845": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jf925ff2d3b94e1fb62d40922ca86690",
+                "srcKUID": "gdd66c476b834551a1c4e88ec003acff",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c6604e04cd0746": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eddac0fbf8f445d387f011b7ef647613",
+                "srcKUID": "a2185849962d4ecb82830fc39a92e0c0",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0c794c17e585342": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e3b8b428e5d74bf8ab1e787657aafb8c",
+                "srcKUID": "ga4dbaa576244117b8f1591bd2742902",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0cc83f69a493043": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e10a7094e8154a7e855e14a797316105",
+                "srcKUID": "eec202c3956242508f585eae43c5550a",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ccf691c38dc243": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d82769e6da4a4fbcb1ebf27e668de3b3",
+                "srcKUID": "ff2d2399af2f40dd9f04bdb15133b1f7",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0cf1b7a0899f349": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gc11b8dbe3ae4f20b5739287eee5225d",
+                "srcKUID": "d5ef688fd9d14b47ab94a56e931b9ae7",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0cf3274f2e04840": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cf4e78be72504bba8ef86f2f07dda9f6",
+                "srcKUID": "fddb1f22d3bc4d5a8be48710522b3f27",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0d441e1e8b5f745": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a01ec1d6d68b4142bdc5740cdd866b94",
+                "srcKUID": "j4f819343f7d40c782bab6b519e14c19",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0d59af6efb7ff4a": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c086390d8eaa466b92f81c159248a247",
+                "srcKUID": "e7c0afc65ab04663b0fc3e5272b8c55a",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0d80c4e36d51442": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ba098318665146dcbfe868e4e335e390",
+                "srcKUID": "d177f21cd3004f09b9dac8eee7637490",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0db19adcb608047": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eed0b74375fe42ac961af0c114ebdbc8",
+                "srcKUID": "c505727d5df449f1b7a5391b6b0a7806",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0db83591229ee48": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ee0a800a3c7f4d268beaf29ef47a768d",
+                "srcKUID": "bf5c662be1ee4c8687eb245e5454c79e",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0dba531ea66c843": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eb31ad61d46b418fb17917b5e72bad63",
+                "srcKUID": "e366d01eed014b98a10f7bf80a6086e0",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0dbfad1b9135149": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ec17784a52f7449a8776bc682fc15027",
+                "srcKUID": "feed1773da444a21897b6501c6ca3823",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ddfbd882ca6e49": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eaf1b0e950824379901a7e58355f52d4",
+                "srcKUID": "e5265b45d2c0485faa6599fbe2b01a22",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e00c84dc99004f": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e776db73284646b4a363de6ffbb72bd2",
+                "srcKUID": "a81456209f744d56a2a8c6fdd266a6ac",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e0548d4e525a42": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a091cd6d2e104f5e8a5fdc87dbb49cc9",
+                "srcKUID": "d2a882b65b444487ae2d7743652b8fc7",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e467834fb93444": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fe970ef3c30345de959269cc58afb77f",
+                "srcKUID": "ic2cb06bb8914a819ca5841643f8eca0",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e4a9d687aebf4d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f38015db97da46899729cb66381ada8a",
+                "srcKUID": "ad3166f7a7e840709128881179f55bce",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e685cf3c7c9c41": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b1fc27b8c503467a8d7d2d641eb0708c",
+                "srcKUID": "b74466e36d204f17a4e97a624888f929",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e6c614860b2e49": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e89091f5250e48169b9f42a0cea009bd",
+                "srcKUID": "bded234e1cec473484ca4ddeae7112d7",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e6fe72848e344a": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ef538daa47a940d39139e9d93f3a4d99",
+                "srcKUID": "g0e75a2e664c44f2977998ffd3f2e05e",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e852119c331944": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "iacdef0715644ce8935566b90055f4d2",
+                "srcKUID": "g7e4a48c79dc401b826d24e94b823a17",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e8d8a4d3e58849": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f4105507a8454d16b32e4b3875236dd1",
+                "srcKUID": "f1d21f2dd33f42e2b4dbe1197ab30163",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0e9e5d9d7b7e84d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f20d976ebe4743548179b579094282da",
+                "srcKUID": "f64a109331f34836bc03272ac85f9af4",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0eb2ee0908f754b": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hb281c3603d34e38b60d49979411f221",
+                "srcKUID": "eb53a16a43e24e77940f99ffa64d1af6",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ebdb65cb337e40": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "af51c3c6f2974906bfbd94790829638f",
+                "srcKUID": "i79c8559d93a481d8ad3c667c02dc35b",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ebebef81288b49": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d6d671a84bfb4845a1a49c54b44e227d",
+                "srcKUID": "a8e775dae96c4fc1be80e542a9ef9665",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ec3ea718928e43": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j69075a8377d4056b0a9ed8dda90fea4",
+                "srcKUID": "f1e880aea60e47fa82a89f34f4b9f5a6",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0edffbde993a940": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a14b138678f24d2fa50234287384f5a7",
+                "srcKUID": "a9d635d6c0444230a799c931d4f13f25",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0f53913d0edcb47": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e668ce2507b44c16ad3c41179084e7ce",
+                "srcKUID": "beb7b2443a7c4f9ea62a5dc1b6f4b118",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0f56560e182094f": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f6ae196a69d54c1ab693c770ab2f9f83",
+                "srcKUID": "gef230ff938a4398961927acda2d0aad",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0f7c31ea05bdd4e": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a32c2f2e27804fd7ad8f7997a5c26079",
+                "srcKUID": "h29357b6138641c38008ff0f2b11f3ac",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0f818d2b46a9443": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ad7181f9c1ba4caabffe029b5379dadd",
+                "srcKUID": "eef1bd4ab21447a0bc85ca0de8bb36c5",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0f8aff737641343": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a9f0e636d34141dd918297c86f4cf2b1",
+                "srcKUID": "fe0f99051079487b8b488f802896e809",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0fd179b6989af49": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "be2c8a0dfaa2496d8505fbafafa7497e",
+                "srcKUID": "a380db946d144d2d934c6a5e15b8d9f8",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0fdca447397194f": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j60c80bdf9c948a18278aad739ea7295",
+                "srcKUID": "da964ff3b5d142ce9b784474b3d786d3",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0fe12c8baabcb4d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i6c4ada575fa4c518fcdfd99edb197db",
+                "srcKUID": "c2d914b95c4c44c5993a6104ddb305a0",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ffe9fb5523a34d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "addcb9d769024cfeba765fa2e1aa01d3",
+                "srcKUID": "e8d07d1bec2e47c8810bd7e5b45467d3",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0g3fdaa072d5a41": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d7adf40776014c9a9b82dc622a4af2f0",
+                "srcKUID": "ed5a5e3b59f04a40ba9f010f9a064f82",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0g5ad75159d0a41": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e0f696f43e5042f4a7b79ca59c119df5",
+                "srcKUID": "c44d7b76614e49c897dd4e59c832518b",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ga2fb49aa72949": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hb6c89fb42a949d387f88472e7fc5194",
+                "srcKUID": "bfa5dfb3e1e94728a1d2c5769a8e2dcb",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0gdf09240d4ec41": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c1813627d4a7477bbc82f9e7f9dc264b",
+                "srcKUID": "aecaa4986f944f1a87ed2dca4b034d85",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0h2f10f32e1fd4f": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e2e0c3b4b14f4d3bb275afbd61cb4f34",
+                "srcKUID": "e397cc44fcac4cbf8d30d329711369e5",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0h55e7685c4484d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b95961fc13bc4eb28158d8c80406235e",
+                "srcKUID": "g169a047b6dd44989d55351cb8878091",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0h896370364c647": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f8fe87ddbc3d4d9d811aee2e596873c9",
+                "srcKUID": "ca7229a4947c4add8bcb786383974d77",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0h8af2ed5093c4b": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d335f7ab86b64f48b0ce4618099fb0f4",
+                "srcKUID": "fb978feef9664bd9935be16e8ab04078",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0hbe2d314e8e74d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e09c246b908846c1aac8290d4232c5dc",
+                "srcKUID": "ce2bd87e577e4948a78f0b4d9f0d033f",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0hf980c6b814d4d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hf71b52a128649fa97238eed566dec07",
+                "srcKUID": "e27d508467de4218a818d269031a778a",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0i267b78a713146": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a493f36f9a014d05ace66339ed5c756a",
+                "srcKUID": "cab43d3449f2413fa99448fe9039941c",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0i924d509954a45": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b4428f3979714eadb49f1582ad7a73f7",
+                "srcKUID": "a7b1eaca59444d97886e0ab23f7ca558",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0ia4215695fd748": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i4e8b2b6a5e2475e9ede679332ee0549",
+                "srcKUID": "g068615d105347118389b2f2d5356088",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0iacbb14118244b": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c71d384f908b4493b1e495bbbe11a4d9",
+                "srcKUID": "ce46c1bd7e0b41b4bde6e1b94845de21",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0j0d027a8ae2a4b": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d67651848bd64b929af11bd182303dae",
+                "srcKUID": "i0c2ce0d084e4f259009c6106bb60c03",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0j6d69ee188fa44": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a2693cb0cb52461cb0f82c2646e158f2",
+                "srcKUID": "c1bffa6482464ff6b91eff404a5a372d",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0j8ef8b8e650148": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f19b97c72e51426ea0d48dbefa03c9c4",
+                "srcKUID": "b10927736958410b981cf4cda6fef873",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0j9097edf90d941": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b37405843067418985350a8865930f52",
+                "srcKUID": "ab25a1a133064e50860f6a80e33b9762",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0j9b527661d284c": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a38863bf786d42dda56b120307233f1e",
+                "srcKUID": "hd3f57e5b48741bc9976e9b7b9e8bdc9",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0jabb5d0fd60346": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e26d61d62ce2426db7923f1f173de7a8",
+                "srcKUID": "af74d759d4304667b20f446548e37921",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0jd77222a5bf043": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "efa9ef1643234b6384a8ba1962026624",
+                "srcKUID": "d79060e6998e48fa9c396c7cd54469fe",
+                "wType": "Label"
+            }
+        },
+        "CopyLabel0je9b142f13ab4b": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fe4f55b0a3044f67b3c06b3a4314484e",
+                "srcKUID": "j1f41258d5824411b1ffbadcc76cda18",
+                "wType": "Label"
+            }
+        },
+        "CopyflxWeekFive0b687d978ccc044": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ba1e8fec478641959c2a1d8a9547124f",
+                "srcKUID": "d0b6fe9d419d46cab9c165d5fd53d175",
+                "wType": "FlexContainer"
+            }
+        },
+        "CopyflxWeekFour0ee4fc0d15aa143": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g05cd003064440909d2e2f9de09d2226",
+                "srcKUID": "e9e343fca6de44e181afafebc7ff85b4",
+                "wType": "FlexContainer"
+            }
+        },
+        "CopyflxWeekOne0j9c234405c184f": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g04881bf67194249bea1619ec33cb8a5",
+                "srcKUID": "c7592e9f8dfb4961a5f36f3079c2064c",
+                "wType": "FlexContainer"
+            }
+        },
+        "CopyflxWeekSix0gb0f6f7dcf9647": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f72493113fc144a7a30b68862438bb04",
+                "srcKUID": "b84b9db2fd7d4cd8a7df469135c86e5a",
+                "wType": "FlexContainer"
+            }
+        },
+        "CopyflxWeekThree0dcfbe0f81f2449": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hdc845781332462181593a9fa07f4091",
+                "srcKUID": "d69d339b7ade4ae58e9dd7e7810a9246",
+                "wType": "FlexContainer"
+            }
+        },
+        "CopyflxWeekTwo0a55fa508a80940": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fc55083ed4cc44ec89daeed65a86112d",
+                "srcKUID": "j2abbbb4eb254c69940b2b633cf7609b",
+                "wType": "FlexContainer"
+            }
+        },
+        "FlexContainer0deb41bfaec504d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j8e37262a4d94e428fb39404baffbecb",
+                "srcKUID": "dad42514b5a24340b09a47f94f6dc46e",
+                "wType": "FlexContainer"
+            }
+        },
+        "customCalendar": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "j7beb437e79a4126878f9e4563433a1b",
+                "srcKUID": "a3a15639d8cc4f70b7df92d6916a4801",
+                "wType": "FlexContainer"
+            },
+            "isVisible": true,
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "100dp"
+                }
+            }
+        },
+        "flxHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "had0c85e0aa34afdb23b410a389478fe",
+                "srcKUID": "d1689d9363e543f0ac69905b3aab71be",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHighlight": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d9f2c24357614869950a53ea11f213c8",
+                "srcKUID": "cb19804ac3f34778a55088cbee1aae1b",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxMonth": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "afa6c1e5c2104f5086b77d73bebe169a",
+                "srcKUID": "c0ee217f76624d32a09c408ffbb0f062",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxMonthDummy": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j7798f3a9fb84a359fcf2a267baefa33",
+                "srcKUID": "a95a2e509bb4497aa52a3023d1647199",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxMonthOne": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e9e9a83e78e74215ab212a2e000bca73",
+                "srcKUID": "f147a940d88f4b8a829d8dc56ade7d46",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxMonthOneDummy": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ia4ae4e39bdc4591b69d8164fa375d44",
+                "srcKUID": "afc4e93383be4daea3381180e430e432",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxNextMonth": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d68f11afbad8461ba7a25bb59ec6a170",
+                "srcKUID": "b2e17682ba1c4740b7da95cfc614a7f6",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPreviousMonth": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "db57944a1ba5477bb61fedcbc4f991e7",
+                "srcKUID": "c06823a5a96848d0bf1c0a482c1d0a54",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxWeek": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b9147e7dc0dd41fcbea180f3ab71e2af",
+                "srcKUID": "jdd95908c6ce403ebafe5b12087650bb",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxWeekFive": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ie66b878658844eaa91e702aad42e483",
+                "srcKUID": "bf47c255b33343cca76a5e009e681d09",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxWeekFour": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ga59a1f59bed4295bcc5c2427b9df8b0",
+                "srcKUID": "gdfa87f3c55d494a9c04a6bb32c80d0f",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxWeekOne": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ec116c31ed184b0697271cb6d9dbcb29",
+                "srcKUID": "da40c4157c44458fa4376443fca5075f",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxWeekSix": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cc0aa2a6d03644ff91046bb91cae5a71",
+                "srcKUID": "ea2ae21e18fc4ced8fe9dff56cea40b7",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxWeekThree": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cc7eb403d3a7490483a2d7ef356310fb",
+                "srcKUID": "g5df89b8884046a79ce51c94d065a46d",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxWeekTwo": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "deedc4eb832845d49ef5b8a3ac1bedc9",
+                "srcKUID": "d922b217b0e2458880dbe12bfeddbfad",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgNextMonth": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h231c4e9963a4132b9959880f8daa4ad",
+                "srcKUID": "d4afbadfe63647acacbeb42158eb5a8a",
+                "wType": "Image"
+            }
+        },
+        "imgPreviousMonth": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cf7735ecfed64319a4c41fd67be37c5b",
+                "srcKUID": "gfe8d67938404c2dbe8d5c68d22187c2",
+                "wType": "Image"
+            }
+        },
+        "lblFri": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f9c98cfff1a842f08b7d7c55521b3a91",
+                "srcKUID": "d8b167513e0048d281142e534a8c70fa",
+                "wType": "Label"
+            }
+        },
+        "lblMon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cd28868a7daa4c69810b8101f5f9a9b9",
+                "srcKUID": "efb30e1cb2de4549bdf55e609b80a2fd",
+                "wType": "Label"
+            }
+        },
+        "lblMonth": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g80ef08f1c2c43209b1f2773e04896ed",
+                "srcKUID": "j7574c6f2cb44438a71bcb4371064997",
+                "wType": "Label"
+            }
+        },
+        "lblSat": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c6b773f271ff41168b5c44b383841564",
+                "srcKUID": "d1803a93e03b41d5b2a7af46d9392c23",
+                "wType": "Label"
+            }
+        },
+        "lblSun": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b25c15cc127349bb87131bf4b611b719",
+                "srcKUID": "fb3e17c4b54649be98207727eb54f142",
+                "wType": "Label"
+            }
+        },
+        "lblThu": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e4a6d6359de949c4a6b100bebe9c7db7",
+                "srcKUID": "f1cb998d1e8f457e9f4fe46d17be443c",
+                "wType": "Label"
+            }
+        },
+        "lblTue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c4208c0fac19466da9732111ba618f07",
+                "srcKUID": "a16a35211b6043c4a9aa6466a5aad037",
+                "wType": "Label"
+            }
+        },
+        "lblWed": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d03f10c5927e4679a790c592e877b56e",
+                "srcKUID": "a8fa7790cbce4eb38a60f9fa8d08bd64",
+                "wType": "Label"
+            }
+        }
+    },
+    "id": "customCalendar",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "jc4fa65e891644088b19eece7f89ab96",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxMainContainer",
+    "pf": "frmP2pEndDate",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "a3a15639d8cc4f70b7df92d6916a4801",
+    "wType": "UserWidgetInstance"
+}

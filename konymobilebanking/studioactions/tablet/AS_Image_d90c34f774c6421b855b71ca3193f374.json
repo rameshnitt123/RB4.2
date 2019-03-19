@@ -1,0 +1,30 @@
+{
+    "AS_Image_d90c34f774c6421b855b71ca3193f374": {
+        "id": "AS_Image_d90c34f774c6421b855b71ca3193f374",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDevRegSecCode",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fef5597270f84c73b96bffd897013678"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__gb216c3d901144e3bd0348e46b7543c7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.clearKeypadChar();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

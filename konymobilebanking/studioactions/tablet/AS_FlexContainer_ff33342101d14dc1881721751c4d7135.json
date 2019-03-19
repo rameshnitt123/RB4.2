@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_ff33342101d14dc1881721751c4d7135": {
+        "id": "AS_FlexContainer_ff33342101d14dc1881721751c4d7135",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3f3eb2dd48e453183bd2ffd47ee47cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e66956866c2847d4a245ea7097eca001",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxCancelDialPadOnClick",
+            "display": "flxCancelDialPadOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

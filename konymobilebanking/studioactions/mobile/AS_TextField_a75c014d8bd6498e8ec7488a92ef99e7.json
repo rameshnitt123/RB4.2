@@ -1,0 +1,24 @@
+{
+    "AS_TextField_a75c014d8bd6498e8ec7488a92ef99e7": {
+        "id": "AS_TextField_a75c014d8bd6498e8ec7488a92ef99e7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_cdaf6769f82a493eb01463fbccb54d79",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSkinsOfUsernameAndPwd",
+            "display": "resetSkinsOfUsernameAndPwd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

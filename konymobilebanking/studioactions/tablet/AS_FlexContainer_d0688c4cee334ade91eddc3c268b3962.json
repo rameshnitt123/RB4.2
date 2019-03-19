@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_d0688c4cee334ade91eddc3c268b3962": {
+        "id": "AS_FlexContainer_d0688c4cee334ade91eddc3c268b3962",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segAccountsNoImageBillPayList",
+            "type": "templates",
+            "platform": "",
+            "KUID": "f80f644077af4a46963137819f40012b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hf84cedf21cc4cc0ab10ebfdbe0469a1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.callOnPayBill();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_bounces_": false,
+    "_data_": [
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Afghanistan"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Albania"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Algeria"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Andorra"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Angola"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Antigua and Barbuda"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Argentina"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Armenia"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Aruba"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Brunei Darussalam"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "South Africa"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mauritius"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Somalia"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Brunei Darussalam"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Palau"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Panama"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Canada"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "016",
+    "disabledSkins": {},
+    "enablereordering": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segCountry",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ac7db3ed8628417ebc3883bc4dd9b7fe",
+    "masterdata": {},
+    "maxheight": {
+        "type": "string",
+        "value": "93%"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_0f816400d374841.png",
+    "pageondotimage": "pageondot_0cbbe75ad7f8147.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxTransactionFrequency",
+    "pf": "frmBenCountry",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "d4f885df7c7b4958a396022e12617cc2",
+    "rowcounter": 16,
+    "rowfocusskin": "sd2d67c791804f578820295b84a50b08",
+    "rowskin": "sb40e93c789242d088af0b707f338654",
+    "rowtemplate": "flxFrequency",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxFrequency": "flxFrequency",
+        "flxMain": "flxMain",
+        "lblFrequency": "lblFrequency"
+    },
+    "zindex": 1
+}

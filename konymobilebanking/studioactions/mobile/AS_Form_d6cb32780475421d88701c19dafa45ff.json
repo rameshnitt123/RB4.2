@@ -1,0 +1,23 @@
+{
+    "AS_Form_d6cb32780475421d88701c19dafa45ff": {
+        "id": "AS_Form_d6cb32780475421d88701c19dafa45ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eea7481a5385413d8a3352cb55833bbb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_ie3ec7c776c44e6a86e7396d21b1d20c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "callbackType": null
+        }]
+    }
+}

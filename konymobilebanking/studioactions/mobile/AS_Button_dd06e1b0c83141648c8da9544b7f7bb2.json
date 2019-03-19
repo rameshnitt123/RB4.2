@@ -1,0 +1,24 @@
+{
+    "AS_Button_dd06e1b0c83141648c8da9544b7f7bb2": {
+        "id": "AS_Button_dd06e1b0c83141648c8da9544b7f7bb2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f4ab45a7c28b420f8175760d648de23b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDevRegPin",
+            "friendlyName": "frmDevRegPin",
+            "formKUID": "d6dead6323d74c7ca7c87b113b5c9fe7",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

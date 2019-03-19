@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_eb4b13b092f749b1af663731fefe462f": {
+        "id": "AS_FlexContainer_eb4b13b092f749b1af663731fefe462f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "abe8d76e84d547299f039190d8e7130f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i05e4af0eec14cfd86bc35a9c083d590",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var locateUsModule = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"LocateUsModule\");\nlocateUsModule.presentationController.commonFunctionForNavigation(\"frmLogin\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

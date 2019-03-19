@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_i504b33372074922adeddfc7b77e7ddc": {
+        "id": "AS_FlexContainer_i504b33372074922adeddfc7b77e7ddc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segCards",
+            "type": "templates",
+            "platform": null,
+            "KUID": "bb8e8e95256644bca4395e1cd19db394"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

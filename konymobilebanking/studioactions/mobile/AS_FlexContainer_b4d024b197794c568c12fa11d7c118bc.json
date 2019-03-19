@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_b4d024b197794c568c12fa11d7c118bc": {
+        "id": "AS_FlexContainer_b4d024b197794c568c12fa11d7c118bc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayAllPayees",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a331aa62004f4020944506365d158fd1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_g5cc31a4f5dd40e5ba08ed6ad51c73cd",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransactionMode",
+            "friendlyName": "frmTransactionMode",
+            "formKUID": "a25ff90b6fc0481b8b5c54893b15b6d5",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModule"
+        }]
+    }
+}

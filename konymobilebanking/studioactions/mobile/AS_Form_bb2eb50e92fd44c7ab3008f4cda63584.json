@@ -1,0 +1,23 @@
+{
+    "AS_Form_bb2eb50e92fd44c7ab3008f4cda63584": {
+        "id": "AS_Form_bb2eb50e92fd44c7ab3008f4cda63584",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountMinimumBalance",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jb26bb740ab8438a805c36ebd215d8fb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_c028c3397c7245fa806901e3ca5a286b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

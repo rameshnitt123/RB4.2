@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc61e719c72447bf9f14db24bea23eb3",
+    "_text_": "CONTINUE",
+    "_width_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "frmOnBoardingController"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "s31beeb1acb948a9ab9cfb48513042ca"
+    },
+    "displaytext": true,
+    "id": "btnVerifyPhoneNumber",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a107f7185f9242bd9bd18f04d15d15f3",
+    "name": "kony.ui.Button",
+    "parent": "flxEnterPhoneNumber",
+    "pf": "frmOnBoarding",
+    "wType": "Button",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yHint": "Tap Continue to move to the next screen",
+        "a11yLabel": "Continue"
+    }
+}

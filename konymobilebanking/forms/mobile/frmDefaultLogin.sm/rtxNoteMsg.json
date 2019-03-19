@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_skin_": "sfbeee1fcbbd406e895e9215da082c5b",
+    "_text_": "RichText",
+    "_top_": {
+        "type": "string",
+        "value": "34.50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxNoteMsg",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "abbc60b1767540e6bc147fc079e3ff45",
+    "linkskin": "s9b05ba7658b47b6a5d474eb249d11b1",
+    "name": "kony.ui.RichText",
+    "parent": "flxMainContainer",
+    "pf": "frmDefaultLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.devReg.noteMsg",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 10,
+    "accessibilityconfig": {
+        "a11yLabel": "You can enable & set other login options as default from <B>  Menu > settings </B> in future "
+    }
+}

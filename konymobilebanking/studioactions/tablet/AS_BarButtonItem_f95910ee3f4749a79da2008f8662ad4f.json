@@ -1,0 +1,22 @@
+{
+    "AS_BarButtonItem_f95910ee3f4749a79da2008f8662ad4f": {
+        "id": "AS_BarButtonItem_f95910ee3f4749a79da2008f8662ad4f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___aa814619b05044059104236d4b83436a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "logoutOnClick",
+            "display": "logoutOnClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

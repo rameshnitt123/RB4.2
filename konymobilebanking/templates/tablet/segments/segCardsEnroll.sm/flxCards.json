@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sd16e7b2f78d4bbfba72b3c36c68f392",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxCheckbox",
+        "lblSeparator",
+        "flxAccountName"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "flxCardsController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxCards",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "f9762f83df4c4753a69531305e70ff80",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segCardsEnroll",
+    "pf": "segCardsEnroll",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

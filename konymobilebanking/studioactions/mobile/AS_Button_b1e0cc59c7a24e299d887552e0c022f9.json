@@ -1,0 +1,23 @@
+{
+    "AS_Button_b1e0cc59c7a24e299d887552e0c022f9": {
+        "id": "AS_Button_b1e0cc59c7a24e299d887552e0c022f9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferConfirmation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c8b88a3ece9f473f8ae00970a091a823"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c099884c3f6d4b8e83ff19d74cd06295",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transModPresentationController = applicationManager.getModulesPresentationController(\"TransferModule\");\ntransModPresentationController.commonFunctionForNavigation(\"frmTransfers\");",
+            "callbackType": null
+        }]
+    }
+}

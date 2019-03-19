@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sa71cb5e9d224d6797419c7b52a3ecc3",
+    "_text_": "CANCEL",
+    "_width_": {
+        "type": "string",
+        "value": "84dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s31beeb1acb948a9ab9cfb48513042ca",
+    "id": "btnCancel",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": true
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "e5e629a16ccb43eba87a07b15e5fbc6e",
+    "name": "kony.ui.Button",
+    "parent": "flxSearch",
+    "pf": "frmLocationMap",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "showprogressindicator": true,
+    "texti18n": "kony.tab.common.Cancel",
+    "wType": "Button",
+    "zindex": 20
+}

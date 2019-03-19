@@ -1,0 +1,24 @@
+{
+    "AS_Form_icd8f53b5ac8473197f5e1783afa302f": {
+        "id": "AS_Form_icd8f53b5ac8473197f5e1783afa302f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PPickContact",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f92ece2013e2467d8d90c3168453b78e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__abf3acb3b70b4725b9c6708b03d33d2a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "applicationManager.getPresentationUtility().dismissLoadingScreen();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

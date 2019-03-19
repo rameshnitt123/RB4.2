@@ -1,0 +1,194 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "146dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segLogin",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ab20f20b164649c18f0f19bdb6037958",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "loginMethod",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 3,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "tablet": {
+        "_data_": [
+            {
+                "imgChevronIcon": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "tickmark_green.png"
+                },
+                "imgLogo": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "username.png"
+                },
+                "lblLoginStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Default Login"
+                },
+                "lblLoginType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Username & Password"
+                }
+            },
+            {
+                "imgChevronIcon": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "transparentbox.png"
+                },
+                "imgLogo": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "touch.png"
+                },
+                "lblLoginStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Not Enabled"
+                },
+                "lblLoginType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Touch ID"
+                }
+            },
+            {
+                "imgChevronIcon": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "transparentbox.png"
+                },
+                "imgLogo": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "pin.png"
+                },
+                "lblLoginStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Generate"
+                },
+                "lblLoginType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Pin"
+                }
+            },
+            {
+                "imgChevronIcon": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "transparentbox.png"
+                },
+                "imgLogo": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "face.png"
+                },
+                "lblLoginStatus": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Not Enabled"
+                },
+                "lblLoginType": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Face"
+                }
+            }
+        ],
+        "rowTemplateId": "f5eea09d6cd94756b77cc77fc34a296c",
+        "rowtemplate": "flxDefaultLogin",
+        "widgetdatamap": {
+            "flxChevronLogo": "flxChevronLogo",
+            "flxDefaultLogin": "flxDefaultLogin",
+            "flxImgIcon": "flxImgIcon",
+            "imgChevronIcon": "imgChevronIcon",
+            "imgLogo": "imgLogo",
+            "lblLoginStatus": "lblLoginStatus",
+            "lblLoginType": "lblLoginType"
+        }
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxChevronLogo": "flxChevronLogo",
+        "flxDefaultLogin": "flxDefaultLogin",
+        "flxImgIcon": "flxImgIcon",
+        "imgChevronIcon": "imgChevronIcon",
+        "imgLogo": "imgLogo",
+        "lblLoginStatus": "lblLoginStatus",
+        "lblLoginType": "lblLoginType"
+    },
+    "zindex": 1
+}

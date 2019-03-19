@@ -1,0 +1,50 @@
+{
+    "AS_TextField_g0871d72b0844727b042d384c7b85bd3": {
+        "id": "AS_TextField_g0871d72b0844727b042d384c7b85bd3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmtransfersAccountNumberEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a8cfc87106fe4ba8a7ff56c020bbfb08"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____h0756edb82874d1ba10fcc61f9a27694",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmTransfersToAccountEurope",
+            "widgetId": "flxToAccountHints",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "ae1a926984ff4cd48905f7e0a0102adb",
+            "widgetKUID": "fdab28bb39f245d088ded33d88c1204a",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "widgetPath": "this.view.flxToAccountHints"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____fde38effd7a54fd8af9132a13efc12bc",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmTransfersToAccountEurope",
+            "widgetId": "flxClose",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "ae1a926984ff4cd48905f7e0a0102adb",
+            "widgetKUID": "g7640e8cb52f4757a9837aec93ad6ff6",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "callbackType": null,
+            "widgetPath": "this.view.flxClose"
+        }]
+    }
+}

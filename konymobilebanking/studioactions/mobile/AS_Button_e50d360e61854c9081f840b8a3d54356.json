@@ -1,0 +1,23 @@
+{
+    "AS_Button_e50d360e61854c9081f840b8a3d54356": {
+        "id": "AS_Button_e50d360e61854c9081f840b8a3d54356",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PRecEmail",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c14f421f238b49d0a0896efee82ff998"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c8f986b6461e47f484903e3e19715f07",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(6);",
+            "callbackType": null
+        }]
+    }
+}

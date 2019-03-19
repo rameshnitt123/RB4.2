@@ -1,0 +1,23 @@
+{
+    "AS_Button_j7d0b5ff609242ff9a5d17cd2576c946": {
+        "id": "AS_Button_j7d0b5ff609242ff9a5d17cd2576c946",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSecurityCode",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd407b4f1db84aaf857350c5154838d3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ab7ac857b75d4f62aa5ccf04e5c8135d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.updatePasswordAction();",
+            "callbackType": null
+        }]
+    }
+}

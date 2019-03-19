@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "Default": {
+        "contentAlignment": 4
+    },
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        52,
+        0,
+        1,
+        0
+    ],
+    "_placeholder_": "Search",
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s0523794a64e41d082afa54cf7ec3a1c",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "71.50%"
+    },
+    "android": {
+        "padding": [
+            52,
+            0,
+            1,
+            0
+        ],
+        "paddingInPixel": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "scd7ecdbc5ce42aeaf3b4f936a0004ee",
+    "id": "tbxSearch",
+    "info": null,
+    "ipad": {
+        "padding": [
+            52,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "keyboardActionLabel": 3
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardactionlabel": 3,
+    "keyboardtype": "A",
+    "kuid": "fa0276e8473c44c58a324d21c06c0da9",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxSearchMain",
+    "pf": "frmManageRecipientList",
+    "placeholderi18n": "kony.tab.common.Search",
+    "placeholderskin": "s0523794a64e41d082afa54cf7ec3a1c",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "texti18n": "kony.tab.common.Search",
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s72f65268b8b4c9d834d76ad3712d905",
+    "_text_": "Send <b>SECURITY CODE</b> to registered</br>Mobile Number 79XXXXXXX654",
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxSelectSecurityCode",
+    "info": null,
+    "isvisible": true,
+    "kuid": "h54c7453997246a2a810b221b1023df5",
+    "name": "kony.ui.RichText",
+    "parent": "flxSelectSecurityCode",
+    "pf": "frmForgot",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "Send <b>SECURITY CODE</b> to registered</br>Mobile Number 79XXXXXXX654"
+    }
+}

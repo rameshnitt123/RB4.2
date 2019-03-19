@@ -1,0 +1,27 @@
+{
+    "AS_TextField_cd739bc8adc341698cd73d7ffa2d3773": {
+        "id": "AS_TextField_cd739bc8adc341698cd73d7ffa2d3773",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmForgot",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fabc653950774f86a578cb382970af65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b7571b1a15e641bc989aac103747e109",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.matchPasswords();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

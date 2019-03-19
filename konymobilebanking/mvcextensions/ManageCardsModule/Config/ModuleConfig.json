@@ -1,0 +1,184 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "ManageCardsModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "mobile": {
+            "frmCardManageDetails": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardManageDetailsController",
+                "FormName": "ManageCardsModule/frmCardManageDetails",
+                "friendlyName": "frmCardManageDetails"
+            },
+            "frmCardManageHome": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardManageHomeController",
+                "FormName": "ManageCardsModule/frmCardManageHome",
+                "friendlyName": "frmCardManageHome"
+            },
+            "frmCardMgtSecurityCode": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMgtSecurityCodeController",
+                "FormName": "ManageCardsModule/frmCardMgtSecurityCode",
+                "friendlyName": "frmCardMgtSecurityCode"
+            },
+            "frmCardMngBillAddress": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngBillAddressController",
+                "FormName": "ManageCardsModule/frmCardMngBillAddress",
+                "friendlyName": "frmCardMngBillAddress"
+            },
+            "frmCardMngConfirmDetails": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngConfirmDetailsController",
+                "FormName": "ManageCardsModule/frmCardMngConfirmDetails",
+                "friendlyName": "frmCardMngConfirmDetails"
+            },
+            "frmCardMngNewPin": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngNewPinController",
+                "FormName": "ManageCardsModule/frmCardMngNewPin",
+                "friendlyName": "frmCardMngNewPin"
+            },
+            "frmCardMngNickName": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngNickNameController",
+                "FormName": "ManageCardsModule/frmCardMngNickName",
+                "friendlyName": "frmCardMngNickName"
+            },
+            "frmCardMngPinChgOptions": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngPinChgOptionsController",
+                "FormName": "ManageCardsModule/frmCardMngPinChgOptions",
+                "friendlyName": "frmCardMngPinChgOptions"
+            },
+            "frmCardMngPinChgTypes": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngPinChgTypesController",
+                "FormName": "ManageCardsModule/frmCardMngPinChgTypes",
+                "friendlyName": "frmCardMngPinChgTypes"
+            },
+            "frmCardMngReasons": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngReasonsController",
+                "FormName": "ManageCardsModule/frmCardMngReasons",
+                "friendlyName": "frmCardMngReasons"
+            },
+            "frmCardMngReplaceCardConfirm": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngReplaceCardConfirmController",
+                "FormName": "ManageCardsModule/frmCardMngReplaceCardConfirm",
+                "friendlyName": "frmCardMngReplaceCardConfirm"
+            },
+            "frmManageTravelConfirmation": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelConfirmationController",
+                "FormName": "ManageCardsModule/frmManageTravelConfirmation",
+                "friendlyName": "frmManageTravelConfirmation"
+            },
+            "frmManageTravelDestination": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelDestinationController",
+                "FormName": "ManageCardsModule/frmManageTravelDestination",
+                "friendlyName": "frmManageTravelDestination"
+            },
+            "frmManageTravelDetails": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelDetailsController",
+                "FormName": "ManageCardsModule/frmManageTravelDetails",
+                "friendlyName": "frmManageTravelDetails"
+            },
+            "frmManageTravelEndDate": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelEndDateController",
+                "FormName": "ManageCardsModule/frmManageTravelEndDate",
+                "friendlyName": "frmManageTravelEndDate"
+            },
+            "frmManageTravelPhoneNumber": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelPhoneNumberController",
+                "FormName": "ManageCardsModule/frmManageTravelPhoneNumber",
+                "friendlyName": "frmManageTravelPhoneNumber"
+            },
+            "frmManageTravelPlans": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelPlansController",
+                "FormName": "ManageCardsModule/frmManageTravelPlans",
+                "friendlyName": "frmManageTravelPlans"
+            },
+            "frmManageTravelSelectCards": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelSelectCardsController",
+                "FormName": "ManageCardsModule/frmManageTravelSelectCards",
+                "friendlyName": "frmManageTravelSelectCards"
+            },
+            "frmManageTravelStartDate": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelStartDateController",
+                "FormName": "ManageCardsModule/frmManageTravelStartDate",
+                "friendlyName": "frmManageTravelStartDate"
+            },
+            "frmManageTravelCountryCode": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmManageTravelCountryCodeController",
+                "FormName": "ManageCardsModule/frmManageTravelCountryCode",
+                "friendlyName": "frmManageTravelCountryCode"
+            }              
+        },
+        "tablet": {
+            "frmCardManageHome": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardManageHomeController",
+                "FormName": "ManageCardsModule/frmCardManageHome",
+                "friendlyName": "frmCardManageHome"
+            },
+            "frmCardMngBillAddress": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngBillAddressController",
+                "FormName": "ManageCardsModule/frmCardMngBillAddress",
+                "friendlyName": "frmCardMngBillAddress"
+            },
+            "frmCardMngNickname": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "ManageCardsModule/frmCardMngNicknameController",
+                "FormName": "ManageCardsModule/frmCardMngNickname",
+                "friendlyName": "frmCardMngNickname"
+            }
+        }
+    },
+    "ModuleName": "ManageCardsModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "ManageCardsModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        },
+        "Tablet": {
+            "PresentationControllerClass": "ManageCardsModule/PresentationControllers/PresentationController_Tablet",
+            "PresentationExtensions": []
+        }
+    }
+}

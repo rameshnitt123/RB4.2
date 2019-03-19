@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_gb53153c5f42446ca5dc1ff381ec7699": {
+        "id": "AS_FlexContainer_gb53153c5f42446ca5dc1ff381ec7699",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPay",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b831bd927f174454b040c40a817c499d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_h794eebd80ba41098c48fc42b5cb3ac5",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "e2709568a03c4198964d2db58b1ebcb9",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

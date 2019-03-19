@@ -1,0 +1,23 @@
+{
+    "AS_Form_ecdc23c0137447c5935d447b7aff9b68": {
+        "id": "AS_Form_ecdc23c0137447c5935d447b7aff9b68",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUpdatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b92d84aebf1f4797ae7c9b495c49be96"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_a9fea31a62614ed0a01e322c78db9a34",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShowUiSettings();",
+            "callbackType": null
+        }]
+    }
+}

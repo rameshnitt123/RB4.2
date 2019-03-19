@@ -1,0 +1,24 @@
+{
+    "AS_Form_i8c99b9e16494bb6a9654e602c52830e": {
+        "id": "AS_Form_i8c99b9e16494bb6a9654e602c52830e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersStartDate",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c6ac5bd0407f45d49ebf2292d6a9d197"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e9c2c572f4ee40bca39bb383550e8ca5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

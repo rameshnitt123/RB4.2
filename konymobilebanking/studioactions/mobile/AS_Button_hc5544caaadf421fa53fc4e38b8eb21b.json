@@ -1,0 +1,23 @@
+{
+    "AS_Button_hc5544caaadf421fa53fc4e38b8eb21b": {
+        "id": "AS_Button_hc5544caaadf421fa53fc4e38b8eb21b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersRecurrenceEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ab1dec9b15dc4289805603e8be598d0f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_dad8d9f8dedb49c498d81dbcff11cea7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(6);",
+            "callbackType": null
+        }]
+    }
+}

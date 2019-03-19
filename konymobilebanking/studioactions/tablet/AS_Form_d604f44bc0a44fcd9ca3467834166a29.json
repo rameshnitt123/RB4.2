@@ -1,0 +1,24 @@
+{
+    "AS_Form_d604f44bc0a44fcd9ca3467834166a29": {
+        "id": "AS_Form_d604f44bc0a44fcd9ca3467834166a29",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmFullScreenAds",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b9b6feb12eda48169151696af7ab07cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f06a0a0d3ee846c2a7f99c2e5cd6de83",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onPreShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

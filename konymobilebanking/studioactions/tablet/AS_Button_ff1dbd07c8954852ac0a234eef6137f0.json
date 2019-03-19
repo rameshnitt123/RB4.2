@@ -1,0 +1,27 @@
+{
+    "AS_Button_ff1dbd07c8954852ac0a234eef6137f0": {
+        "id": "AS_Button_ff1dbd07c8954852ac0a234eef6137f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDevRegPinConfirmation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i65f483125934a629910c32de2a71898"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_he1d59ffe70d416c994a91fa195d6be5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnContinueOnClick",
+            "display": "btnContinueOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

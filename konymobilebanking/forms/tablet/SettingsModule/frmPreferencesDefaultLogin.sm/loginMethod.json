@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s4a0cbc9863e49b9a0c451b7c50a6369",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnContinue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i41631a9b52b4ffd85ae562924c9b8af",
+                "srcKUID": "i8b88baa60b2469fae65f64b485c2780",
+                "wType": "Button"
+            }
+        },
+        "lblSelLogin": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ja986b7c2e594db9baef2535e0ae8ff7",
+                "srcKUID": "a3530b691e4f4fdb82fa257e286d2bee",
+                "wType": "Label"
+            }
+        },
+        "loginMethod": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "d1443a3715ab40e5afde6119573c8a15",
+                "srcKUID": "dda1aab54fb749559aa6573b35f382ba",
+                "wType": "FlexContainer"
+            }
+        },
+        "segLogin": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ec03d26655d24134994b093265894181",
+                "srcKUID": "ab20f20b164649c18f0f19bdb6037958",
+                "wType": "Segment"
+            }
+        }
+    },
+    "id": "loginMethod",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "d1443a3715ab40e5afde6119573c8a15",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxRegister",
+    "pf": "frmPreferencesDefaultLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "sourceUserWidget": "dda1aab54fb749559aa6573b35f382ba",
+    "wType": "UserWidgetInstance"
+}

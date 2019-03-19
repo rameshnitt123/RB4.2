@@ -1,0 +1,30 @@
+{
+    "AS_TextField_bad6faf73ad146b3b298d2082e6c1e12": {
+        "id": "AS_TextField_bad6faf73ad146b3b298d2082e6c1e12",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmProfileConfirmDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i2adb2c8c75a4944afc5cd4fed5dd55e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_f54436ec110a48e8bb5833962d7c52a7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSkinsOfUsernameAndPwd",
+            "display": "resetSkinsOfUsernameAndPwd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "January 2016"
+            }
+        },
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "March 2013"
+            }
+        },
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "December 2015"
+            }
+        },
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblOption": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "None of the Above"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segQuestion1",
+    "info": null,
+    "invokedProperty": "unselectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "b6bb910e0edc4e3a991a4724fde8f483",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxQuestions",
+    "pf": "frmOBSecurityQuestionsNew",
+    "retainselection": false,
+    "rowTemplateId": "ad11d648714c46ecb6274063ccce94fe",
+    "rowcounter": 3,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxSecurityQuestionOptions",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectimage": "radiobtn.png",
+    "selectionbehavior": "singleselect",
+    "selectionbehaviorconfig": {
+        "imageIdentifier": "imgCheckbox",
+        "selectedStateImage": "radiobtn.png",
+        "unselectedStateImage": "radiobuttoninactive.png"
+    },
+    "selectionindicator": "imgCheckbox",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "unselectimage": "radiobuttoninactive.png",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxCheckbox": "flxCheckbox",
+        "flxOption": "flxOption",
+        "flxSecurityQuestionOptions": "flxSecurityQuestionOptions",
+        "flxSeparator": "flxSeparator",
+        "imgCheckbox": "imgCheckbox",
+        "lblOption": "lblOption"
+    },
+    "zindex": 29
+}

@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_skin_": "sad545ac4ec344ba816f76efbf902746",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "android": {
+        "top": {
+            "type": "string",
+            "value": "126dp"
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9687e8b97e547bc81b55fc7a2a528c8",
+    "id": "btnEmail",
+    "info": null,
+    "ipad": {
+        "top": {
+            "type": "string",
+            "value": "67dp"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i6a117a8649a4251aca7e0ebf11c4791",
+    "name": "kony.ui.Button",
+    "parent": "flxLeftContent",
+    "pf": "frmRegP2PContactType",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.devReg.emailId",
+    "wType": "Button",
+    "zindex": 1
+}

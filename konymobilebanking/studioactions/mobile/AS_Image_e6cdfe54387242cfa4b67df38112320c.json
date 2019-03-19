@@ -1,0 +1,24 @@
+{
+    "AS_Image_e6cdfe54387242cfa4b67df38112320c": {
+        "id": "AS_Image_e6cdfe54387242cfa4b67df38112320c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmTransferAmount",
+            "type": "forms",
+            "platform": "",
+            "KUID": "je8407d2b9574cada73905d4a92c7a9b"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

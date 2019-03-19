@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5.33%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        13,
+        13,
+        13,
+        16
+    ],
+    "_placeholder_": "Enter Nickname",
+    "_skin_": "s5a4b24b58794b5d834a773aec45481d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "android": {
+        "padding": [
+            7,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s5a4b24b58794b5d834a773aec45481d",
+    "id": "tbxNickName",
+    "info": null,
+    "ipad": {
+        "padding": [
+            13,
+            13,
+            13,
+            16
+        ],
+        "paddingInPixel": true
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "d8d64cb032334185ab17fe289eb60ec4",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "flxEditNickName",
+    "pf": "frmManageEditNickName",
+    "placeholderi18n": "kony.tab.Manage.NickName",
+    "placeholderskin": "s5a4b24b58794b5d834a773aec45481d",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

@@ -1,0 +1,53 @@
+{
+    "AS_FlexContainer_c37d1997df7e41edadc294341ed1d483": {
+        "id": "AS_FlexContainer_c37d1997df7e41edadc294341ed1d483",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmTransfers",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c5cf3858f83c45218e921d6674a8f4d2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____j33ffd7d425e4c0794696c91dea92ed4",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmTransfers",
+            "widgetId": "flxHamburgerWrapper",
+            "itemKUID": "c5cf3858f83c45218e921d6674a8f4d2",
+            "widgetKUID": "da03e1725b854f1a9882e467b20711ae",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "left": "0px",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____j33ffd7d425e4c0794696c91dea92ed4",
+            "displayAnimationId": "MOVE_ACTION____j33ffd7d425e4c0794696c91dea92ed4",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxHamburgerWrapper"
+        }]
+    }
+}

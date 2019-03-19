@@ -1,0 +1,24 @@
+{
+    "AS_Form_a77e96052ff84d47933925519e60437f": {
+        "id": "AS_Form_a77e96052ff84d47933925519e60437f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfilePersonalDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g8d112c54f70404aa2605b373ca8050e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d6577ba5afde4de68ba2c5c9d5d3a733",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.cameraWidget.cameraSource = constants.CAMERA_SOURCE_FRONT;\nthis.view.forceLayout();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

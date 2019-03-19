@@ -1,0 +1,115 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s509a82e160f4d3f8f4def05d73fb706",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "accessmode": "public",
+    "android": {
+        "compressionLevel": 20,
+        "overlayConfig": {
+            "captureButtonText": "",
+            "startVideoButtonText": "",
+            "stopVideoButtonText": "",
+            "tapAnywhere": false
+        }
+    },
+    "androidwearos": {
+        "render": false
+    },
+    "camerasource": "front",
+    "canUpdateUI": true,
+    "captureorientation": 1,
+    "compressionlevel": 20,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "enableoverlay": false,
+    "id": "cameraWidget",
+    "imageFormat": 1,
+    "info": null,
+    "ipad": {
+        "compressionLevel": 20,
+        "overlayConfig": {
+            "startVideoButtonText": "",
+            "stopVideoButtonText": ""
+        },
+        "psp": {
+            "captureOrientation": 1,
+            "imageFormat": 1
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "aabc029883f144d299a544f253c97eb1",
+    "name": "kony.ui.Camera",
+    "oncapture": null,
+    "parent": "flxTakePicture",
+    "pf": "frmProfilePersonalDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "windows8": {
+        "overlayConfig": {
+            "tapAnywhere": false
+        },
+        "psp": {
+            "enablePhotoCropFeature": false
+        }
+    },
+    "zindex": 10
+}

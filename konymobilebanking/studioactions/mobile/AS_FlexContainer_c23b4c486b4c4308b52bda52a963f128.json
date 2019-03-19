@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_c23b4c486b4c4308b52bda52a963f128": {
+        "id": "AS_FlexContainer_c23b4c486b4c4308b52bda52a963f128",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d6ff10f79ab348eb9076cec0ae7ddf96",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.clearKeypadChar();",
+            "callbackType": null
+        }]
+    }
+}

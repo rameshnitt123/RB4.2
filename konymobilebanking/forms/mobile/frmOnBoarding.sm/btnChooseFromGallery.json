@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7e0442e558b44139cbb56994b882ea2",
+    "_text_": "CHOOSE FROM GALLERY",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s31beeb1acb948a9ab9cfb48513042ca"
+    },
+    "displaytext": true,
+    "id": "btnChooseFromGallery",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d1e857bf94c743098e4dd692473bd7b4",
+    "name": "kony.ui.Button",
+    "parent": "flxPopupDocumentsActions",
+    "pf": "frmOnBoarding",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "CHOOSE FROM GALLERY"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_g114c3d8ef444707a79522ee76818a39": {
+        "id": "AS_Form_g114c3d8ef444707a79522ee76818a39",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardLessEmail",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb5e04e5d05f433e996645d6033a4ab8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i60374b832394a09a6e0b7997a03ce7e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

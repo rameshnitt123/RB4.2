@@ -1,0 +1,167 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnCancel": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fbfc9132089a4833abc892935763d7a5",
+                "srcKUID": "cf0f0a7a19664002a53a1f77e7082c6c",
+                "wType": "Button"
+            },
+            "i18n_text": "kony.mb.common.CancelSmall"
+        },
+        "customSearchbox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "h475cea66b1c49d5b281ecddadcc7136",
+                "srcKUID": "f1b1b5e40a58453ab9a1b4f121e4f4eb",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeaderShadow": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d544c46dd7004f6aa61c2cbf1b4e9be6",
+                "srcKUID": "f2d9c4a6a40143d8810c778f5f634853",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j317b6b823ff4da595c1e1197953e266",
+                "srcKUID": "b3770ab32332447ab59176519234cee8",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchMain": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dc52bd8d0cbb4c2eafd9f83dbf82a8a9",
+                "srcKUID": "db20269d51344928b8ba8a9b29d0741f",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f5a1fb48d2df49ff97b141df653871f5",
+                "srcKUID": "f9d61cc007354263ab63d0c7a742aa41",
+                "wType": "Image"
+            },
+            "src": "searchblue.png"
+        },
+        "imgSearchIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a03b8197ab09464cb5354ea937aa400e",
+                "srcKUID": "j657ec465367414995d83c0c48f49c43",
+                "wType": "Image"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "17%"
+                }
+            },
+            "src": "search.png"
+        },
+        "tbxSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b1f95b118b9c4b47a8e745e03f469878",
+                "srcKUID": "b9d79b6a7ddf4527a22a3e3cc610c0f5",
+                "wType": "TextField"
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": "50%"
+                }
+            },
+            "i18n_placeholder": "kony.tab.cardManage.SearchByZipcodeStreetCity"
+        }
+    },
+    "enablescrolling": true,
+    "id": "customSearchbox",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "h475cea66b1c49d5b281ecddadcc7136",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxHeaderSearchAddress",
+    "pf": "frmProfileAddAddress",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "f1b1b5e40a58453ab9a1b4f121e4f4eb",
+    "wType": "UserWidgetInstance"
+}

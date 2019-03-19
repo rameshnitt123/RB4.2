@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_i76e42a2840746a3bca135bf153e8b62": {
+        "id": "AS_FlexContainer_i76e42a2840746a3bca135bf153e8b62",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j5f6b4ea75f3470dad1a09f2afcf0c09"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c2d6d6da285f4ddf8cd476228f50537c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert('ontouchend of account');",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

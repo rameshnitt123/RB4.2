@@ -1,0 +1,24 @@
+{
+    "AS_Button_g3e787e3d3c44cb9a1edc19da0d78944": {
+        "id": "AS_Button_g3e787e3d3c44cb9a1edc19da0d78944",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayEnterAccNo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i5252f49c72e4592a74e9d389f119243"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f4d35c8035c94af7b77fbf528a3da4a2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar('4');",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

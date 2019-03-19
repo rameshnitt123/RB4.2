@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s14771d54d8f464a84bd5bb98fd10b96",
+    "_text_": "5",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s31beeb1acb948a9ab9cfb48513042ca"
+    },
+    "displaytext": true,
+    "id": "btnFive",
+    "ide_onClick": "AS_Button_affcfe2b6832417ea8f561898481fa36",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cad924b44b444f6491318784f887d3ed",
+    "name": "kony.ui.Button",
+    "parent": "flxKeypadRowTwo",
+    "pf": "frmOnBoarding",
+    "wType": "Button",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "5"
+    }
+}

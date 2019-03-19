@@ -1,0 +1,23 @@
+{
+    "AS_Button_db535cc82fad452094f78478fc362035": {
+        "id": "AS_Button_db535cc82fad452094f78478fc362035",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrollSecurityCheck",
+            "type": "forms",
+            "platform": null,
+            "KUID": "af18f8fca016406cbd81bf3635ce0226"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_j1a8d1ff70c4430d96d1386b9a88a24f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(4);",
+            "callbackType": null
+        }]
+    }
+}

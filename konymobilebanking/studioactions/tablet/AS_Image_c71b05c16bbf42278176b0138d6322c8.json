@@ -1,0 +1,30 @@
+{
+    "AS_Image_c71b05c16bbf42278176b0138d6322c8": {
+        "id": "AS_Image_c71b05c16bbf42278176b0138d6322c8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmBillPayEnterAccNo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i5252f49c72e4592a74e9d389f119243"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g957041e001e4048a404657dc7682d3b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.clearKeypadChar();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

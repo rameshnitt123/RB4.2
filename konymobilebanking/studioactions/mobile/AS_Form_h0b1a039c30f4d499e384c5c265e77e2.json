@@ -1,0 +1,27 @@
+{
+    "AS_Form_h0b1a039c30f4d499e384c5c265e77e2": {
+        "id": "AS_Form_h0b1a039c30f4d499e384c5c265e77e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVerifyAccDetailsEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f37e7bee1cf244428144603fc7ec56a8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_preShow_j5a71e310d8e4a0183798a9d28dfeaa8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPreShow",
+            "display": "frmPreShow",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

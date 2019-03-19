@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0261c774c504d51bb5898ba125c04ac",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "53%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s0261c774c504d51bb5898ba125c04ac",
+    "id": "btnDeletePayee",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dee42afe38554b0595e1fb3d4a5ee9a7",
+    "name": "kony.ui.Button",
+    "parent": "flxButton",
+    "pf": "frmBillPayPayeeDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.tab.BillPay.DeletePayee",
+    "wType": "Button",
+    "zindex": 1
+}

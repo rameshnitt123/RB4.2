@@ -1,0 +1,28 @@
+{
+    "AS_Form_e5f2b58bae774a1abe1a31a6b6db8cd3": {
+        "id": "AS_Form_e5f2b58bae774a1abe1a31a6b6db8cd3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmChatbot",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ia2b668ba2ab410d8c182f7d888e29df"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___h92d09e6574643a7abf25b00b41df6cb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

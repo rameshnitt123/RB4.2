@@ -1,0 +1,23 @@
+{
+    "AS_Form_ja14b8788f794023bce2b2872ce89184": {
+        "id": "AS_Form_ja14b8788f794023bce2b2872ce89184",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransactionAndPaymentAlerts",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c34cd1d1bc214cb292b42a6c165f93c0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_j2b0b2c471f141b4adb7674852a9e522",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

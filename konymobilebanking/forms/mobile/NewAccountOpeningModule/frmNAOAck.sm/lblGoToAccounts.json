@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s30d39ca8c744d388569c1d52d0824b6",
+    "_text_": "GO TO ACCOUNTS",
+    "accessibilityconfig": {
+        "a11yLabel": "GO TO ACCOUNTS"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sd85a0f475ff4b3b9f0a5e4b82f68213",
+    "id": "lblGoToAccounts",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bed75e2b7b374f38a72d77c7bc24c135",
+    "name": "kony.ui.Button",
+    "parent": "frmNAOAck",
+    "pf": "frmNAOAck",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.NAO.GoToAccounts",
+    "wType": "Button",
+    "zindex": 1
+}

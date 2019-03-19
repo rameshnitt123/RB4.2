@@ -1,0 +1,150 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_children_": [],
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s8c2fc8845c94af48a5eb6ecaf6eed68",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "Hamburger": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "h8222093c5d14a7ba0aac2dc72a80029",
+                "srcKUID": "a46ededfcdb7420790458fcb3fa85e21",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHamburger": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c46429bb5c4744b9afc12740b48043d2",
+                "srcKUID": "e7e48f4d2e3b41d1bf25d131c98e712d",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a3c0c1dc6a5f454dabe3fc14d966cb84",
+                "srcKUID": "e43d197eb77b45f691511a245e5cf29f",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeaderMain": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d2d1384121f948b296872d18a44ec89c",
+                "srcKUID": "gb083de1f2954ad4a1ff2c775279e976",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeaderShadow": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aa054d1060f54749b98c3eb878824c9b",
+                "srcKUID": "eba0061a369543208909064d64d2efec",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxMenu": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b0b7e8fb8df34c26be6ee92c644cb5a1",
+                "srcKUID": "i824f0beedff4bbaa7c144eee17f7003",
+                "wType": "FlexScrollContainer"
+            }
+        },
+        "imgLogout": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d5521e91d92e4bdf8061256274a9e844",
+                "srcKUID": "d121c3493b174ced826de58968c911a4",
+                "wType": "Image"
+            }
+        },
+        "imgUser": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ee09623d52c74a53a108e21dde1be367",
+                "srcKUID": "d09098f33acc4360840c0356daadd239",
+                "wType": "Image"
+            }
+        },
+        "lblLastLogin": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b605a40f377641808a4d9136c34e1d78",
+                "srcKUID": "be3699314cca4d82a4f3be6d2ff2e322",
+                "wType": "Label"
+            }
+        },
+        "lblUsername": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a2df44f25bc749a09c2c1da5ab168379",
+                "srcKUID": "bf320facaecd4a1bb69e5460a667500c",
+                "wType": "Label"
+            }
+        },
+        "segHamburger": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hf79cd956c014673800f949e888f0374",
+                "srcKUID": "b7603b7ce8f44c9e99ac07298f41d95e",
+                "wType": "Segment"
+            }
+        }
+    },
+    "id": "Hamburger",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "h8222093c5d14a7ba0aac2dc72a80029",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxHamburgerContainer",
+    "pf": "frmTransfers",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "a46ededfcdb7420790458fcb3fa85e21",
+    "wType": "UserWidgetInstance"
+}

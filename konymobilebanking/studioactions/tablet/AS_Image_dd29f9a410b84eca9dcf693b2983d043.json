@@ -1,0 +1,29 @@
+{
+    "AS_Image_dd29f9a410b84eca9dcf693b2983d043": {
+        "id": "AS_Image_dd29f9a410b84eca9dcf693b2983d043",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSecurityCode",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aca0967c6eae497b81b9c2b4a77637f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_hd0288ae8ab44838b8e017d30284e493",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.clearKeypadChar();",
+            "callbackType": null
+        }]
+    }
+}

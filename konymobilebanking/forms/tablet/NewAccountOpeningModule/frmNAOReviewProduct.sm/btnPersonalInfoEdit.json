@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s4796a40148a493fb64ed877df0898b4",
+    "_text_": "",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s31beeb1acb948a9ab9cfb48513042ca",
+    "id": "btnPersonalInfoEdit",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "e929f96c713d4b9187488b3572955e22",
+    "name": "kony.ui.Button",
+    "parent": "flxPersonalInfo",
+    "pf": "frmNAOReviewProduct",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.tab.common.editPersonalInfo",
+    "wType": "Button",
+    "zindex": 8
+}

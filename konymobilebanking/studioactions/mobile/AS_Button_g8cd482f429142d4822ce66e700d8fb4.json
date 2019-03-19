@@ -1,0 +1,23 @@
+{
+    "AS_Button_g8cd482f429142d4822ce66e700d8fb4": {
+        "id": "AS_Button_g8cd482f429142d4822ce66e700d8fb4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferReEnterAccountNo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g450e900b3ae42dfb0c366bd54f5c1f9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c80da04e6a604de38324c73dfe7f7877",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(9);",
+            "callbackType": null
+        }]
+    }
+}

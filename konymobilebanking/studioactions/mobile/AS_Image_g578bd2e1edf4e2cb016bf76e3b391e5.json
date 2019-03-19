@@ -1,0 +1,34 @@
+{
+    "AS_Image_g578bd2e1edf4e2cb016bf76e3b391e5": {
+        "id": "AS_Image_g578bd2e1edf4e2cb016bf76e3b391e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDevRegLoginType",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d364d2a719d9467a8bf002796c63284f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a3492f27004c42968bebf05f0782b4b4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgSelTouchOnTouchEnd",
+            "display": "imgSelTouchOnTouchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

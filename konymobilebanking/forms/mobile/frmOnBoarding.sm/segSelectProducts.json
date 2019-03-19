@@ -1,0 +1,188 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnViewDetails": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "VIEW DETAILS"
+            },
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "remeberme.png"
+            },
+            "lblProductInfo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A straightforward personal checking solution…"
+            },
+            "lblProductSubTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Checking Account"
+            },
+            "lblProductTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Classic Checking Account"
+            }
+        },
+        {
+            "btnViewDetails": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "VIEW DETAILS"
+            },
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "remeberme.png"
+            },
+            "lblProductInfo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Interest earning account with higher balance req…"
+            },
+            "lblProductSubTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Checking Account"
+            },
+            "lblProductTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Interest Checking"
+            }
+        },
+        {
+            "btnViewDetails": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "VIEW DETAILS"
+            },
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "remeberme.png"
+            },
+            "lblProductInfo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "A simple personal savings account with low minim…"
+            },
+            "lblProductSubTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Savings Account"
+            },
+            "lblProductTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Regular Savings"
+            }
+        },
+        {
+            "btnViewDetails": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "VIEW DETAILS"
+            },
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "remeberme.png"
+            },
+            "lblProductInfo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "High Interest earning account with higher balance…"
+            },
+            "lblProductSubTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Savings Account"
+            },
+            "lblProductTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Premium Savings Account"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "3.30%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segSelectProducts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "dd597a0c9e4f4873a29aef07a60e62ba",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSelectProductsWrapper",
+    "pf": "frmOnBoarding",
+    "retainselection": false,
+    "rowTemplateId": "c6da82d031aa48b7ad4da41bc2bdf9e0",
+    "rowcounter": 3,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxSelectProduct",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "btnViewDetails": "btnViewDetails",
+        "flxSelectProduct": "flxSelectProduct",
+        "flxShadowUser": "flxShadowUser",
+        "imgCheckbox": "imgCheckbox",
+        "lblProductInfo": "lblProductInfo",
+        "lblProductSubTitle": "lblProductSubTitle",
+        "lblProductTitle": "lblProductTitle"
+    },
+    "zindex": 3
+}

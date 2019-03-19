@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfbeee1fcbbd406e895e9215da082c5b",
+    "_text_": "I agree to your <font color=\"#0095e4\">Terms & Conditions </font>",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxAgreeTermsConditions",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a273986af0bc46d5bdefc6911c3a55c0",
+    "name": "kony.ui.RichText",
+    "parent": "flxCheckbox",
+    "pf": "frmP2pConfirmation",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "I agree to your <font color=\"#0095e4\">Terms & Conditions </font>"
+    }
+}

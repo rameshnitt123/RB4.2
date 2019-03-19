@@ -1,0 +1,24 @@
+{
+    "AS_Button_ebf2806e210d4206ab5ec3a7d6859b5d": {
+        "id": "AS_Button_ebf2806e210d4206ab5ec3a7d6859b5d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersEndDate",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d62b7c30a5b04cf3883543ccc301f073"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e342c786b4664aa8afe473e0285802aa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transModPresentationController = applicationManager.getModulesPresentationController(\"TransferModule\");\ntransModPresentationController.commonFunctionForNavigation(\"frmTransferConfirmation\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

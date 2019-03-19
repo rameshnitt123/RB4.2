@@ -1,0 +1,23 @@
+{
+    "AS_Form_j7d94106f7824f13814228d4e8a7229c": {
+        "id": "AS_Form_j7d94106f7824f13814228d4e8a7229c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBEmploymentCurrentPosition",
+            "type": "forms",
+            "platform": null,
+            "KUID": "db831c41aa9242f7943861b0e1587474"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_i013ba514d90433c946424745b505bb5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "callbackType": null
+        }]
+    }
+}

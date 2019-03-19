@@ -1,0 +1,24 @@
+{
+    "AS_Form_d4bd82567b7c4074bca56818ead537f9": {
+        "id": "AS_Form_d4bd82567b7c4074bca56818ead537f9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAlertsBalanceUpdate",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d228c0909d1241f590baff12e6308932"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b1ce17453d934990830a624cbb17ba0f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_f996dad6dbb549b5891a26ef3834bf4a": {
+        "id": "AS_Form_f996dad6dbb549b5891a26ef3834bf4a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddBenRoutNo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c5101bdbc33746c9862f93b72d4705c1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___da14626e79e54ce5a3ce8b37273614ff",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "renderTitleBar",
+            "display": "renderTitleBar",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

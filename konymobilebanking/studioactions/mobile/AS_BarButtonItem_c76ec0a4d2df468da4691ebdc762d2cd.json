@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_c76ec0a4d2df468da4691ebdc762d2cd": {
+        "id": "AS_BarButtonItem_c76ec0a4d2df468da4691ebdc762d2cd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i9ab43f226504b10b7e179ee22e2c787",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxEdit.setVisibility(true);\nthis.view.flxTransactions.setEnabled(false);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

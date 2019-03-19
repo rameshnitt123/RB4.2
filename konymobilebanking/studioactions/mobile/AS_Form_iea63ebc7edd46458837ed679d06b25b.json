@@ -1,0 +1,23 @@
+{
+    "AS_Form_iea63ebc7edd46458837ed679d06b25b": {
+        "id": "AS_Form_iea63ebc7edd46458837ed679d06b25b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageTravelDestination",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d6ac4e6e4ce4414db7d6c9979900f257"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_gd32ae9ab95c4aefa59df9a1c17171d3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

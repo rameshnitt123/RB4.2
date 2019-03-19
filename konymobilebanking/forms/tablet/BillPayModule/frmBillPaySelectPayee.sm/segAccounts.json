@@ -1,0 +1,251 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Transactions"
+                }
+            },
+            [
+                {
+                    "imgInfo": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "info_icon_1.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill_1.png"
+                    },
+                    "lblPayeeInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblPayeeName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                },
+                {
+                    "imgInfo": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "info_icon_1.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill_1.png"
+                    },
+                    "lblPayeeInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblPayeeName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                },
+                {
+                    "imgInfo": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "info_icon_1.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill_1.png"
+                    },
+                    "lblPayeeInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblPayeeName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Transactions"
+                }
+            },
+            [
+                {
+                    "imgInfo": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "info_icon_1.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill_1.png"
+                    },
+                    "lblPayeeInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblPayeeName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                },
+                {
+                    "imgInfo": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "info_icon_1.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill_1.png"
+                    },
+                    "lblPayeeInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblPayeeName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                },
+                {
+                    "imgInfo": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "info_icon_1.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill_1.png"
+                    },
+                    "lblPayeeInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblPayeeName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "19dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "12",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segAccounts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f9a76167e0e842ab9a05ba83d7ec63ff",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmBillPaySelectPayee",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "i5024a17277f42a8a14beef3b9334126",
+    "rowcounter": 2,
+    "rowfocusskin": "sd2d67c791804f578820295b84a50b08",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxSelectPayee",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionHeaderTemplateId": "g4fce1a596714490b9577496fe0d8408",
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "sectionheadertemplate": "flxTransHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxInfo": "flxInfo",
+        "flxRowAction": "flxRowAction",
+        "flxSelectPayee": "flxSelectPayee",
+        "flxSeparator": "flxSeparator",
+        "flxShadowBottom": "flxShadowBottom",
+        "flxTransHeader": "flxTransHeader",
+        "flxTypeOneShadow": "flxTypeOneShadow",
+        "flxebill": "flxebill",
+        "imgInfo": "imgInfo",
+        "imgUpArrow": "imgUpArrow",
+        "imgebill": "imgebill",
+        "lblHeader": "lblHeader",
+        "lblPayeeInfo": "lblPayeeInfo",
+        "lblPayeeName": "lblPayeeName"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_b8627cbe7a74460da61abdc4a9f257e3": {
+        "id": "AS_Button_b8627cbe7a74460da61abdc4a9f257e3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferAccountNo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hc3606ac0ae04f91859fdd483e672375"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e8e012414ccd480ebc270c264674bd98",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(6);",
+            "callbackType": null
+        }]
+    }
+}

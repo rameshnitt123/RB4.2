@@ -1,0 +1,6 @@
+digraph LocationSettings_package_dependencies {
+  node [shape = box, fontsize=10.0];
+  com_kony_location -> android_content;
+  com_kony_location -> android_util;
+  com_kony_location -> com_konylabs_android;
+}

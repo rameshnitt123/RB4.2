@@ -1,0 +1,23 @@
+{
+    "AS_Button_f597585ec2d54832bebfc81a57520747": {
+        "id": "AS_Button_f597585ec2d54832bebfc81a57520747",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferConfirmationEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g7fc220f00b74ce99263f1caa68e6bbd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_fd375b899da64c30b83fe7faeefb0eae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transModPresentationController = applicationManager.getModulesPresentationController(\"TransferModule\");\ntransModPresentationController.commonFunctionForNavigation(\"frmTransfersEurope\");",
+            "callbackType": null
+        }]
+    }
+}

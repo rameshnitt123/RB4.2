@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_b736a0f950354fe5a2886feb689e0b91": {
+        "id": "AS_FlexContainer_b736a0f950354fe5a2886feb689e0b91",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c7fc33453b30423580dacd3787e2870b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxFaceIdOnClick",
+            "display": "flxFaceIdOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

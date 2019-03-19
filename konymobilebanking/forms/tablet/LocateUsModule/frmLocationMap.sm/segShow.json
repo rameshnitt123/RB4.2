@@ -1,0 +1,141 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblRange": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Branches"
+            },
+            "lblSeparator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5 Miles"
+            }
+        },
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttoninactive.png"
+            },
+            "lblRange": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ATM’s"
+            },
+            "lblSeparator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5 Miles"
+            }
+        },
+        {
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobtn_2.png"
+            },
+            "lblRange": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Both"
+            },
+            "lblSeparator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5 Miles"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segShow",
+    "info": null,
+    "invokedProperty": "unselectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ccbc4d43619a4d7fbce8a48166c03d44",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxFiltersegs",
+    "pf": "frmLocationMap",
+    "retainselection": false,
+    "rowTemplateId": "f604ea9a882f4e4fa1dfc5a421a4c7b3",
+    "rowcounter": 2,
+    "rowfocusskin": "s02d7ca459a74168b4573e79b9d8efec",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "CopyflxRange0d286e27eb3ec4f",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectimage": "radiobuttonactive.png",
+    "selectionbehavior": "singleselect",
+    "selectionindicator": "imgCheckbox",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "unselectimage": "radiobuttoninactive.png",
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxRange0d286e27eb3ec4f": "CopyflxRange0d286e27eb3ec4f",
+        "flxCheckbox": "flxCheckbox",
+        "imgCheckbox": "imgCheckbox",
+        "lblRange": "lblRange",
+        "lblSeparator": "lblSeparator"
+    },
+    "zindex": 1
+}

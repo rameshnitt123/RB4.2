@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_g65fab3e51a34cc6a89afe4ba1776ad8": {
+        "id": "AS_FlexContainer_g65fab3e51a34cc6a89afe4ba1776ad8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferToAccount",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b2d21b33448d4283bcf48853a46566ae"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bd0359d60a7f4d9db5f634966c31d988",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transModPresentationController = applicationManager.getModulesPresentationController(\"TransferModule\");\ntransModPresentationController.commonFunctionForNavigation(\"frmTransactionMode\");",
+            "callbackType": null
+        }]
+    }
+}

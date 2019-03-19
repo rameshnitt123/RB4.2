@@ -1,0 +1,23 @@
+{
+    "AS_Button_c3288611db2b4802b68877095c87a7fd": {
+        "id": "AS_Button_c3288611db2b4802b68877095c87a7fd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrollLastName",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cec4f0b2aea2420a937739e98e009103"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e5ff3ac4312743d8981c63d00ec3ffcd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(4);",
+            "callbackType": null
+        }]
+    }
+}

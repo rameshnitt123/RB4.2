@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1f6c1bb143b40f9b61384fd19a59407",
+    "_text_": "Incorrect entry, try again ",
+    "_top_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblEnterPersonalInfoError",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "dcab8fe85f574d64b7624e49053a8de4",
+    "name": "kony.ui.Label",
+    "parent": "flxEnterPersonalInfo",
+    "pf": "frmOnBoarding",
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "Incorrect entry, try again "
+    }
+}

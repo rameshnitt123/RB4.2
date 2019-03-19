@@ -1,0 +1,36 @@
+{
+    "AS_Segment_a7fb95dff2684108a71b4aedc4ae1c8c": {
+        "id": "AS_Segment_a7fb95dff2684108a71b4aedc4ae1c8c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmTransferFrequencyEurope",
+            "type": "forms",
+            "platform": "",
+            "KUID": "iad22f5f5374417da68454a48828603f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___bd48d69db9914122a212f04b1662a469",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransfersStartDateEurope",
+            "friendlyName": "frmTransfersStartDateEurope",
+            "formKUID": "e24fef2f6f104f11aa5033593f4bf954",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModuleEurope"
+        }]
+    }
+}

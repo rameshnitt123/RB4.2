@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_a36a943ea81345bc863d051a69ce4973": {
+        "id": "AS_BarButtonItem_a36a943ea81345bc863d051a69ce4973",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d81c25a1719f4e98949f62a9e59519f6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.iphoneInformationIcononClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

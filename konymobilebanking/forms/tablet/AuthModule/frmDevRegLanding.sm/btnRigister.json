@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb37a8abce994e029ff7985fe9235640",
+    "_text_": "Register Now",
+    "_top_": {
+        "type": "string",
+        "value": "139dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "86.95%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb37a8abce994e029ff7985fe9235640",
+    "id": "btnRigister",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bd45421d92cb40ad9b1970a22f241c71",
+    "name": "kony.ui.Button",
+    "parent": "flxRegister",
+    "pf": "frmDevRegLanding",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.devReg.regNow",
+    "wType": "Button",
+    "zindex": 3
+}

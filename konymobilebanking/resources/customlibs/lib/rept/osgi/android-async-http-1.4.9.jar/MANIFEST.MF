@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+
+### OSGi information
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.loopj.android.http
+Bundle-Description: android-async-http-1.4.9
+Bundle-Name: android-async-http-1.4.9
+Bundle-Version: 0.0.0
+Export-Package: com.loopj.android.http;uses:="android.annotation,andro
+ id.content,android.os,android.text,android.util,cz.msebera.android.ht
+ tpclient,cz.msebera.android.httpclient.auth,cz.msebera.android.httpcl
+ ient.client,cz.msebera.android.httpclient.client.entity,cz.msebera.an
+ droid.httpclient.client.methods,cz.msebera.android.httpclient.client.
+ params,cz.msebera.android.httpclient.client.protocol,cz.msebera.andro
+ id.httpclient.client.utils,cz.msebera.android.httpclient.conn,cz.mseb
+ era.android.httpclient.conn.params,cz.msebera.android.httpclient.conn
+ .scheme,cz.msebera.android.httpclient.conn.ssl,cz.msebera.android.htt
+ pclient.cookie,cz.msebera.android.httpclient.entity,cz.msebera.androi
+ d.httpclient.impl.auth,cz.msebera.android.httpclient.impl.client,cz.m
+ sebera.android.httpclient.impl.conn.tsccm,cz.msebera.android.httpclie
+ nt.impl.cookie,cz.msebera.android.httpclient.message,cz.msebera.andro
+ id.httpclient.params,cz.msebera.android.httpclient.protocol,cz.mseber
+ a.android.httpclient.util,org.json"
+Import-Package: android.annotation,android.content,android.os,android.
+ text,android.util,cz.msebera.android.httpclient;version="0.0.0",cz.ms
+ ebera.android.httpclient.auth;version="0.0.0",cz.msebera.android.http
+ client.client;version="0.0.0",cz.msebera.android.httpclient.client.en
+ tity;version="0.0.0",cz.msebera.android.httpclient.client.methods;ver
+ sion="0.0.0",cz.msebera.android.httpclient.client.params;version="0.0
+ .0",cz.msebera.android.httpclient.client.protocol;version="0.0.0",cz.
+ msebera.android.httpclient.client.utils;version="0.0.0",cz.msebera.an
+ droid.httpclient.conn;version="0.0.0",cz.msebera.android.httpclient.c
+ onn.params;version="0.0.0",cz.msebera.android.httpclient.conn.scheme;
+ version="0.0.0",cz.msebera.android.httpclient.conn.ssl;version="0.0.0
+ ",cz.msebera.android.httpclient.cookie;version="0.0.0",cz.msebera.and
+ roid.httpclient.entity;version="0.0.0",cz.msebera.android.httpclient.
+ impl.auth;version="0.0.0",cz.msebera.android.httpclient.impl.client;v
+ ersion="0.0.0",cz.msebera.android.httpclient.impl.conn.tsccm;version=
+ "0.0.0",cz.msebera.android.httpclient.impl.cookie;version="0.0.0",cz.
+ msebera.android.httpclient.message;version="0.0.0",cz.msebera.android
+ .httpclient.params;version="0.0.0",cz.msebera.android.httpclient.prot
+ ocol;version="0.0.0",cz.msebera.android.httpclient.util;version="0.0.
+ 0",java.io,java.lang,java.lang.ref,java.lang.reflect,java.net,java.se
+ curity,java.security.cert,java.util,java.util.concurrent,java.util.co
+ ncurrent.atomic,java.util.regex,java.util.zip,javax.net.ssl,javax.xml
+ .parsers,org.json,org.xml.sax,org.xml.sax.helpers

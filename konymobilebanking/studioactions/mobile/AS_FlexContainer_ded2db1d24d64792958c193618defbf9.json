@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_ded2db1d24d64792958c193618defbf9": {
+        "id": "AS_FlexContainer_ded2db1d24d64792958c193618defbf9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgot",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fabc653950774f86a578cb382970af65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ge233aa61d584f97b24d6a91db823d7f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "friendlyName": "frmLogin",
+            "formKUID": "h65c10a2cabc493c8ac9ef9c703d1486",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        10,
+        3,
+        1,
+        3
+    ],
+    "_placeholder_": "Answer here",
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sdc14f85f7984e13bb5ed2544fe80fe6",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {
+        "padding": [
+            10,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtQuestionOne",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "f5104eaa014d435487b5ab2be12d4b4e",
+    "maxtextlength": "",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "CopyflxProgressBackgroundHeader0d5fde867060d46",
+    "pf": "frmOBSecurityQuestions",
+    "placeholderi18n": "kony.mb.common.AnswerHere",
+    "placeholderskin": "s1bcf8b78d1649a9a56fc498f08472f8",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "Answer here"
+    }
+}

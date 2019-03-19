@@ -1,0 +1,23 @@
+{
+    "AS_Button_j684332897ec49458c3a9f1c7b6ab038": {
+        "id": "AS_Button_j684332897ec49458c3a9f1c7b6ab038",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterDOB",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fc40338e7ea64c55bfbabdaf9eacd83a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c1002afaa8924d0e906deb97e493340f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.updatePasswordAction();",
+            "callbackType": null
+        }]
+    }
+}

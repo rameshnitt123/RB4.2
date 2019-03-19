@@ -1,0 +1,189 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_bounces_": false,
+    "_data_": [
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bank Accounts"
+                }
+            },
+            [
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblTransactionMode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Kony Accounts"
+                    },
+                    "lblTransactionModeDescription": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Transfer money to your other bank accounts"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblTransactionMode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Kony Accounts"
+                    },
+                    "lblTransactionModeDescription": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Transfer money to your other bank accounts"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblTransactionMode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Kony Accounts"
+                    },
+                    "lblTransactionModeDescription": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Transfer money to your other bank accounts"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Pay a Person Recipients"
+                }
+            },
+            [
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblTransactionMode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Kony Accounts"
+                    },
+                    "lblTransactionModeDescription": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Transfer money to your other bank accounts"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "10",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segRecipientType",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jf81a04e0f5942ae8b02340631d85584",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxTransactionModeMain",
+    "pf": "frmManageRecipientType",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "c0609567cd28477289424526984c3916",
+    "rowcounter": 0,
+    "rowfocusskin": "sd2d67c791804f578820295b84a50b08",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxTransactionMode",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionHeaderTemplateId": "d99c4970815b4b6e986a4b874dab89d1",
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "sectionheadertemplate": "flxRecipientTypeHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxArrow": "flxArrow",
+        "flxRecipientTypeHeader": "flxRecipientTypeHeader",
+        "flxSeparator": "flxSeparator",
+        "flxTransactionMode": "flxTransactionMode",
+        "imgArrow": "imgArrow",
+        "imgUpArrow": "imgUpArrow",
+        "lblHeader": "lblHeader",
+        "lblTransactionMode": "lblTransactionMode",
+        "lblTransactionModeDescription": "lblTransactionModeDescription"
+    },
+    "zindex": 1
+}

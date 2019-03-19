@@ -1,0 +1,24 @@
+{
+    "AS_Form_c6fdffe409c64f0492d3942c57c5c1cb": {
+        "id": "AS_Form_c6fdffe409c64f0492d3942c57c5c1cb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAlertsMinimumBalance",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b2e5e3ca7fd34da2bcd94cb2bf3b6d9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e4cf2433b5084348bc6ea63badb591bf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

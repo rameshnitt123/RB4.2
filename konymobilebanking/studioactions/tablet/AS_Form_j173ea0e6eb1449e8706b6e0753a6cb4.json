@@ -1,0 +1,24 @@
+{
+    "AS_Form_j173ea0e6eb1449e8706b6e0753a6cb4": {
+        "id": "AS_Form_j173ea0e6eb1449e8706b6e0753a6cb4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddBenRoutNo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e397f3d6647e461c864e839fca5b2612"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b3507233ce7c4597a697d83255d95f13",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

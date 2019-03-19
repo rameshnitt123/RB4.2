@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_d36494ba138548328413faac452abee7": {
+        "id": "AS_AppEvents_d36494ba138548328413faac452abee7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d9fbc8ec37a6443fb33062e77daa5ccc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var ApplicationManager = require('ApplicationManager');\napplicationManager = ApplicationManager.getApplicationManager();\napplicationManager.preappInitCalls();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Button_hbce0dc9e31a44b289f1d0a2019b0866": {
+        "id": "AS_Button_hbce0dc9e31a44b289f1d0a2019b0866",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSSN",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hcdda3e785c94749838ba1f5a454aff0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___db1d43e00c404739b9fc4de64d1e1493",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmForgotEnterDOB",
+            "friendlyName": "frmForgotEnterDOB",
+            "formKUID": "fc40338e7ea64c55bfbabdaf9eacd83a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

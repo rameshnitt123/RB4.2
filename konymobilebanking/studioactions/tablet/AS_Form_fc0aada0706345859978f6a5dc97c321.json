@@ -1,0 +1,28 @@
+{
+    "AS_Form_fc0aada0706345859978f6a5dc97c321": {
+        "id": "AS_Form_fc0aada0706345859978f6a5dc97c321",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileEditPhoneNumberMain",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e183511a214548eea5c48847206e3e0f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c3d1db34791845e389bf694294fcc9c3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

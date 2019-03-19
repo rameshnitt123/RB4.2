@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd66ab9d78e44ad483da1a2bc69fc0ef",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "501dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "52.08%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se17d135a25a4b5d96da832c7e08873c",
+    "id": "btnContinue",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bfbfb218a0dc453aa2e22b9a5fdfad22",
+    "name": "kony.ui.Button",
+    "parent": "flxMainContainer",
+    "pf": "frmProfileUsername",
+    "texti18n": "kony.mb.Profile.UpdateUsername",
+    "wType": "Button",
+    "zindex": 1
+}

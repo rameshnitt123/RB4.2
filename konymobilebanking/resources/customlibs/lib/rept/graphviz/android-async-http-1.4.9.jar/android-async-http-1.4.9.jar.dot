@@ -1,0 +1,4 @@
+digraph android_async_http_1_4_9_dependencies {
+  node [shape = box, fontsize=10.0];
+  android_async_http_1_4_9 -> httpclient_4_4_1_1;
+}

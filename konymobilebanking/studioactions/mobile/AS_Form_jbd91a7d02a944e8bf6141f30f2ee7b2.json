@@ -1,0 +1,24 @@
+{
+    "AS_Form_jbd91a7d02a944e8bf6141f30f2ee7b2": {
+        "id": "AS_Form_jbd91a7d02a944e8bf6141f30f2ee7b2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNAOProductDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jd9f9b33b33c428aa2271e13493ac2bc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__af4913ea47cb4cfcab72fc26e2658c4a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

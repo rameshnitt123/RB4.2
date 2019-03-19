@@ -1,0 +1,24 @@
+{
+    "AS_Form_eac7310c89cf436eb3373ee9ea84ce87": {
+        "id": "AS_Form_eac7310c89cf436eb3373ee9ea84ce87",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersEurope",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eea7481a5385413d8a3352cb55833bbb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d1778c7a34cf4be1aefee26b75af2da1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.dismissLoadingScreen();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

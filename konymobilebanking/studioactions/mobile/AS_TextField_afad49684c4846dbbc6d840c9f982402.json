@@ -1,0 +1,30 @@
+{
+    "AS_TextField_afad49684c4846dbbc6d840c9f982402": {
+        "id": "AS_TextField_afad49684c4846dbbc6d840c9f982402",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmOBLogin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fa70be2d0d5949e6b23cfd303bc6aad8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_gc86f16826e64fd59bae95a4167a2302",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSkinsOfUsernameAndPwd",
+            "display": "resetSkinsOfUsernameAndPwd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

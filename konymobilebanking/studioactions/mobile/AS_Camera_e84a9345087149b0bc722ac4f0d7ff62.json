@@ -1,0 +1,24 @@
+{
+    "AS_Camera_e84a9345087149b0bc722ac4f0d7ff62": {
+        "id": "AS_Camera_e84a9345087149b0bc722ac4f0d7ff62",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBDocument",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j5a5ae10265041c4b5af23bb9a29e0cc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ef590c24d3de4040a0a62dec19f6cd68",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.captureAddressProofDocument();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

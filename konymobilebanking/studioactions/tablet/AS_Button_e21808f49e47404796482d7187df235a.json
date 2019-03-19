@@ -1,0 +1,21 @@
+{
+    "AS_Button_e21808f49e47404796482d7187df235a": {
+        "id": "AS_Button_e21808f49e47404796482d7187df235a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e498013ed8bb4719a2c5757323086c5a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnVerifyOnClick",
+            "display": "btnVerifyOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

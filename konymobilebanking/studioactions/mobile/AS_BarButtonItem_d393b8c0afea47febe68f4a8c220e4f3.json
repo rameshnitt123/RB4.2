@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_d393b8c0afea47febe68f4a8c220e4f3": {
+        "id": "AS_BarButtonItem_d393b8c0afea47febe68f4a8c220e4f3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c27c5c967c70450a938bf6c5166d32b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.logoutOnClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

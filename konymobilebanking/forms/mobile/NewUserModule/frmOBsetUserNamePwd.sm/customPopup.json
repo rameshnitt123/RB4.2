@@ -1,0 +1,97 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s966eaf1ea1441148b4828270a782f8b",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "customPopup": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ea09db577dae4a70ae3e862699d8c769",
+                "srcKUID": "ie413e7d00ff441480a402d8b73f47f4",
+                "wType": "FlexContainer"
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        },
+        "flxPopupWrapper": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f3171b2d957c4419b2b9ab5a7d2b2fde",
+                "srcKUID": "f56145d08fa2451fb9475e5d2bc6a01d",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgPopup": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a68f08d59ade47b4b158a2df25854f66",
+                "srcKUID": "f4638082e0dc4d7c9a5f12dbb322786e",
+                "wType": "Image"
+            }
+        },
+        "lblPopup": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a1ae0ca0e7db4907961a7f6d6cbf382a",
+                "srcKUID": "gc00deb3138044cd9f219a4d21d5533c",
+                "wType": "Label"
+            }
+        }
+    },
+    "id": "customPopup",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "b003ca073abb4539b1219204b35701ae",
+    "layouttype": 3,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxPopup",
+    "pf": "frmOBsetUserNamePwd",
+    "snaptogrid": true,
+    "sourceUserWidget": "ie413e7d00ff441480a402d8b73f47f4",
+    "wType": "UserWidgetInstance"
+}

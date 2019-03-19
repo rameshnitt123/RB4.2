@@ -1,0 +1,132 @@
+{
+    "classname": "CardView",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "d74170e774e54c55a96d499590f92c0c",
+                    "paramList": [
+                        {
+                            "name": "i18Key"
+                        }
+                    ],
+                    "propertyKey": "setI18Text",
+                    "pw": {
+                        "displayName": "setI18Text",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "dce83fbcd22e4a6eb363224ecd821408",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b41cefc8c283473b9bf802bb5da74cd1",
+                    "paramList": [
+                        {
+                            "name": "text"
+                        }
+                    ],
+                    "propertyKey": "setText",
+                    "pw": {
+                        "displayName": "setText",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "dce83fbcd22e4a6eb363224ecd821408",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "b480b614c2e64ec2a2a6a67972e61885",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "onSelected",
+                    "pw": {
+                        "displayName": "onSelected",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "dce83fbcd22e4a6eb363224ecd821408",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "Icon"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "Icon",
+                    "kuid": "b3fef65d218041f9861dbf93a279348a",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 1,
+                    "propertyKey": "src",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "src",
+                        "srcWidget": "imgIcon",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "e5990c6fdbe6407fb97865d848c8fa2c"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "fcc73daaea364c23a140156bf1a2a879",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "text",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "srcWidget": "rtxCardView",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textarea",
+                        "wType": "RichText"
+                    },
+                    "srcWgtKUID": "edd4e0bf00d94979aa6451339dffa066"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "enableLocking": true,
+    "namespace": "com.banking",
+    "userDetails": {
+        "key": "olesnyak@softserveinc.com"
+    },
+    "version": "1.0.0"
+}

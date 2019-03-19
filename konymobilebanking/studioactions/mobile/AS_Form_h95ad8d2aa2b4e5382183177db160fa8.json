@@ -1,0 +1,23 @@
+{
+    "AS_Form_h95ad8d2aa2b4e5382183177db160fa8": {
+        "id": "AS_Form_h95ad8d2aa2b4e5382183177db160fa8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferRoutingNo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bb574d49d1204bd796c9045bdf9a36dc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_b0d196f418664075a4941ef59a302b91",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

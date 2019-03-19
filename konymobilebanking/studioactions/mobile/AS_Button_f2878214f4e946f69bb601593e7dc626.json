@@ -1,0 +1,23 @@
+{
+    "AS_Button_f2878214f4e946f69bb601593e7dc626": {
+        "id": "AS_Button_f2878214f4e946f69bb601593e7dc626",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2pAmount",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a303dc034db740dfbc725d9a524fa6fd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c8c611274a0a4d44b647f4bc9a47bee9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(9);",
+            "callbackType": null
+        }]
+    }
+}

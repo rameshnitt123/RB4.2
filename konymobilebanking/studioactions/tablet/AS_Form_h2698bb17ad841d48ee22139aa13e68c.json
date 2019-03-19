@@ -1,0 +1,28 @@
+{
+    "AS_Form_h2698bb17ad841d48ee22139aa13e68c": {
+        "id": "AS_Form_h2698bb17ad841d48ee22139aa13e68c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PRecPhoneNo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dfb5b4ab628e4394a2abcf0bc0fba790"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___h83a372dd3cc4a2faecdd569240b2e45",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

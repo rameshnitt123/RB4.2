@@ -1,0 +1,30 @@
+{
+    "AS_Button_gc41f527a73942a4a38ffdf4f1f70c1e": {
+        "id": "AS_Button_gc41f527a73942a4a38ffdf4f1f70c1e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmtransfersAccountNumberEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a8cfc87106fe4ba8a7ff56c020bbfb08"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ad14270a9fa04dbc9dcaba086eac07b9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmBenNameEurope",
+            "friendlyName": "frmBenNameEurope",
+            "formKUID": "d0ec916ea28746d78e86dcb5f6e90eae",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModuleEurope"
+        }]
+    }
+}

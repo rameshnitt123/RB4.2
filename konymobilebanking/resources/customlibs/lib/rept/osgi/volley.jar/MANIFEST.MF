@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+
+
+### OSGi information
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.android.volley.toolbox
+Bundle-Description: volley
+Bundle-Name: volley
+Bundle-Version: 0.0.0
+Export-Package: com.android.volley;uses:="android.annotation,android.c
+ ontent,android.net,android.os,android.text,android.util",com.android.
+ volley.toolbox;uses:="android.accounts,android.content,android.conten
+ t.pm,android.graphics,android.net.http,android.os,android.text,androi
+ d.util,android.view,android.widget,com.android.volley,org.apache.http
+ ,org.apache.http.client,org.apache.http.client.methods,org.apache.htt
+ p.conn,org.apache.http.entity,org.apache.http.impl.cookie,org.apache.
+ http.message,org.apache.http.params,org.json"
+Import-Package: android.accounts,android.annotation,android.content,an
+ droid.content.pm,android.graphics,android.net,android.net.http,androi
+ d.os,android.text,android.util,android.view,android.widget,java.io,ja
+ va.lang,java.net,java.util,java.util.concurrent,java.util.concurrent.
+ atomic,javax.net.ssl,org.apache.http,org.apache.http.client,org.apach
+ e.http.client.methods,org.apache.http.conn,org.apache.http.entity,org
+ .apache.http.impl.cookie,org.apache.http.message,org.apache.http.para
+ ms,org.json

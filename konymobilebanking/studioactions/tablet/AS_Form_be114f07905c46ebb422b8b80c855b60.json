@@ -1,0 +1,28 @@
+{
+    "AS_Form_be114f07905c46ebb422b8b80c855b60": {
+        "id": "AS_Form_be114f07905c46ebb422b8b80c855b60",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBMembershipEligibility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ic87b71c52fe423fb1da40aba2be95dc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___hdc2fc55268a4443a74ab0c0327047cb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPreShow",
+            "display": "frmPreShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_BarButtonItem_if933500c53e42fdba176d6ac8ea9e54": {
+        "id": "AS_BarButtonItem_if933500c53e42fdba176d6ac8ea9e54",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e725b41ad79b4133b880c9c3d6b9a627",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccInfoEdit",
+            "friendlyName": "frmAccInfoEdit",
+            "formKUID": "df719d7db4c7442d9ac666978eca0b5e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AccountModule"
+        }]
+    }
+}

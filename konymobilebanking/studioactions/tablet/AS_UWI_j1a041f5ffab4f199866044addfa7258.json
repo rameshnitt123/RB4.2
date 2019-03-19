@@ -1,0 +1,25 @@
+{
+    "AS_UWI_j1a041f5ffab4f199866044addfa7258": {
+        "id": "AS_UWI_j1a041f5ffab4f199866044addfa7258",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "frmDepositAmountCD",
+            "type": "forms",
+            "platform": "",
+            "KUID": "febf1ca4f6bb4bddbd2344ff08c014bc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___eae6dfe0ffc1497092156fccace38949",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "clickBtnChange",
+            "display": "clickBtnChange",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-SymbolicName: org.apache.commons.collections
+Archiver-Version: Plexus Archiver
+Built-By: Niall Pemberton
+Bnd-LastModified: 1207924690187
+Implementation-Vendor-Id: org.apache
+Specification-Title: Commons Collections
+Bundle-DocURL: http://commons.apache.org/collections/
+Import-Package: org.apache.commons.collections;version="3.2.1",org.apa
+ che.commons.collections.bag;version="3.2.1",org.apache.commons.collec
+ tions.bidimap;version="3.2.1",org.apache.commons.collections.buffer;v
+ ersion="3.2.1",org.apache.commons.collections.collection;version="3.2
+ .1",org.apache.commons.collections.comparators;version="3.2.1",org.ap
+ ache.commons.collections.functors;version="3.2.1",org.apache.commons.
+ collections.iterators;version="3.2.1",org.apache.commons.collections.
+ keyvalue;version="3.2.1",org.apache.commons.collections.list;version=
+ "3.2.1",org.apache.commons.collections.map;version="3.2.1",org.apache
+ .commons.collections.set;version="3.2.1"
+Export-Package: org.apache.commons.collections.map;version="3.2.1",org
+ .apache.commons.collections.buffer;version="3.2.1",org.apache.commons
+ .collections.comparators;version="3.2.1",org.apache.commons.collectio
+ ns.collection;version="3.2.1",org.apache.commons.collections.bag;vers
+ ion="3.2.1",org.apache.commons.collections.iterators;version="3.2.1",
+ org.apache.commons.collections.bidimap;version="3.2.1",org.apache.com
+ mons.collections.set;version="3.2.1",org.apache.commons.collections.f
+ unctors;version="3.2.1",org.apache.commons.collections.list;version="
+ 3.2.1",org.apache.commons.collections.keyvalue;version="3.2.1",org.ap
+ ache.commons.collections;version="3.2.1"
+Bundle-Name: Commons Collections
+Implementation-Title: Commons Collections
+Bundle-Description: Types that extend and augment the Java Collections
+  Framework.
+Implementation-Version: 3.2.1
+Specification-Vendor: The Apache Software Foundation
+Bundle-ManifestVersion: 2
+Bundle-Vendor: The Apache Software Foundation
+Tool: Bnd-0.0.238
+Implementation-Vendor: The Apache Software Foundation
+Bundle-Version: 3.2.1
+X-Compile-Target-JDK: 1.2
+X-Compile-Source-JDK: 1.2
+Created-By: 1.5.0_07 (Sun Microsystems Inc.)
+Build-Jdk: 1.5.0_07
+Specification-Version: 3.2.1
+

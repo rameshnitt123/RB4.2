@@ -1,0 +1,647 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "kony.mb.accdetails.pendingTransactions",
+                    "text": "Scheduled Payments"
+                }
+            },
+            [
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "kony.mb.accdetails.postedTransactions",
+                    "text": "Posted Payments"
+                }
+            },
+            [
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                },
+                {
+                    "imgBillPay": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgDelete": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgebill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: 05/14/2018"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sCSDcas"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasd"
+                    },
+                    "lblAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "asdasc"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "sddcs"
+                    },
+                    "lblBillPay": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    },
+                    "lblDelete": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "i18nkey": "kony.mb.BillPay.VIEWBILL",
+                        "text": "Delete"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "14",
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segTransactions",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "enableDictionary": true,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fdea4e0d66334e71afdde2d2f81d723c",
+    "masterdata": {},
+    "minheight": {
+        "type": "string",
+        "value": "85%"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmBillPay",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ce80a32303a24e3699cac403936dcbbc",
+    "rowcounter": 4,
+    "rowfocusskin": "s02d7ca459a74168b4573e79b9d8efec",
+    "rowskin": "s7edd442a0b84fcf8effd2349b7c3044",
+    "rowtemplate": "flxAccountsNoImageBillPay",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionHeaderTemplateId": "b03f45aac486491a95c007aa96cecb1e",
+    "sectionheaderskin": "s7edd442a0b84fcf8effd2349b7c3044",
+    "sectionheadertemplate": "flxTransHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAccountName": "flxAccountName",
+        "flxAccountsNoImageBillPay": "flxAccountsNoImageBillPay",
+        "flxBillPay": "flxBillPay",
+        "flxMain": "flxMain",
+        "flxSeparator": "flxSeparator",
+        "flxShadowBottom": "flxShadowBottom",
+        "flxTransHeader": "flxTransHeader",
+        "flxTypeOneShadow": "flxTypeOneShadow",
+        "flxViewBill": "flxViewBill",
+        "flxebill": "flxebill",
+        "imgBillPay": "imgBillPay",
+        "imgDelete": "imgDelete",
+        "imgUpArrow": "imgUpArrow",
+        "imgebill": "imgebill",
+        "lblAccountBal": "lblAccountBal",
+        "lblAccountBalValue": "lblAccountBalValue",
+        "lblAccountName": "lblAccountName",
+        "lblAccountNumber": "lblAccountNumber",
+        "lblBankName": "lblBankName",
+        "lblBillPay": "lblBillPay",
+        "lblDelete": "lblDelete",
+        "lblHeader": "lblHeader"
+    },
+    "widgetskin": "s7edd442a0b84fcf8effd2349b7c3044",
+    "zindex": 1
+}

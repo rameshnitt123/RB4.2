@@ -1,0 +1,27 @@
+{
+    "AS_TextField_c19759a3e8784b7a95685a1099b03e01": {
+        "id": "AS_TextField_c19759a3e8784b7a95685a1099b03e01",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmManageExternalAccounts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a3facb56f28c4dd196d7e047c817eda1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__j1d671384fb34246a63fd6aa33adae46",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var searchString = this.view.tbxSearch.text;\nthis.displaySearchedAccounts(searchString);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

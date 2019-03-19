@@ -1,0 +1,27 @@
+{
+    "AS_TextField_c28b4efe1e7c4e7aa449ae49782ceaaf": {
+        "id": "AS_TextField_c28b4efe1e7c4e7aa449ae49782ceaaf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSSN",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hcdda3e785c94749838ba1f5a454aff0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bbfd349fc4424bf3b78de0416087d21e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(this.view.keypadtwo.txtKeypad.text);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

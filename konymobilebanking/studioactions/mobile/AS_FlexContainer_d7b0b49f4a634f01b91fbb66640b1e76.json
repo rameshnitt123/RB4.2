@@ -1,0 +1,36 @@
+{
+    "AS_FlexContainer_d7b0b49f4a634f01b91fbb66640b1e76": {
+        "id": "AS_FlexContainer_d7b0b49f4a634f01b91fbb66640b1e76",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDevRegFaceIdSetAsDefault",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d6bbfc6576234fb18946d0534b188032"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_d252ff4af46840f1934866661c2296ba",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDevRegLoginType",
+            "friendlyName": "frmDevRegLoginType",
+            "formKUID": "d364d2a719d9467a8bf002796c63284f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

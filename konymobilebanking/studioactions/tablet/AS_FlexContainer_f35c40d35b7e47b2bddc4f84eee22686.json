@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_f35c40d35b7e47b2bddc4f84eee22686": {
+        "id": "AS_FlexContainer_f35c40d35b7e47b2bddc4f84eee22686",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segAccountsBillPay",
+            "type": "templates",
+            "platform": "",
+            "KUID": "a714005c864441bab78ccd6ffb22eb68"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__if29b09a30c14993b1ae4b9825bf7f21",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.callOnBillPay();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

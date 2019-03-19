@@ -1,0 +1,96 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "se42d2d474e047c785c182e1d49ad9b4",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        },
+        "tickedImage": "radiobtn.png",
+        "untickedImage": "radiobuttoninactive.png"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "radiobtnPaidbyRecipient",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 3
+        },
+        "tickedImage": "radiobtn.png",
+        "untickedImage": "radiobuttoninactive.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "cf6d1df5cdd24fbc9565acba42a40e89",
+    "masterdata": [
+        [
+            "rbg1",
+            "To be paid by me",
+            "kony.mb.TransfersEurope.toBePaidByMe"
+        ],
+        [
+            "rbg2",
+            "To be paid by recipient",
+            "kony.mb.TransfersEurope.toBePaidByRecipient"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "flxpaidbyRecipient",
+    "pf": "frmTransferConfirmationEurope",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "rbg1",
+    "selectedkeyvalue": [
+        "rbg1",
+        "To be paid by me"
+    ],
+    "size": 18,
+    "tickedimage": "radiobtn.png",
+    "untickedimage": "radiobuttoninactive.png",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

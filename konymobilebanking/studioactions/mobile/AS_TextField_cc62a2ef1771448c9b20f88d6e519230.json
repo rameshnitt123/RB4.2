@@ -1,0 +1,26 @@
+{
+    "AS_TextField_cc62a2ef1771448c9b20f88d6e519230": {
+        "id": "AS_TextField_cc62a2ef1771448c9b20f88d6e519230",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmForgotCreatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fd4ec4e85a614e788aa27f17ad94a6c5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTextChange_e7f89219b22d4d48b6923a21472667fa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.matchPasswords();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_hb28216418114099a65922dc86588cbb": {
+        "id": "AS_Form_hb28216418114099a65922dc86588cbb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2pRecurrence",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g13b0c39bfb84119a86df1a5beb44e0b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a4960e2b03ce4cafa98bb70767bb0dd8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

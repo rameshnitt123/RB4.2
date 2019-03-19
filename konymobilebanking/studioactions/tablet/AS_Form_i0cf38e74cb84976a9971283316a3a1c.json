@@ -1,0 +1,28 @@
+{
+    "AS_Form_i0cf38e74cb84976a9971283316a3a1c": {
+        "id": "AS_Form_i0cf38e74cb84976a9971283316a3a1c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBCreditCheck",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hcb197361b3c443890b32f851ef7a1cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fbf247935e5347d48ed14e541f244ce6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

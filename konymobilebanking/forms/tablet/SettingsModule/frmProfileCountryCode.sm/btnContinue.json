@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s088e152fced4d9aac2705f9edf2645b",
+    "_text_": "",
+    "_top_": {
+        "type": "number",
+        "value": "139"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "52.08%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s088e152fced4d9aac2705f9edf2645b",
+    "id": "btnContinue",
+    "info": null,
+    "isvisible": true,
+    "kuid": "faae0d0c1c0a419da99130b9e61611b2",
+    "name": "kony.ui.Button",
+    "parent": "flxMain",
+    "pf": "frmProfileCountryCode",
+    "texti18n": "kony.tab.common.Continue",
+    "wType": "Button",
+    "zindex": 1
+}

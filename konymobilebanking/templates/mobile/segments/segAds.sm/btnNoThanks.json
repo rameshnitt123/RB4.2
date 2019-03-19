@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s11a4b3c1dd849339d07a85720486c51",
+    "_text_": "Button",
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s11a4b3c1dd849339d07a85720486c51",
+    "id": "btnNoThanks",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cec169141770455e9187be9ee5c465e3",
+    "name": "kony.ui.Button",
+    "parent": "flxNoThankYou",
+    "pf": "segAds",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "Button"
+    }
+}

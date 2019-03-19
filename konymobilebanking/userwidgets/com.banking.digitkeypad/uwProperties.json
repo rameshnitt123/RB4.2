@@ -1,0 +1,81 @@
+{
+    "classname": "digitkeypad",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "acc99656cf654ec1a03dfaa2f1355e48",
+                    "paramList": [
+                        {
+                            "name": "digit"
+                        }
+                    ],
+                    "propertyIndex": 1,
+                    "propertyKey": "onDigitEntered",
+                    "pw": {
+                        "displayName": "onDigitEntered",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e59aa4b27c9d4057a815064bf099dea6",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "bfc622118c834c49b1854a97ef47bd5d",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "onDigitRemoved",
+                    "pw": {
+                        "displayName": "onDigitRemoved",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e59aa4b27c9d4057a815064bf099dea6",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ecb8a131df95465ca91500766c34fd2a",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 1,
+                    "propertyKey": "isVisible1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Dot button visibility",
+                        "srcWidget": "btnDot",
+                        "toolTip": "Hides/shows the widget in the screen",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "ed128ff9c69143b5a1b22647a8c8ef2a"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.banking",
+    "version": "1.0.0"
+}

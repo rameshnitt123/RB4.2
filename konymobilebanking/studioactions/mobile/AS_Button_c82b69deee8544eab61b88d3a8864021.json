@@ -1,0 +1,30 @@
+{
+    "AS_Button_c82b69deee8544eab61b88d3a8864021": {
+        "id": "AS_Button_c82b69deee8544eab61b88d3a8864021",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersRecurrence",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dc859d3a382b431a96ebc6b38e6d92fd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ccaea3f37dba45cf853581e02c65070f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransfersStartDate",
+            "friendlyName": "frmTransfersStartDate",
+            "formKUID": "b2195a82f58d4d9b98b8e24668ba577c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModule"
+        }]
+    }
+}

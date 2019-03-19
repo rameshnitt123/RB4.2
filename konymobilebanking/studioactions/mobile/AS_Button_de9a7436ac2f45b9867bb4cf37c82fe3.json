@@ -1,0 +1,24 @@
+{
+    "AS_Button_de9a7436ac2f45b9867bb4cf37c82fe3": {
+        "id": "AS_Button_de9a7436ac2f45b9867bb4cf37c82fe3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a2dd938a70f04f26a14a3015b7711617",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransferConfirmation",
+            "friendlyName": "frmTransferConfirmation",
+            "formKUID": "f55777c2954249b5bdd1a647d421e942",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModule"
+        }]
+    }
+}

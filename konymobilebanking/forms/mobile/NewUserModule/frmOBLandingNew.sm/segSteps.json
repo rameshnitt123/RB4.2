@@ -1,0 +1,211 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgDone": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greentick.png"
+            },
+            "imgGo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1"
+            },
+            "lblStepName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Product Selection"
+            }
+        },
+        {
+            "imgDone": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greentick.png"
+            },
+            "imgGo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            },
+            "lblStepName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Personal Info"
+            }
+        },
+        {
+            "imgDone": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greentick.png"
+            },
+            "imgGo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3"
+            },
+            "lblStepName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Employment Info"
+            }
+        },
+        {
+            "imgDone": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greentick.png"
+            },
+            "imgGo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4"
+            },
+            "lblStepName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Financial Info"
+            }
+        },
+        {
+            "imgDone": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greentick.png"
+            },
+            "imgGo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5"
+            },
+            "lblStepName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Identity Verification"
+            }
+        },
+        {
+            "imgDone": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "greentick.png"
+            },
+            "imgGo": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6"
+            },
+            "lblStepName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Signature Upload"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segSteps",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i98e6f6b734949f79d3572b47ebe10a6",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxScroll",
+    "pf": "frmOBLandingNew",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "jcbb64beffb647aea512f4d94b1b050c",
+    "rowcounter": 5,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxSteps",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxNumber": "flxNumber",
+        "flxSteps": "flxSteps",
+        "flxStepsSeperator": "flxStepsSeperator",
+        "imgDone": "imgDone",
+        "imgGo": "imgGo",
+        "lblNumber": "lblNumber",
+        "lblStepName": "lblStepName"
+    },
+    "zindex": 1
+}

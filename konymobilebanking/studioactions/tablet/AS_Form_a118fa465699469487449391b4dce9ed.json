@@ -1,0 +1,28 @@
+{
+    "AS_Form_a118fa465699469487449391b4dce9ed": {
+        "id": "AS_Form_a118fa465699469487449391b4dce9ed",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PRecEmail",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g7c554e603e04174ac0667821348c5e7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c823679381864c5585d1a0d5f8656e48",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

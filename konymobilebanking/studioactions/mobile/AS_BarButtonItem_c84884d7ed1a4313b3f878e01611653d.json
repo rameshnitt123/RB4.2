@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_c84884d7ed1a4313b3f878e01611653d": {
+        "id": "AS_BarButtonItem_c84884d7ed1a4313b3f878e01611653d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fb7df28e23c2453c85a6f40850fe8e15",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var navManager = applicationManager.getNavigationManager();\nvar accountsDetails=navManager.getCustomInfo(\"frmAccountDetails\");\nnavManager.setCustomInfo(\"frmAccountInfo\",accountsDetails);\nnavManager.navigateTo(\"frmAccountInfo\"); ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

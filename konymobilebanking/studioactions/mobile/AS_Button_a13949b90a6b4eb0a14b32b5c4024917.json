@@ -1,0 +1,30 @@
+{
+    "AS_Button_a13949b90a6b4eb0a14b32b5c4024917": {
+        "id": "AS_Button_a13949b90a6b4eb0a14b32b5c4024917",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileEditAddressList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eaf4926510ae445ca41bb9fac3b3fe84"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_cfea5ba6418b40e4b09a536a4519f1f1",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransferConfirmation",
+            "friendlyName": "frmTransferConfirmation",
+            "formKUID": "f55777c2954249b5bdd1a647d421e942",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModule"
+        }]
+    }
+}

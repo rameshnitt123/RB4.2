@@ -1,0 +1,29 @@
+{
+    "AS_Image_f54e099d5acc4435b492c6e34b16488d": {
+        "id": "AS_Image_f54e099d5acc4435b492c6e34b16488d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "contextObj": {
+            "name": "frmFullScreenAds",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b9b6feb12eda48169151696af7ab07cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDownloadComplete_fb19311e426947c69ab385dc751645a4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onAdDownloadComplete(issuccess,2);",
+            "callbackType": null
+        }]
+    }
+}

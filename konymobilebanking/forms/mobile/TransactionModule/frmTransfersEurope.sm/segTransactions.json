@@ -1,0 +1,627 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "kony.mb.accdetails.pendingTransactions",
+                    "text": "Label"
+                }
+            },
+            [
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$2000000"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$200657"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$203452"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$345768"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$987650"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$576587"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": ""
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "kony.mb.accdetails.postedTransactions",
+                    "text": "Label"
+                }
+            },
+            [
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$2000000"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$2000000"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$2000000"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$2000000"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                },
+                {
+                    "imgAccount": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgCancel": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "deleteicon.png"
+                    },
+                    "imgEdit": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "replyicon.png"
+                    },
+                    "imgRecurrance": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "lblAccount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ABC Bank"
+                    },
+                    "lblAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$2000000"
+                    },
+                    "lblCancel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete"
+                    },
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Balance"
+                    },
+                    "lblEdit": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Reply"
+                    },
+                    "lblTransaction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking Account"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "14",
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segTransactions",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "enableDictionary": true,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fdcc5a1328544c028e5e4f69239e08f8",
+    "masterdata": {},
+    "minheight": {
+        "type": "string",
+        "value": "85%"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmTransfersEurope",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "b82072080e8941acb9ee7a181baca993",
+    "rowcounter": 4,
+    "rowfocusskin": "s02d7ca459a74168b4573e79b9d8efec",
+    "rowskin": "s7edd442a0b84fcf8effd2349b7c3044",
+    "rowtemplate": "flxTransfers",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionHeaderTemplateId": "b03f45aac486491a95c007aa96cecb1e",
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "sectionheadertemplate": "flxTransHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f1f1f100",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAccount": "flxAccount",
+        "flxCancel": "flxCancel",
+        "flxCancelEdit": "flxCancelEdit",
+        "flxEdit": "flxEdit",
+        "flxMain": "flxMain",
+        "flxSeparator": "flxSeparator",
+        "flxShadowBottom": "flxShadowBottom",
+        "flxTransHeader": "flxTransHeader",
+        "flxTransfers": "flxTransfers",
+        "flxTypeOneShadow": "flxTypeOneShadow",
+        "imgAccount": "imgAccount",
+        "imgCancel": "imgCancel",
+        "imgEdit": "imgEdit",
+        "imgRecurrance": "imgRecurrance",
+        "imgUpArrow": "imgUpArrow",
+        "lblAccount": "lblAccount",
+        "lblAmount": "lblAmount",
+        "lblCancel": "lblCancel",
+        "lblDate": "lblDate",
+        "lblEdit": "lblEdit",
+        "lblHeader": "lblHeader",
+        "lblTransaction": "lblTransaction"
+    },
+    "widgetskin": "s7edd442a0b84fcf8effd2349b7c3044",
+    "zindex": 1
+}

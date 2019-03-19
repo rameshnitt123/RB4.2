@@ -1,0 +1,29 @@
+{
+    "AS_Image_i776765a4aef4cd5bd5991c43d897ff1": {
+        "id": "AS_Image_i776765a4aef4cd5bd5991c43d897ff1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmEnrollLastName",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cec4f0b2aea2420a937739e98e009103"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_a5207e7a6b094ad8b753fea69f63e6a2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.clearKeypadChar();",
+            "callbackType": null
+        }]
+    }
+}

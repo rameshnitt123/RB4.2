@@ -1,0 +1,23 @@
+{
+    "AS_Form_f9d7e9a1aec94bb4a448719bca2c47b7": {
+        "id": "AS_Form_f9d7e9a1aec94bb4a448719bca2c47b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBSecurityQuestionsNew",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e01a4dcbe46349a5abd70c2f6fe81bb9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_e3e892d781e341fd9f99f4020e6c8e06",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "callbackType": null
+        }]
+    }
+}

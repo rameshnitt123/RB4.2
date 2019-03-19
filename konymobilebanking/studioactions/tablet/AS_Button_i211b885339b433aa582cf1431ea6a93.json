@@ -1,0 +1,21 @@
+{
+    "AS_Button_i211b885339b433aa582cf1431ea6a93": {
+        "id": "AS_Button_i211b885339b433aa582cf1431ea6a93",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e61e369102874ede8af0828559b8b1a2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPinScreen",
+            "display": "showPinScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

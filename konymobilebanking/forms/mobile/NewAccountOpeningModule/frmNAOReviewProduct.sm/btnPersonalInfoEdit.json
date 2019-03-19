@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sd05f97278a54972bea409863e9196f5",
+    "_text_": "EDIT",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s31beeb1acb948a9ab9cfb48513042ca",
+    "id": "btnPersonalInfoEdit",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "f190ff2d0b1d4f6696c36aff2de4068a",
+    "name": "kony.ui.Button",
+    "parent": "flxPersonalInfo",
+    "pf": "frmNAOReviewProduct",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.common.editNickName",
+    "wType": "Button",
+    "zindex": 8,
+    "accessibilityconfig": {
+        "a11yHint": "Tap Edit to make changes",
+        "a11yLabel": "Edit"
+    }
+}

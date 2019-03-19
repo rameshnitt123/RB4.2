@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s3a6af80e8464e51af22769363bf659d",
+    "_text_": "SAVE",
+    "accessibilityconfig": {
+        "a11yHint": "Tap Save to save the information and continue",
+        "a11yLabel": "Save"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sd85a0f475ff4b3b9f0a5e4b82f68213",
+    "id": "btnSave",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ebe7b6b357794321b52c269c0eb0d2ac",
+    "name": "kony.ui.Button",
+    "parent": "flxMainWrapper",
+    "pf": "frmBillPayEditAddress",
+    "texti18n": "kony.mb.common.save",
+    "wType": "Button",
+    "zindex": 3
+}

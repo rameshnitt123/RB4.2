@@ -1,0 +1,24 @@
+{
+    "AS_Segment_j6b3804da7934de58010c86d9d5eb459": {
+        "id": "AS_Segment_j6b3804da7934de58010c86d9d5eb459",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfd8d167d39f4048b325cec1c7aaa4dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__gbb6fe6327914c02886eb146af5306d7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxMainContainer.enableScrolling=true;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

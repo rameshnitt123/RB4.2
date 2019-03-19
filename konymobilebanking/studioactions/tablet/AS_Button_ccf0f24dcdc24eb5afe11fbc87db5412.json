@@ -1,0 +1,23 @@
+{
+    "AS_Button_ccf0f24dcdc24eb5afe11fbc87db5412": {
+        "id": "AS_Button_ccf0f24dcdc24eb5afe11fbc87db5412",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSecurityCode",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aca0967c6eae497b81b9c2b4a77637f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_i9095bee9b2043b8a1d354fbff5e0114",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(7);",
+            "callbackType": null
+        }]
+    }
+}

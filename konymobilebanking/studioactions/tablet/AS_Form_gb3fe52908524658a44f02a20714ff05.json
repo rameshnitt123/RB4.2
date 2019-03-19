@@ -1,0 +1,23 @@
+{
+    "AS_Form_gb3fe52908524658a44f02a20714ff05": {
+        "id": "AS_Form_gb3fe52908524658a44f02a20714ff05",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersFromAccount",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e06d21e3e1f0499eb527408cbd9232a9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_ec65e9812fc04fe59b04725932504e6a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "callbackType": null
+        }]
+    }
+}

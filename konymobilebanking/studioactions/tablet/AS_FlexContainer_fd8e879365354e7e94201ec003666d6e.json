@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_fd8e879365354e7e94201ec003666d6e": {
+        "id": "AS_FlexContainer_fd8e879365354e7e94201ec003666d6e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccStatements",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ea3978c06d1a4f998a6d83ffe3439673"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c93d6cf012384813ad539bddebc507a3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxArrowOnclick",
+            "display": "flxArrowOnclick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

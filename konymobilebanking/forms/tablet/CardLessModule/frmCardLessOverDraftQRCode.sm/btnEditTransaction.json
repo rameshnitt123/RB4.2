@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd66ab9d78e44ad483da1a2bc69fc0ef",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "254dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "408dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sc61e719c72447bf9f14db24bea23eb3",
+    "id": "btnEditTransaction",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a81fcd77edad4caea4093d8edb503c46",
+    "name": "kony.ui.Button",
+    "parent": "flxMainContainer",
+    "pf": "frmCardLessOverDraftQRCode",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.cardLess.editTransaction",
+    "wType": "Button",
+    "zindex": 1
+}

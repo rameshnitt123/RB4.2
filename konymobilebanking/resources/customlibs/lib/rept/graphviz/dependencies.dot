@@ -1,0 +1,12 @@
+digraph dependencies {
+  node [shape = box, fontsize=10.0];
+  Task -> jama_1_0_3;
+  android_async_http_1_4_9 -> httpclient_4_4_1_1;
+  binary -> Task;
+  binary -> httpclient_4_4_1_1;
+  binary -> konylogger;
+  binary -> velocity_1_7;
+  konylogger -> volley;
+  velocity_1_7 -> commons_collections_3_2_1;
+  velocity_1_7 -> commons_lang_2_4;
+}

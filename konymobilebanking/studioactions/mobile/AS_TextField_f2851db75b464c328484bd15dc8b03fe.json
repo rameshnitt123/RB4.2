@@ -1,0 +1,24 @@
+{
+    "AS_TextField_f2851db75b464c328484bd15dc8b03fe": {
+        "id": "AS_TextField_f2851db75b464c328484bd15dc8b03fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onEndEditing_db24e2bca3fc409997c3753de000fd8d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "txtEnterUsernameOnEndEditing",
+            "display": "txtEnterUsernameOnEndEditing",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

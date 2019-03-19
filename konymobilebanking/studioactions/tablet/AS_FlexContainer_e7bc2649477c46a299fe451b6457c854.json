@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_e7bc2649477c46a299fe451b6457c854": {
+        "id": "AS_FlexContainer_e7bc2649477c46a299fe451b6457c854",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3f3eb2dd48e453183bd2ffd47ee47cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a14131979fb1419d988d4aecfc3da9c2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.customAlertPopUpFlxCancelOnClick();\n//to enable the screen\nthis.view.flxWelcome.setEnabled(true);\nthis.view.flxContent.setEnabled(true);\nthis.view.flxFooter.setEnabled(true);\n\n",
+            "callbackType": null
+        }]
+    }
+}

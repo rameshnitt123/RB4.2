@@ -1,0 +1,24 @@
+{
+    "AS_Button_e64235d00a904f0399706375efc66d70": {
+        "id": "AS_Button_e64235d00a904f0399706375efc66d70",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferAmount",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c54d35764ddb43798fa888dae0bd8bca"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f70eb50c06064263b379b2054131cdd3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(5);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

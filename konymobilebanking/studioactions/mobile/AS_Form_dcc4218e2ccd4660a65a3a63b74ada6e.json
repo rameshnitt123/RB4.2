@@ -1,0 +1,24 @@
+{
+    "AS_Form_dcc4218e2ccd4660a65a3a63b74ada6e": {
+        "id": "AS_Form_dcc4218e2ccd4660a65a3a63b74ada6e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmChatbot",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c10d0b7314244a9688f4e02ed3bb9b49"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i6a5341960f240eb9561c0a980487a66",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.frmChatbotPreshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

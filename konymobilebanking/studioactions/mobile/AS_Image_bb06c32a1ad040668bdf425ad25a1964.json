@@ -1,0 +1,29 @@
+{
+    "AS_Image_bb06c32a1ad040668bdf425ad25a1964": {
+        "id": "AS_Image_bb06c32a1ad040668bdf425ad25a1964",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmEnterBenAccNoEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i7fcb0574dc84af8b7c23cefc21a3573"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_a5688b3f117f476aaab4858694b15ccc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.clearKeypadChar();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "AS_TextField_h75236b4dc434b60890445c62d327387": {
+        "id": "AS_TextField_h75236b4dc434b60890445c62d327387",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3f3eb2dd48e453183bd2ffd47ee47cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_e41abc0ae1ff4e95ae0fa31758994c8a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSkinsOfUsernameAndPwd",
+            "display": "resetSkinsOfUsernameAndPwd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "INVOKE_FUNCTION__ide_onTextChange_c12ec4bd575d40db8ea3451d974dbfde",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "enableLoginButton",
+            "display": "enableLoginButton",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

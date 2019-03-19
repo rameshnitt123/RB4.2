@@ -1,0 +1,24 @@
+{
+    "AS_TextField_e9a5a0a2cbca4b35a80fa0d2d1892cf1": {
+        "id": "AS_TextField_e9a5a0a2cbca4b35a80fa0d2d1892cf1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_a94b1ba8657649ff8fa1ba58bfa756d8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "txtReEnterPassOnTextChange",
+            "display": "txtReEnterPassOnTextChange",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_aaf0d0ede9a84032981c1c45b6aacc21": {
+        "id": "AS_FlexContainer_aaf0d0ede9a84032981c1c45b6aacc21",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersRecurrenceEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ab1dec9b15dc4289805603e8be598d0f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c1b39d036ed54c378816072e9f781688",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transModPresentationController = applicationManager.getModulesPresentationController(\"TransferModule\");\ntransModPresentationController.commonFunctionForNavigation(\"frmTransfersDuration\");",
+            "callbackType": null
+        }]
+    }
+}

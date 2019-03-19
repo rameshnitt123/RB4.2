@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_a2608905e2c04a70bc1208eb8b3d7bb9": {
+        "id": "AS_FlexContainer_a2608905e2c04a70bc1208eb8b3d7bb9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayEditAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "db1567b6c448429ca0962ae79bd8b09b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f566fe8afa8945e7948480c48033e0eb",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "e6a984831ef54772b96d956e420870db",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

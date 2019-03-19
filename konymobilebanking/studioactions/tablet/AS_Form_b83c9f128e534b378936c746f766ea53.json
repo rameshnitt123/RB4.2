@@ -1,0 +1,28 @@
+{
+    "AS_Form_b83c9f128e534b378936c746f766ea53": {
+        "id": "AS_Form_b83c9f128e534b378936c746f766ea53",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmTransferCD",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g5545f55e2454341a9e2354b71bf8a0d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c83d377b20124682ae7da89e3e90de10",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

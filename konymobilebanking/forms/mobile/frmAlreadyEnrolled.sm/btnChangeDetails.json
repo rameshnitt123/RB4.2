@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sb996c78dbcf4385b733648d7deb56b6",
+    "_text_": "CHANGE DETAILS",
+    "_top_": {
+        "type": "string",
+        "value": "225dp"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "CHANGE DETAILS"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sae2e4475aa3419b8c89d14cf90383cb",
+    "id": "btnChangeDetails",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d8a60e6ae79843b3962f665fb45bdfb4",
+    "name": "kony.ui.Button",
+    "parent": "flxSecurityCheckOptions",
+    "pf": "frmAlreadyEnrolled",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.AlreadyEnrolled.ChangeDetails",
+    "wType": "Button",
+    "zindex": 1
+}

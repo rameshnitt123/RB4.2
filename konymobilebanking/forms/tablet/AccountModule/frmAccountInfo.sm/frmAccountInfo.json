@@ -1,0 +1,148 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s566790d0ee0487183e0cb45da52b7ae",
+    "_title_": "Family Checking Account",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "flxHeader",
+        "flxContainerCheckingAcc",
+        "flxExternalAccountContainer",
+        "flxContainerCreditCard",
+        "flxContainerHomeLoan",
+        "flxContainerDepositAccount",
+        "flxPopupNickName"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "frmAccountInfoController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyTab7",
+    "displayorientation": 1,
+    "enabledforidletimeout": true,
+    "id": "frmAccountInfo",
+    "ide_init": "AS_Form_ic2f88b3ed4c493da2cca72a50eeda70",
+    "ide_preShow": "AS_Form_j51d4cfcca9142b893e596528f1ef465",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarAttributes": {
+                "backBarButtonItem": {
+                    "enabled": true,
+                    "info": {
+                        "title": ""
+                    },
+                    "kuid": "e215a4acd99d4151a2c1a90cd89777a7",
+                    "style": 0,
+                    "tintColor": "ffffff00",
+                    "type": 1
+                },
+                "barStyle": 0,
+                "hidesBackButton": false,
+                "kuid": "a4d9abc707434a329b2555ff6f792060",
+                "leftBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "AS_BarButtonItem_a89c1ed95291457db2740d4a1cbd95c2",
+                        "info": {
+                            "image": "backbutton.png"
+                        },
+                        "kuid": "c401a8c409a5423697b37817ab288339",
+                        "onClick": "AS_BarButtonItem_a89c1ed95291457db2740d4a1cbd95c2",
+                        "style": 0,
+                        "tintColor": "ffffff00",
+                        "type": 0
+                    }
+                ],
+                "leftItemsSupplementBackButton": false,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "AS_BarButtonItem_af3a332ead5b43d38950730543d8cdb6",
+                        "info": {
+                            "title": "Edit"
+                        },
+                        "kuid": "b0de8d92970a472b986a3bab44cdbf44",
+                        "onClick": "AS_BarButtonItem_af3a332ead5b43d38950730543d8cdb6",
+                        "style": 0,
+                        "tintColor": "ffffff00",
+                        "type": 1
+                    }
+                ],
+                "tintColor": "ffffff00",
+                "translucent": false
+            }
+        },
+        "titleBar": true
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "needAppMenu": false
+    },
+    "kuid": "e011cf357904451ab0b95e6eed1bb59e",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": false,
+    "paddinginpixel": false,
+    "platform": "tabrcandroid",
+    "prevDevice": "iPadMini",
+    "prevPlatform": "ipad",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "and_Tab_Galaxy7",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaandroidtablet": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "needAppMenu": false
+    },
+    "titleBarSkin": "scb8fcbdebb649d1b5900564018c8da5",
+    "titlebar": false,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "needAppMenu": false
+    }
+}

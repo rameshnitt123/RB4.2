@@ -1,0 +1,24 @@
+{
+    "AS_Form_ba326865ea5e4145bc76515cbac73a7a": {
+        "id": "AS_Form_ba326865ea5e4145bc76515cbac73a7a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReEnterBenAccNo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b26ae86345874e1aad77cb4887a4371b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b1595e368ad84f34a4bef64260e72dfc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_h38804f2245544938a2ff441dec91bfc": {
+        "id": "AS_Form_h38804f2245544938a2ff441dec91bfc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBMembershipEligibility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cd961b0653994525a853882e045306b7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__j253c8ed0d5f44948c3fc48d8dd0bd87",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init()",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

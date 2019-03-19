@@ -1,0 +1,24 @@
+{
+    "AS_UWI_e9013a42b80a4c83a073223666e10f50": {
+        "id": "AS_UWI_e9013a42b80a4c83a073223666e10f50",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSSN",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hcdda3e785c94749838ba1f5a454aff0"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

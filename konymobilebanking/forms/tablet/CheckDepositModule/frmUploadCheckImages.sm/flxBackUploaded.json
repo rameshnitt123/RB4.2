@@ -1,0 +1,82 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "188dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sf74c7deb92d4f0cb34eef5ae71b0edc",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "53.40%"
+    },
+    "allboxes": [],
+    "android": {
+        "render": true
+    },
+    
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxImgBack",
+        "lblBackUploaded",
+        "flxSeparatorBack",
+        "btnReTakeBack"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxBackUploaded",
+    "info": null,
+    "ipad": {
+        "render": true
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "e980e35cc0ea4ebfaa512d0e2cf70da7",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxCamBottom",
+    "pf": "frmUploadCheckImages",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": true
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "windows8": {
+        "render": true
+    },
+    "zindex": 1
+}

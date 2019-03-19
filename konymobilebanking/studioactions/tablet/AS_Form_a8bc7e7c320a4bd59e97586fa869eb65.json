@@ -1,0 +1,28 @@
+{
+    "AS_Form_a8bc7e7c320a4bd59e97586fa869eb65": {
+        "id": "AS_Form_a8bc7e7c320a4bd59e97586fa869eb65",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCheckDepositTo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f02b68f4201b49258e7869af85726c91"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d72d761f68d543339b95b1b6c1b0c27a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "AS_Button_jd58db7a25244a08af4ccce2c79d033b": {
+        "id": "AS_Button_jd58db7a25244a08af4ccce2c79d033b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bcaca5f6cc8e4c25af3300dfeca975d7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transModPresentationController = applicationManager.getModulesPresentationController(\"TransferModule\");\ntransModPresentationController.commonFunctionForNavigation(\"frmTransfers\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

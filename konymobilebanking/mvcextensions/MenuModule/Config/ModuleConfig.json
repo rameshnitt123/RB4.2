@@ -1,0 +1,33 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "MenuModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "mobile": {
+            "frmMenu": {
+                "Controller": "MenuModule/frmMenuController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "MenuModule/frmMenu",
+                "friendlyName": "frmMenu"
+            }
+        },
+        "tablet": {
+            "frmMenu": {
+                "Controller": "MenuModule/frmMenuController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "MenuModule/frmMenu",
+                "friendlyName": "frmMenu"  
+            }
+        }
+    },
+    "ModuleName": "MenuModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "MenuModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        }
+    }
+}

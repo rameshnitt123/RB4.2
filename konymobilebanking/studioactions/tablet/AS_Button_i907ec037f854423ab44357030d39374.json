@@ -1,0 +1,28 @@
+{
+    "AS_Button_i907ec037f854423ab44357030d39374": {
+        "id": "AS_Button_i907ec037f854423ab44357030d39374",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPaySearchPayee",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f019cc6e3b2648f595356f0f415384e9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___abb3d8d220a74986805562ddd028d9a2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnSearchCancelAction",
+            "display": "btnSearchCancelAction",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

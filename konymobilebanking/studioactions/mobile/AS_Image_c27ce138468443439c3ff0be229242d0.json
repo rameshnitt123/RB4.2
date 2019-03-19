@@ -1,0 +1,30 @@
+{
+    "AS_Image_c27ce138468443439c3ff0be229242d0": {
+        "id": "AS_Image_c27ce138468443439c3ff0be229242d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmForgot",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fabc653950774f86a578cb382970af65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ga87e54c735a4c7aa0a9ff50c7ca05f5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.maskUnmaskPassword();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

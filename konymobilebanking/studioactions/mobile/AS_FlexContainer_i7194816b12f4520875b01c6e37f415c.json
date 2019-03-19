@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_i7194816b12f4520875b01c6e37f415c": {
+        "id": "AS_FlexContainer_i7194816b12f4520875b01c6e37f415c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h65c10a2cabc493c8ac9ef9c703d1486"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___efd5f76aed1147009aabc8ca758585bd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxCancelFIOnClick",
+            "display": "flxCancelFIOnClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_ee7eea205d734461ab782e7de98dbadb": {
+        "id": "AS_FlexContainer_ee7eea205d734461ab782e7de98dbadb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmtransfersIBANEurope",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g3620424935f41cd83896434e513810d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___j7cab71b551546fd8a39e7a5a8ea6a42",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmtransfersIBANEurope",
+            "propertyName": "text",
+            "propertyValue": "",
+            "itemKUID": "g3620424935f41cd83896434e513810d",
+            "widgetKUID": "ifff222d7304491f9c8a0fa5152b0aa0",
+            "isSkinProperty": false,
+            "wType": "Label",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_c0ff48f87b8a4cebbbfd459655a91fbb": {
+        "id": "AS_Form_c0ff48f87b8a4cebbbfd459655a91fbb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDevRegLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i5ae0bd04c594b1abcd506bdc1008009"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "CHANNEL_CONDITION__f6668b796da44f558158040e9aaa9cb1",
+            "type": "CHANNEL_CONDITION",
+            "platforms": ["ipad"],
+            "parentId": null
+        }]
+    }
+}

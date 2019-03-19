@@ -1,0 +1,28 @@
+{
+    "AS_Form_ee0ab5d557404ecc82939c3098720037": {
+        "id": "AS_Form_ee0ab5d557404ecc82939c3098720037",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBSignature",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i0ab72c4009b499aa13084fe4a92012f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i2ec293444bf410e93842fa34d53b1ce",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

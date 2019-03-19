@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+
+
+### OSGi information
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.kony.location
+Bundle-Description: LocationSettings
+Bundle-Name: LocationSettings
+Bundle-Version: 0.0.0
+Export-Package: com.kony.location;uses:="android.content,android.util,
+ com.konylabs.android"
+Import-Package: android.content,android.util,com.konylabs.android,java
+ .lang

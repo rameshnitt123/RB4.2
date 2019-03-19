@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_a36a709d80034197b98337fc1a775d66": {
+        "id": "AS_FlexContainer_a36a709d80034197b98337fc1a775d66",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ea668f521007462185826eacf5716d10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d7a386ed711b4ef3a466cc9bbd82f575",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxCancelDialPadOnClick",
+            "display": "flxCancelDialPadOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

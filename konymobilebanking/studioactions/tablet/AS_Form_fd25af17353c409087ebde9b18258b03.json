@@ -1,0 +1,28 @@
+{
+    "AS_Form_fd25af17353c409087ebde9b18258b03": {
+        "id": "AS_Form_fd25af17353c409087ebde9b18258b03",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrollSecurity",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b314cccca6304b169f3836f756cff7ce"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ia886c2816574c7cb7a535da48ded1a2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "AS_Button_c1c43725c0a94e619fd05968713eca0e": {
+        "id": "AS_Button_c1c43725c0a94e619fd05968713eca0e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersEndDateEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d1d1df6fb2a64a46b0c27dd16facaf67"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c5ce47d9ec5145118683f26c726cf7a7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// var transModPresentationController = applicationManager.getModulesPresentationController(\"TransferModule\");\n// transModPresentationController.commonFunctionForNavigation(\"frmTransferConfirmation\");",
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___c01f36af94074c0c8f9a109d6be36a08",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransferConfirmationEurope",
+            "friendlyName": "frmTransferConfirmationEurope",
+            "formKUID": "g7fc220f00b74ce99263f1caa68e6bbd",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModuleEurope"
+        }]
+    }
+}

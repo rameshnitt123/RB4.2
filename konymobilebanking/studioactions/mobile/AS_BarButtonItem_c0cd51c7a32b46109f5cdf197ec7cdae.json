@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_c0cd51c7a32b46109f5cdf197ec7cdae": {
+        "id": "AS_BarButtonItem_c0cd51c7a32b46109f5cdf197ec7cdae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i06d0d6529234cf4aa576b6054e0d1fe",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var  authMod = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"NewUserModule\");       \n      authMod.presentationController.getState();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

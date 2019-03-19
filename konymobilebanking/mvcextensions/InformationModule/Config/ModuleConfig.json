@@ -1,0 +1,51 @@
+{
+    "BusinessControllerConfig": {
+        "BusinessControllerClass": "InformationModule/BusinessControllers/BusinessController",
+        "CommandHandler": []
+    },
+    "Forms": {
+        "mobile": {
+            "frmSupport": {
+                "Controller": "InformationModule/frmSupportController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "InformationModule/frmSupport",
+                "friendlyName": "frmSupport"
+            },
+            "frmSupportInfo": {
+                "Controller": "InformationModule/frmSupportInfoController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "InformationModule/frmSupportInfo",
+                "friendlyName": "frmSupportInfo"
+            }
+        },
+        "tablet": {
+            "frmSupport": {
+                "Controller": "InformationModule/frmSupportController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "InformationModule/frmSupport",
+                "friendlyName": "frmSupport"
+            },
+            "frmSupportInfo": {
+                "Controller": "InformationModule/frmSupportInfoController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "InformationModule/frmSupportInfo",
+                "friendlyName": "frmSupportInfo"
+            }
+        }
+    },
+    "ModuleName": "InformationModule",
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationControllerClass": "InformationModule/PresentationControllers/PresentationController",
+            "PresentationExtensions": []
+        },
+        "Tablet": {
+            "PresentationControllerClass": "InformationModule/PresentationControllers/PresentationController_Tablet",
+            "PresentationExtensions": []
+        }
+    }
+}

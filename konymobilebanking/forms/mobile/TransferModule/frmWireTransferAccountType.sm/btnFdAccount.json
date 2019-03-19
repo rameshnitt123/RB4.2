@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "66dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "_skin_": "s0eb5d9e32f2414ba8f8f825f52ed708",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se7eb514397a42798cfb71f02c4ae8b5",
+    "id": "btnFdAccount",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f923e04e73b54c3caeed1089fe555888",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxMain",
+    "pf": "frmWireTransferAccountType",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.addBen.FDAcc",
+    "wType": "Button",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "FD Account"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "AS_Image_c6d0519d950b4f9d926b5504e799cc16": {
+        "id": "AS_Image_c6d0519d950b4f9d926b5504e799cc16",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmEnrollCVV",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f411a2a5a2cd4efba1cca27485df0902"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_cf54f0f5a1fa4d0cb691084218038d14",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgCheckOnClick",
+            "display": "imgCheckOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

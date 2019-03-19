@@ -1,0 +1,30 @@
+{
+    "AS_Button_if432bc4b7aa475d823186709f498169": {
+        "id": "AS_Button_if432bc4b7aa475d823186709f498169",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrollSecurity",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd541f396dfd41619d9f9ca103354bd4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ca805c008c18485f9516bdf51df5eaa6",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "friendlyName": "frmLogin",
+            "formKUID": "h65c10a2cabc493c8ac9ef9c703d1486",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

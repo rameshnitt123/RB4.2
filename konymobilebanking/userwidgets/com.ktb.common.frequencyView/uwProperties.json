@@ -1,0 +1,492 @@
+{
+    "classname": "frequencyView",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "a24355a6d9cf4838a85b40eacacac59c",
+                    "paramList": [
+                        {
+                            "name": "key"
+                        }
+                    ],
+                    "propertyKey": "setFirstRowNamei18",
+                    "pw": {
+                        "displayName": "setFirstRowNamei18",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b570112070994a63aef989e2c1e23566",
+                    "paramList": [
+                        {
+                            "name": "name"
+                        }
+                    ],
+                    "propertyKey": "setFirstRowName",
+                    "pw": {
+                        "displayName": "setFirstRowName",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "jdce8f37acf24ede86bf374644cf48d1",
+                    "paramList": [
+                        {
+                            "name": "value"
+                        }
+                    ],
+                    "propertyKey": "setFirstRowValue",
+                    "pw": {
+                        "displayName": "setFirstRowValue",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "a2b62d88cebf40f38aceb4e75c910b8b",
+                    "paramList": [
+                        {
+                            "name": "key"
+                        }
+                    ],
+                    "propertyKey": "setSecondRowNamei18",
+                    "pw": {
+                        "displayName": "setSecondRowNamei18",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "db7b0f9ca3c845b2a775cd85a5a0fe41",
+                    "paramList": [
+                        {
+                            "name": "name"
+                        }
+                    ],
+                    "propertyKey": "setSecondRowName",
+                    "pw": {
+                        "displayName": "setSecondRowName",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ge99d4ae43ed42b78931a31aa03d6599",
+                    "paramList": [
+                        {
+                            "name": "value"
+                        }
+                    ],
+                    "propertyKey": "setSecondRowValue",
+                    "pw": {
+                        "displayName": "setSecondRowValue",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "bc50782db4af411c95a9c123d5f6e26b",
+                    "paramList": [
+                        {
+                            "name": "key"
+                        }
+                    ],
+                    "propertyKey": "setThirdRowNamei18",
+                    "pw": {
+                        "displayName": "setThirdRowNamei18",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "cf7c218c1a8c45ca87e49beaaba1084e",
+                    "paramList": [
+                        {
+                            "name": "name"
+                        }
+                    ],
+                    "propertyKey": "setThirdRowName",
+                    "pw": {
+                        "displayName": "setThirdRowName",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b140916bf6cd45de8c354015d8c201eb",
+                    "paramList": [
+                        {
+                            "name": "value"
+                        }
+                    ],
+                    "propertyKey": "setThirdRowValue",
+                    "pw": {
+                        "displayName": "setThirdRowValue",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "e8aeb1787cf949c580bc1aff83b6adc6",
+                    "paramList": [
+                        {
+                            "name": "value"
+                        }
+                    ],
+                    "propertyKey": "setActiveTabValue",
+                    "pw": {
+                        "displayName": "setActiveTabValue",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "hd294dfe5fb24fd0b7fcedecc970d11b",
+                    "originalPropertyKey": "onTouchStart",
+                    "propertyIndex": 1,
+                    "propertyKey": "onHandleAction",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "onHandleAction",
+                        "srcWidget": "lblSetFrequency",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ad06b5674c104ceaa3a1cb5461fc4d72"
+                }
+            ]
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "Skins",
+                "First row",
+                "Second row",
+                "Active tab",
+                "Third row"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLblA0A0A0SSP32PxTab",
+                    "group": "Skins",
+                    "kuid": "ga600937b3b54bcba02f75d9250f74d9",
+                    "originalPropertyKey": "labelNameSkin",
+                    "propertyIndex": 1,
+                    "propertyKey": "labelNameSkin",
+                    "pw": {
+                        "displayName": "Label name",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknFlxBgFFFFFFTab",
+                    "group": "General",
+                    "kuid": "c844477c1dad446fb3fac6628f95fd6b",
+                    "originalPropertyKey": "frequencyView",
+                    "propertyIndex": 1,
+                    "propertyKey": "frequencyView",
+                    "pw": {
+                        "displayName": "skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl3E4F56SSP32pxTab",
+                    "group": "Skins",
+                    "kuid": "a281b337eb6f4707840cb48a1b7628fc",
+                    "originalPropertyKey": "labelValueSkin",
+                    "propertyIndex": 2,
+                    "propertyKey": "labelValueSkin",
+                    "pw": {
+                        "displayName": "Value",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl004b95SSP30PxTab",
+                    "group": "Skins",
+                    "kuid": "b8432fc571a04fbba59e9c332158e77a",
+                    "originalPropertyKey": "activeTabSkin",
+                    "propertyIndex": 5,
+                    "propertyKey": "activeTabSkin",
+                    "pw": {
+                        "displayName": "Active Tab",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "gda0b8731e744def89751ee7cb67f3f8",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "Second row",
+                    "kuid": "df93891b2edb43a49f282b4d1fbe92c6",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "startDate",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Second row name",
+                        "srcWidget": "lblDateStart",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ic71305f04a94bb8b4f09e9dc40d54a2"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Third row",
+                    "kuid": "faf72d2a84714781a9ee4fedcb071278",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "thirdRowName",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Third row name",
+                        "srcWidget": "lblFrequency",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "f3210c0e4aee4bb6b3ed6e069a672b38"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Active tab",
+                    "kuid": "d4c251cb0ad24fb580759232f50f569e",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 1,
+                    "propertyKey": "activeTabVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Active tab visibility",
+                        "srcWidget": "flxSetFrequency",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "j1bf22b055114fdd946a055e18fb93fd"
+                },
+                {
+                    "access": "Enable",
+                    "group": "First row",
+                    "kuid": "b70468efd7d445208afd21e26c6b387e",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "firstRowName",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "First row name",
+                        "srcWidget": "lblTransferFrequency",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "j92fb70216d84575b1d9ebc82064780c"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Second row",
+                    "kuid": "ce7373fe88064db69730b70f0544f7cc",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "startDateValue",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Second row value",
+                        "srcWidget": "lblDateStartValue",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ib76b21727d84b8db6e9bad7c61a84a2"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Active tab",
+                    "kuid": "b8f7060c16c141da9663e55c4b29088d",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "activeTabName",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Active tab name",
+                        "srcWidget": "lblSetFrequency",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ad06b5674c104ceaa3a1cb5461fc4d72"
+                },
+                {
+                    "access": "Enable",
+                    "group": "First row",
+                    "kuid": "eb6a49af516d43f99e14c2f0203f4088",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 2,
+                    "propertyKey": "firstRowVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "First row visibility",
+                        "srcWidget": "flxFrequency",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "e1144ec77042461dbc62dc73ce786a44"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Third row",
+                    "kuid": "f24f8aa4aa2f4385a664074f74efca1a",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "thirdRowValue",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Third row value",
+                        "srcWidget": "lblFrequencyRange",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "h7b5808184684c9f8cab450d7d2bc21b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Second row",
+                    "kuid": "bb8cecd9e3ed442f93eb2460ab20dd58",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 3,
+                    "propertyKey": "secondRowVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Second row visibility",
+                        "srcWidget": "flxFrequencyDate",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "f541cc583c8a449e95de78594ff8ad49"
+                },
+                {
+                    "access": "Enable",
+                    "group": "First row",
+                    "kuid": "c7345ded720f4d1bb4c4b4c6533f2ec3",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 3,
+                    "propertyKey": "firstRowValue",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "First row value",
+                        "srcWidget": "lblDaily",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "e5d967a2ccdd4af6beffe28027e3ed68"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Third row",
+                    "kuid": "e7ac9ea0c34d4ce8b0c949502baaedbf",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 3,
+                    "propertyKey": "thirdRowVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Third row visibility",
+                        "srcWidget": "flxFrequencyRange",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "jf2048abf72849c49e6e303bbc104f25"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.ktb.common",
+    "version": "1.0.0"
+}

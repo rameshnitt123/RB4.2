@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_a2435ddaf5114aec8a01d18bc6371ce9": {
+        "id": "AS_BarButtonItem_a2435ddaf5114aec8a01d18bc6371ce9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cf9bfcc000de44cba7f7cd8f3db886c0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var navObj = new kony.mvc.Navigation(\"frmLogin\");\nnavObj.navigate();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

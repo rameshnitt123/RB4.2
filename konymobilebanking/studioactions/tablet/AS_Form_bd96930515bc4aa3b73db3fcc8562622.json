@@ -1,0 +1,28 @@
+{
+    "AS_Form_bd96930515bc4aa3b73db3fcc8562622": {
+        "id": "AS_Form_bd96930515bc4aa3b73db3fcc8562622",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocationMap",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ae98d9bf5c774c5f9b04028248bfd9d2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ee32dcf1482c418fbff558aacbba7f7d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmLocationPreshow",
+            "display": "frmLocationPreshow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

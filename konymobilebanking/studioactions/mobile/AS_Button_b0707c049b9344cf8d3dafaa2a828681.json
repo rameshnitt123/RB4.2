@@ -1,0 +1,27 @@
+{
+    "AS_Button_b0707c049b9344cf8d3dafaa2a828681": {
+        "id": "AS_Button_b0707c049b9344cf8d3dafaa2a828681",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardLessWithdraw",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b277afc9fda843e7875c976a5e5ed661"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f1459ea3bfa54247b730d40235bbc00c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnContinueOnClick",
+            "display": "btnContinueOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

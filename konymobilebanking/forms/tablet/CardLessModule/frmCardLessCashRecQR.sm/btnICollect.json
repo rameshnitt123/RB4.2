@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sad545ac4ec344ba816f76efbf902746",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "android": {},
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se7eb514397a42798cfb71f02c4ae8b5",
+    "id": "btnICollect",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ee18e67bd8574c59b5e5ff0f3cf25e7b",
+    "name": "kony.ui.Button",
+    "parent": "flxLeftBar",
+    "pf": "frmCardLessCashRecQR",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.cardLess.iCollectCash",
+    "wType": "Button",
+    "zindex": 1
+}

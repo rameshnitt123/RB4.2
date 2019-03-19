@@ -1,0 +1,34 @@
+{
+    "AS_Segment_e073f6d24eca44eaa9e5a68cdfe07401": {
+        "id": "AS_Segment_e073f6d24eca44eaa9e5a68cdfe07401",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAdvanceSearch",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f70435e383a04b5d83c06bd4c80afa2f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e5118d6bf0cd41cc87c2f217a957c44d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setTimeRangeItem",
+            "display": "setTimeRangeItem",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

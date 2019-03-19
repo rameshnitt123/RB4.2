@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_g65d606b873b49159f56a1abc4c1b3ea": {
+        "id": "AS_FlexContainer_g65d606b873b49159f56a1abc4c1b3ea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "uwu72360269f3345d8ac7553a7ed8bd6bc",
+            "type": "userwidgets",
+            "KUID": "u72360269f3345d8ac7553a7ed8bd6bc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___h59f39a36e764e569cbdc18fd6ba9fbe",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "initializeView",
+            "display": "initializeView",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

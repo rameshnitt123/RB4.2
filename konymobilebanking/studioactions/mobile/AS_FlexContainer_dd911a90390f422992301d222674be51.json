@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_dd911a90390f422992301d222674be51": {
+        "id": "AS_FlexContainer_dd911a90390f422992301d222674be51",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ea668f521007462185826eacf5716d10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_aa547801e8de4457b237e2ab8b9505d7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxCancelFIOnClick",
+            "display": "flxCancelFIOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

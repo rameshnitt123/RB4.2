@@ -1,0 +1,23 @@
+{
+    "AS_Button_bd99e94bd828433584adc5a4a9ff96b7": {
+        "id": "AS_Button_bd99e94bd828433584adc5a4a9ff96b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterLastName",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f74199ffd0a84a07bc385ee5a7ce5c72"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_j736e575c04b41e1b3f750023e37dbb3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToDashboard();",
+            "callbackType": null
+        }]
+    }
+}

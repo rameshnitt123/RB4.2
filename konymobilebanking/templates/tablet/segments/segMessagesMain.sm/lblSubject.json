@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "19dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdab61b59fac472698686c8eec93b67a",
+    "_text_": "Subject Line Max one lineSubject Line Max one line",
+    "_top_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "maxNumberOfLines": 1,
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "textTruncatePosition": 3
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblSubject",
+    "info": null,
+    "ipad": {
+        "maxNumberOfLines": 1,
+        "psp": {
+            "wrapping": 2
+        },
+        "textTruncatePosition": 3
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a97e985253364b18bfa76c48a763389f",
+    "maxnumberoflines": 1,
+    "name": "kony.ui.Label",
+    "parent": "flxMainMessage",
+    "pf": "segMessagesMain",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "texttruncateposition": 3,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Segment_bf76816a65994109a47214686c54f0da": {
+        "id": "AS_Segment_bf76816a65994109a47214686c54f0da",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_e87ac8d8fde643809b5881c99180a85d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.segReasonsCancelCardOnRowClick();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_FlexScrollContainer_b8bafd218903447593f33b5adcf2011f": {
+        "id": "AS_FlexScrollContainer_b8bafd218903447593f33b5adcf2011f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfd8d167d39f4048b325cec1c7aaa4dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d4f75cbb76d943ed9c9c635a3b9c656f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxMainContainerOnScrollingAnimation",
+            "display": "flxMainContainerOnScrollingAnimation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0b0198e42a34ae0947e6935d5a80d47",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxBankImage",
+        "lblName",
+        "lblAddress",
+        "flxDistance",
+        "lblSatus",
+        "lblSeparator"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "flxLocationController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxLocation",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "fd2dd093e520474e877a86793b2a984e",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segBankLocaton",
+    "pf": "segBankLocaton",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,197 @@
+{
+    "classname": "SecureCode",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "ja6f744953224cea922ba6edb9f6598e",
+                    "paramList": [
+                        {
+                            "name": "digit"
+                        }
+                    ],
+                    "propertyKey": "addDigit",
+                    "pw": {
+                        "displayName": "addDigit",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "e9c6e3fb805b4f489fd4670ea51eede1",
+                    "paramList": [],
+                    "propertyKey": "removeDigit",
+                    "pw": {
+                        "displayName": "removeDigit",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "jf34d6c5f92d489ba2f6530dabc30860",
+                    "paramList": [],
+                    "propertyKey": "getEnteredCode",
+                    "pw": {
+                        "displayName": "getEnteredCode",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ee6785c115104b65a339c1c863a3a573",
+                    "paramList": [],
+                    "propertyKey": "clear",
+                    "pw": {
+                        "displayName": "clear",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "c6bd6376c5e04be596b45a394f418900",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onCodeEntered",
+                    "pw": {
+                        "displayName": "onCodeEntered",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "jd3941b41e6046ad8013975d53e1b767",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "onCodeRevoked",
+                    "pw": {
+                        "displayName": "onCodeRevoked",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "SSN",
+                "Symbols"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": 4,
+                    "group": "General",
+                    "kuid": "g9949664ab0f4830abbd52babaeef820",
+                    "originalPropertyKey": "requiredLength",
+                    "propertyIndex": 1,
+                    "propertyKey": "requiredLength",
+                    "pw": {
+                        "displayName": "Required Length",
+                        "type": "integer",
+                        "uiRepresentation": "Label-Textbox",
+                        "validationData": "^(\\+|-)?\\d+$"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "integer",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "_",
+                    "group": "Symbols",
+                    "kuid": "h0751a57db7247e4abcde3f88e517f82",
+                    "originalPropertyKey": "unfilledSymbol",
+                    "propertyIndex": 1,
+                    "propertyKey": "unfilledSymbol",
+                    "pw": {
+                        "displayName": "Unfilled",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": false,
+                    "group": "SSN",
+                    "kuid": "g11eaa51cba648b18231dc127e2078d2",
+                    "originalPropertyKey": "enableSSN",
+                    "propertyIndex": 1,
+                    "propertyKey": "enableSSN",
+                    "pw": {
+                        "displayName": "Enable SSN mode",
+                        "uiRepresentation": "Label-Radiobuttongroup"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "boolean",
+                    "value": "true/false"
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "•",
+                    "group": "Symbols",
+                    "kuid": "cd69661718394d2da6baacd97dc2dc62",
+                    "originalPropertyKey": "filledSymbol",
+                    "propertyIndex": 2,
+                    "propertyKey": "filledSymbol",
+                    "pw": {
+                        "displayName": "Filled",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "-",
+                    "group": "SSN",
+                    "kuid": "i16f13d341ac4fe3b59c6cd334bb433f",
+                    "originalPropertyKey": "ssnCodeSeparator",
+                    "propertyIndex": 2,
+                    "propertyKey": "ssnCodeSeparator",
+                    "pw": {
+                        "displayName": "Separator symbol",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "g9f817ea903148e6ab0d5a98a8cc934f",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.banking",
+    "version": "1.0.0"
+}

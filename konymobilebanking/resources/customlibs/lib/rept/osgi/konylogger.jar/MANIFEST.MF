@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+
+
+### OSGi information
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.kony.logger.LogUtils
+Bundle-Description: konylogger
+Bundle-Name: konylogger
+Bundle-Version: 0.0.0
+Export-Package: com.kony.logger.Constants,com.kony.logger.Core;uses:="
+ android.content,com.kony.logger.Constants,com.kony.logger.LogUtils,co
+ m.kony.logger.LoggerEngine,com.kony.logger.LoggerException,com.kony.l
+ ogger.UserHelperClasses,com.konylabs.android",com.kony.logger.LogPers
+ isters;uses:="android.content,com.kony.logger.Constants,com.kony.logg
+ er.LogUtils,com.kony.logger.LoggerEngine,com.kony.logger.LoggerExcept
+ ion,com.kony.logger.NetworkPersistor,com.kony.logger.UserHelperClasse
+ s",com.kony.logger.LogUtils;uses:="android.annotation,android.content
+ ,android.util,android.webkit,com.kony.logger.Constants,com.kony.logge
+ r.LoggerEngine,com.kony.logger.LoggerException,com.kony.logger.UserHe
+ lperClasses",com.kony.logger.LoggerEngine;uses:="android.annotation,a
+ ndroid.content,android.os,android.provider,com.kony.logger.Constants,
+ com.kony.logger.Core,com.kony.logger.LogPersisters,com.kony.logger.Lo
+ gUtils,com.kony.logger.LoggerException,com.kony.logger.NetworkPersist
+ or,com.kony.logger.UserHelperClasses",com.kony.logger.LoggerException
+ ,com.kony.logger.NetworkPersistor;uses:="android.content,com.android.
+ volley,com.android.volley.toolbox,com.kony.logger.Constants,com.kony.
+ logger.Core,com.kony.logger.LogUtils",com.kony.logger.UserHelperClass
+ es;uses:="com.kony.logger.Constants,com.kony.logger.LogUtils,com.kony
+ .logger.LoggerException"
+Import-Package: android.annotation,android.content,android.os,android.
+ provider,android.util,android.webkit,com.android.volley;version="0.0.
+ 0",com.android.volley.toolbox;version="0.0.0",com.konylabs.android,ja
+ va.io,java.lang,java.text,java.util,java.util.concurrent

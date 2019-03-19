@@ -1,0 +1,24 @@
+{
+    "AS_Form_dce0697860aa460c85d0eead79cebd00": {
+        "id": "AS_Form_dce0697860aa460c85d0eead79cebd00",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardMngBillAddress",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f93d5975fb9e4a26b39e98e57cea742d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h09c784b11904c9d890cf783254acbf4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

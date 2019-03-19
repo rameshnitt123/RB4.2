@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_jc5a9d1d3d2e4db4a60d52e2e6bf0f36": {
+        "id": "AS_FlexContainer_jc5a9d1d3d2e4db4a60d52e2e6bf0f36",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersDuration",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bcdd3505a6a74c1583ed26e454d00231"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ge4227d462654688b8d108928eae8a87",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transModPresentationController = applicationManager.getModulesPresentationController(\"TransferModule\");\ntransModPresentationController.commonFunctionForNavigation(\"frmTransferFrequency\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

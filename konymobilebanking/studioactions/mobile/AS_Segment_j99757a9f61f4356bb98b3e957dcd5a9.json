@@ -1,0 +1,30 @@
+{
+    "AS_Segment_j99757a9f61f4356bb98b3e957dcd5a9": {
+        "id": "AS_Segment_j99757a9f61f4356bb98b3e957dcd5a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmCardLessPickContacts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cbbd9bd64621412a96c975d44fbf157e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d57f03d171c5404883de1dc3a3e44cfc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showPopup();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon.png"
+            },
+            "imgReply": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "replyicon.png"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message description to appear here.Show maximum two lines of text. In the end text is going to end here with …"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "(999)"
+            },
+            "lblReply": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Reply"
+            },
+            "lblSubject": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one lineSubject Line Max one line"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "02/22/2018"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon.png"
+            },
+            "imgReply": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "replyicon.png"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message description to appear here.Show maximum two lines of text. In the end text is going to end here with …"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "(999)"
+            },
+            "lblReply": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Reply"
+            },
+            "lblSubject": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one lineSubject Line Max one line"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "02/22/2018"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon.png"
+            },
+            "imgReply": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "replyicon.png"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message description to appear here.Show maximum two lines of text. In the end text is going to end here with …"
+            },
+            "lblNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "(999)"
+            },
+            "lblReply": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Reply"
+            },
+            "lblSubject": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one lineSubject Line Max one line"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "02/22/2018"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segMessages",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d22ec603e30643e89312277c8d2160c6",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMessages",
+    "pf": "frmMessages",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": true,
+    "rowTemplateId": "e99f7c605d894e2c909a494aaeab8c43",
+    "rowcounter": 2,
+    "rowfocusskin": "se28da66c8714fd690b7ebbd62a2213c",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxMessagesRoot",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxDelete": "flxDelete",
+        "flxDeleteReply": "flxDeleteReply",
+        "flxMainMessage": "flxMainMessage",
+        "flxMessagesRoot": "flxMessagesRoot",
+        "flxParentSwipe": "flxParentSwipe",
+        "flxReply": "flxReply",
+        "flxSeparatorMessage": "flxSeparatorMessage",
+        "imgDelete": "imgDelete",
+        "imgReply": "imgReply",
+        "lblDelete": "lblDelete",
+        "lblDescription": "lblDescription",
+        "lblNumber": "lblNumber",
+        "lblReply": "lblReply",
+        "lblSubject": "lblSubject",
+        "lblTime": "lblTime"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,341 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "lblCategoryTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Login"
+                }
+            },
+            [
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Off"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Account Preview "
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "On"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Device Registration"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Password"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Default Login"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "lblCategoryTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                }
+            },
+            [
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Change Username"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Change Password"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Personal Details"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "lblCategoryTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Alerts"
+                }
+            },
+            [
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "On"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Account Alerts"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "On"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Security Alerts"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "On"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Deals Alerts"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "lblCategoryTitle": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Default Account"
+                }
+            },
+            [
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Credit Card"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Transfers"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bill Pay"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Johns Credit Card"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Pay a Person"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Checking"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Cash Withdrawal"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "chevron.png"
+                    },
+                    "lblStatus": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Credit Card2"
+                    },
+                    "lblTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Deposits"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "34",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segAlerts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ac6c04ae161a4422b9ed6064e2747722",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBodyOuter",
+    "pf": "frmAlertsSettings",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "b568181b1a6141ed94c77be4ccaaaa5b",
+    "rowcounter": 4,
+    "rowfocusskin": "s02d7ca459a74168b4573e79b9d8efec",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxSettings",
+    "screenlevelwidget": false,
+    "seccounter": 3,
+    "sectionHeaderTemplateId": "h5734bd10da9483aadd59a3e3b5652ff",
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "sectionheadertemplate": "flxSettingHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxSettingHeader": "flxSettingHeader",
+        "flxSettings": "flxSettings",
+        "flxShadowOne": "flxShadowOne",
+        "imgArrow": "imgArrow",
+        "lblCategoryTitle": "lblCategoryTitle",
+        "lblStatus": "lblStatus",
+        "lblTitle": "lblTitle"
+    },
+    "zindex": 1
+}

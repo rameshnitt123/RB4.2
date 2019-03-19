@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_a1c9944ef38a41d89bc45ea11f593d82": {
+        "id": "AS_FlexContainer_a1c9944ef38a41d89bc45ea11f593d82",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ea668f521007462185826eacf5716d10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_h54638e790f241009142702787030ff6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.view.tbxUsername.text ===''||this.view.tbxUsername.text==null||this.view.tbxUsername.text==undefined){\n  var ntf = new kony.mvc.Navigation(\"frmForgotEnterLastName\");\n\tntf.navigate();\n}else{\n  var ntf = new kony.mvc.Navigation(\"frmForgotMain\"); \n\tntf.navigate(\"ForgotMain\"); \n}",
+            "callbackType": null
+        }]
+    }
+}

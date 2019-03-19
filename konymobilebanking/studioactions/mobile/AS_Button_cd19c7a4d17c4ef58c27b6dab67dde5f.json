@@ -1,0 +1,23 @@
+{
+    "AS_Button_cd19c7a4d17c4ef58c27b6dab67dde5f": {
+        "id": "AS_Button_cd19c7a4d17c4ef58c27b6dab67dde5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPreferencesDeviceRegSecCode",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c719d50200df45358fd79063ef57c8b6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ibfc91f4239147ffbf48c80bef40e2e0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showCreatePassword();",
+            "callbackType": null
+        }]
+    }
+}

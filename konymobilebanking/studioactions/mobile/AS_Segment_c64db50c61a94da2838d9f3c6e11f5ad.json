@@ -1,0 +1,42 @@
+{
+    "AS_Segment_c64db50c61a94da2838d9f3c6e11f5ad": {
+        "id": "AS_Segment_c64db50c61a94da2838d9f3c6e11f5ad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDashboardAggregated",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ca231daa4214490bb26e21baab5db0db"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onRowClick_e3bde0027673422bb65ab82109e8b6a7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountDetails",
+            "friendlyName": "frmAccountDetails",
+            "formKUID": "bfd8d167d39f4048b325cec1c7aaa4dd",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "disabled": true,
+            "package": "AccountModule"
+        }, {
+            "id": "ADD_SNIPPET_ide_onRowClick_e6b49bbb639748c5a3a0a107cb415da6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.accountAggregatedSegmentOnClick();",
+            "callbackType": null
+        }]
+    }
+}

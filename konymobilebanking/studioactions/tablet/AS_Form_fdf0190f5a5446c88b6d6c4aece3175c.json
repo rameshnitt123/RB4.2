@@ -1,0 +1,28 @@
+{
+    "AS_Form_fdf0190f5a5446c88b6d6c4aece3175c": {
+        "id": "AS_Form_fdf0190f5a5446c88b6d6c4aece3175c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBSignature",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i0ab72c4009b499aa13084fe4a92012f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d256fbfe8176475fa7b4c87b1a1c0746",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

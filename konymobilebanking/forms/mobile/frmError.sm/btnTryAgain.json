@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd41f0625be0469b85d3fd584850f571",
+    "_text_": "Try Again",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Try Again"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sfa2cf44c0c64147b9e3b975a91b6c60",
+    "id": "btnTryAgain",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i2b85279b4d64acc8ffe1f2845f1d5c3",
+    "name": "kony.ui.Button",
+    "parent": "frmError",
+    "pf": "frmError",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.common.TryAgain",
+    "wType": "Button",
+    "zindex": 1
+}

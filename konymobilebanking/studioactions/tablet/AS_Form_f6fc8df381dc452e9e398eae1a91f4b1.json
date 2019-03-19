@@ -1,0 +1,23 @@
+{
+    "AS_Form_f6fc8df381dc452e9e398eae1a91f4b1": {
+        "id": "AS_Form_f6fc8df381dc452e9e398eae1a91f4b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardManageHome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a35ed9cd4c964a3997ce27736a801da0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_d4ddfed3ec604a1a96375a5613e1a125",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_i6aef653b4164ccaa759bb2f89d34c0a": {
+        "id": "AS_Button_i6aef653b4164ccaa759bb2f89d34c0a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b4f5ec62a337461d8112201ff8101714",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEnrollSignUp",
+            "friendlyName": "frmEnrollSignUp",
+            "formKUID": "b3d04af02f2c45c0b387560724fd98f5",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "EnrollModule"
+        }]
+    }
+}

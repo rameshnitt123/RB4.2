@@ -1,0 +1,146 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "lblHyphen": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$1,200,001"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$9,999,999"
+            }
+        },
+        {
+            "lblHyphen": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$1,200,001"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$9,999,999"
+            }
+        },
+        {
+            "lblHyphen": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblOption1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$1,200,001"
+            },
+            "lblOption2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$9,999,999"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDependents",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "df21260727384f3c9e9e058006399acb",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxDependents",
+    "pf": "frmOBFinancialInfoAssets",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "c8dfcd6076714d50a10cea69bbdb2afd",
+    "rowcounter": 2,
+    "rowfocusskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxOBYears",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f1f1f100",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxMain": "flxMain",
+        "flxOBYears": "flxOBYears",
+        "lblHyphen": "lblHyphen",
+        "lblOption1": "lblOption1",
+        "lblOption2": "lblOption2"
+    }
+}

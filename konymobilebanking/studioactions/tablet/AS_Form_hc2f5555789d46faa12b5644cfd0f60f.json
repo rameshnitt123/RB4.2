@@ -1,0 +1,28 @@
+{
+    "AS_Form_hc2f5555789d46faa12b5644cfd0f60f": {
+        "id": "AS_Form_hc2f5555789d46faa12b5644cfd0f60f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUploadCheckImages",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ec7ffb8881844db78c77454d112ff34b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b56c29024464435db8f187ac0826b67b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

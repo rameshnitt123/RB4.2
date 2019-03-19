@@ -1,0 +1,28 @@
+{
+    "AS_Form_j12487505c544df58abdd08c149d56d2": {
+        "id": "AS_Form_j12487505c544df58abdd08c149d56d2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEStmtDisableEStatements",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h0cda73f1e254e69a905f1e72b2668fe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bcbe06181ec74a8ab8bc177e0d2b0229",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

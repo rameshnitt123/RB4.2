@@ -1,0 +1,28 @@
+{
+    "AS_Form_e43074e0d9b44f48b97d59814c18887e": {
+        "id": "AS_Form_e43074e0d9b44f48b97d59814c18887e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayConfirmation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bc9f2c9ffaaa4f6590f47b654f66341e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___aee89cd13124410b8e3c6734cb5d3bb7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

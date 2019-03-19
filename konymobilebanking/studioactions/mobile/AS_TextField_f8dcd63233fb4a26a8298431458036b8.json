@@ -1,0 +1,26 @@
+{
+    "AS_TextField_f8dcd63233fb4a26a8298431458036b8": {
+        "id": "AS_TextField_f8dcd63233fb4a26a8298431458036b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterCVV",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb884581c9154390af4af6572938d7c4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTextChange_ge89f3ba84c0494d8cafcfd23a8c61f9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.matchPasswords();",
+            "callbackType": null
+        }]
+    }
+}

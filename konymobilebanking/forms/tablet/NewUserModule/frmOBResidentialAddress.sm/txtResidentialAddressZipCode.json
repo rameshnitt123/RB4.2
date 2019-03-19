@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        10,
+        3,
+        1,
+        3
+    ],
+    "_placeholder_": "",
+    "_skin_": "s68672528a0f46f2a5041b134cd98433",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "android": {
+        "padding": [
+            10,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s68672528a0f46f2a5041b134cd98433",
+    "id": "txtResidentialAddressZipCode",
+    "info": null,
+    "ipad": {
+        "padding": [
+            10,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "dc2d03dbb14d4616a0a0bbf96d72d8bd",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxResidentialAddressWrapper",
+    "pf": "frmOBResidentialAddress",
+    "placeholderi18n": "kony.mb.cardManage.enterHere",
+    "placeholderskin": "s0523794a64e41d082afa54cf7ec3a1c",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

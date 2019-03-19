@@ -1,0 +1,27 @@
+{
+    "AS_Button_f99470310cb34c07977df790bdb3a16a": {
+        "id": "AS_Button_f99470310cb34c07977df790bdb3a16a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUpdatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b92d84aebf1f4797ae7c9b495c49be96"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ba61148ad6644eef9ca861abe62e3d3c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnLoginOnClick",
+            "display": "btnLoginOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

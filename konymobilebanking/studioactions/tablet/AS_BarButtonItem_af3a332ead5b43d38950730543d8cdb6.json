@@ -1,0 +1,17 @@
+{
+    "AS_BarButtonItem_af3a332ead5b43d38950730543d8cdb6": {
+        "id": "AS_BarButtonItem_af3a332ead5b43d38950730543d8cdb6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ebd6ee6d3909491eb90b23fc708f3e1f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// this.view.flxPopupNickName.setVisibility(true);\n// this.view.flxHeader.setEnabled(false);\n// this.view.flxContainerCheckingAcc.setEnabled(false);\n// this.view.flxContainerCreditCard.setEnabled(false);\n// this.view.flxContainerHomeLoan.setEnabled(false);\n// this.view.flxContainerDepositAccount.setEnabled(false);\n// this.view.flxFooter.setEnabled(false); \nthis.customHeaderBtnRightOnClick();",
+            "callbackType": null
+        }]
+    }
+}

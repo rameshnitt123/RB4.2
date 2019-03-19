@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sad545ac4ec344ba816f76efbf902746",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "82%"
+    },
+    "android": {
+        "top": {
+            "type": "string",
+            "value": "76dp"
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9687e8b97e547bc81b55fc7a2a528c8",
+    "id": "btnPhoneNumber",
+    "info": null,
+    "ipad": {
+        "top": {
+            "type": "string",
+            "value": "15dp"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b48ee2a1e9d04245a3dca44a937b9588",
+    "name": "kony.ui.Button",
+    "parent": "flxLeftContent",
+    "pf": "frmRegP2PContactType",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.common.phoneNo",
+    "wType": "Button",
+    "zindex": 1
+}

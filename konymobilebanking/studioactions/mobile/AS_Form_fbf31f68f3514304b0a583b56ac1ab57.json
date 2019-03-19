@@ -1,0 +1,23 @@
+{
+    "AS_Form_fbf31f68f3514304b0a583b56ac1ab57": {
+        "id": "AS_Form_fbf31f68f3514304b0a583b56ac1ab57",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferNoRecipient",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dc031f70237844728a3c536441291bcb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_bff0b032299d4dde8f1b7cce63136d9a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "callbackType": null
+        }]
+    }
+}

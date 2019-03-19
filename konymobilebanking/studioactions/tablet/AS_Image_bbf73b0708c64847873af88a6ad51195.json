@@ -1,0 +1,29 @@
+{
+    "AS_Image_bbf73b0708c64847873af88a6ad51195": {
+        "id": "AS_Image_bbf73b0708c64847873af88a6ad51195",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSSN",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e006b837bb15411c9c857aee4bf993a5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_a1e118399ac64835bc5adfa01f0ffe61",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.clearKeypadChar();",
+            "callbackType": null
+        }]
+    }
+}

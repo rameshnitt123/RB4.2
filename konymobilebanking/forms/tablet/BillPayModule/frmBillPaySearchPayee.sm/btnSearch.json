@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s0c8425038d446ec8ef1f0a69a5f0b85",
+    "_text_": "CANCEL",
+    "_width_": {
+        "type": "string",
+        "value": "84dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0c8425038d446ec8ef1f0a69a5f0b85",
+    "id": "btnSearch",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": true
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "ha49d4e35d654b18a9bacdb270a89873",
+    "name": "kony.ui.Button",
+    "parent": "flxSearch",
+    "pf": "frmBillPaySearchPayee",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "showprogressindicator": true,
+    "wType": "Button",
+    "zindex": 20
+}

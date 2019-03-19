@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Search",
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s5a9c8bf60bb4765bb41b4a2b47ea627",
+    "_text_": "",
+    "android": {
+        "padding": [
+            35,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s22ba4e943e64afeb3449c8aadca3519",
+    "id": "tbxSearch",
+    "info": null,
+    "ipad": {
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "keyboardActionLabel": 3
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardactionlabel": 3,
+    "keyboardtype": "A",
+    "kuid": "i379a56a7a014819939a092e399519b1",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxSearchMain",
+    "pf": "frmBillPaySelectPayee",
+    "placeholderi18n": "kony.mb.ExternalAccounts.Search",
+    "placeholderskin": "s98cf00e74da4b8db135d85223b093c5",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

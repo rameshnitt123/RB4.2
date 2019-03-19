@@ -1,0 +1,23 @@
+{
+    "AS_Button_ccf18cf5685a4623b42d94e38ca3c9ef": {
+        "id": "AS_Button_ccf18cf5685a4623b42d94e38ca3c9ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterCVV",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb884581c9154390af4af6572938d7c4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e612eb10a196409890538ac6c97ce4c2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.updatePasswordAction();",
+            "callbackType": null
+        }]
+    }
+}

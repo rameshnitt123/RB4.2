@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2d67e28574d4e61888804a2c14aa08f",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "320dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "49.83%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblBodyTxt",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "hb9bf6872138496a928f078621a45f5e",
+    "name": "kony.ui.Label",
+    "parent": "flxBodyTxt",
+    "pf": "frmDealAlertsList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.Alerts.DealsAlertMsg",
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "We keep you updated on the sales deals we have with us. We also remind you on the deals period."
+    }
+}

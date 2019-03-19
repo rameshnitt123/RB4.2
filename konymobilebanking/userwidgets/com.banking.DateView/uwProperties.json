@@ -1,0 +1,139 @@
+{
+    "classname": "DateView",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "c915ee798b044bbd8ad2b20da7dcbcc5",
+                    "paramList": [
+                        {
+                            "name": "char"
+                        }
+                    ],
+                    "propertyKey": "addChar",
+                    "pw": {
+                        "displayName": "addChar",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c08c1d6a52bb40c2a2633056ed36f8fd",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "cad0560d07134d2d9ed12d89bb8308c5",
+                    "paramList": [],
+                    "propertyKey": "removeChar",
+                    "pw": {
+                        "displayName": "removeChar",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c08c1d6a52bb40c2a2633056ed36f8fd",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "bc81ffa4676d44a692dde39c71a1796c",
+                    "paramList": [],
+                    "propertyKey": "getDate",
+                    "pw": {
+                        "displayName": "getDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c08c1d6a52bb40c2a2633056ed36f8fd",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "c4576977471b43d3b9565143f7bb7101",
+                    "paramList": [],
+                    "propertyKey": "clear",
+                    "pw": {
+                        "displayName": "clear",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c08c1d6a52bb40c2a2633056ed36f8fd",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b18c2d26c5da4e48b67d4098040ee826",
+                    "paramList": [
+                        {
+                            "name": "date"
+                        }
+                    ],
+                    "propertyKey": "setDate",
+                    "pw": {
+                        "displayName": "setDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c08c1d6a52bb40c2a2633056ed36f8fd",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "d74225f90eda4dd893ae0d5d0b8bee60",
+                    "paramList": [],
+                    "propertyKey": "getDateString",
+                    "pw": {
+                        "displayName": "getDateString",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c08c1d6a52bb40c2a2633056ed36f8fd",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "f34371e3bcb1409b81e6b9c3b2570b90",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "onDateEntered",
+                    "pw": {
+                        "displayName": "onDateEntered",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c08c1d6a52bb40c2a2633056ed36f8fd",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b41c42c5031740dba97e5e2cb91e7b23",
+                    "paramList": [],
+                    "propertyIndex": 3,
+                    "propertyKey": "onDateRemoved",
+                    "pw": {
+                        "displayName": "onDateRemoved",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c08c1d6a52bb40c2a2633056ed36f8fd",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.banking",
+    "version": "1.0.0"
+}

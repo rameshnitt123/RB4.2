@@ -1,0 +1,23 @@
+{
+    "AS_Button_b9e0c27d740240daabbd24369d8e9fe4": {
+        "id": "AS_Button_b9e0c27d740240daabbd24369d8e9fe4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersPhoneNumberEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c5fa7b64e66f42e68ce34cef04be0c36"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ed7c342e92254d8d9810c294e9cf2f06",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var authMod = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"AuthModule\"); \nauthMod.presentationController.commonFunctionForNavigation(\"frmLogin\");",
+            "callbackType": null
+        }]
+    }
+}

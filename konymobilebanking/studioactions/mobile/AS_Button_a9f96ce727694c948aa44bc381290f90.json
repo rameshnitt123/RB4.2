@@ -1,0 +1,30 @@
+{
+    "AS_Button_a9f96ce727694c948aa44bc381290f90": {
+        "id": "AS_Button_a9f96ce727694c948aa44bc381290f90",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrollCVV",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f411a2a5a2cd4efba1cca27485df0902"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_iade52b5ca76453380fa187514701f47",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEnrollSignUp",
+            "friendlyName": "frmEnrollSignUp",
+            "formKUID": "b3d04af02f2c45c0b387560724fd98f5",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "EnrollModule"
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_bebcc9ef4ae54bc7b93305e71287b870": {
+        "id": "AS_Form_bebcc9ef4ae54bc7b93305e71287b870",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardLessPhoneNo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b85e58d8a9e043d7a9103e0a412eb055"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___h03ddcb98d544f758baa8dcc0a7dc4b6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

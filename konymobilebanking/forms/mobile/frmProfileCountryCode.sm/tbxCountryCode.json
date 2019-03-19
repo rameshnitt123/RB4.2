@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter Country Code",
+    "_skin_": "s039301545174ce686ecaec59a9e23ad",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s70dae761f9c4615bc28e4536b8a255f",
+    "id": "tbxCountryCode",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "keyboardtype": "A",
+    "kuid": "a787fab71aa7409088129306cea6eedf",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxCountryCode",
+    "pf": "frmProfileCountryCode",
+    "placeholderskin": "sc7ba661cdd2425eafe493714acf80c2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 4,
+    "placeholderi18n": "kony.mb.Profile.EnterCountryCode",
+    "accessibilityconfig": {
+        "a11yLabel": "Enter Country Code"
+    }
+}

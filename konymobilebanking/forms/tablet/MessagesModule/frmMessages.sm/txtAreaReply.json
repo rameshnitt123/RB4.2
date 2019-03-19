@@ -1,0 +1,107 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        10,
+        5,
+        0,
+        5
+    ],
+    "_placeholder_": "Reply",
+    "_skin_": "sa1d7e5ccbf542499e705b741642c83a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "android": {
+        "padding": [
+            10,
+            5,
+            5,
+            2
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "placeholderSkin": "s1f5dd5e631048bb8d90705541864d24"
+        }
+    },
+    "androidwearos": {
+        "psp": {
+            "placeholderSkin": "s1f5dd5e631048bb8d90705541864d24"
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "closebuttontext": "",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "focusskin": "s413b36668314b4aa57eba91c28f4d0a",
+    "id": "txtAreaReply",
+    "ide_onDone": "AS_TextArea_c805e36c4a4a4958bfb2e872d7ad74b0",
+    "info": null,
+    "ipad": {
+        "padding": [
+            10,
+            5,
+            0,
+            5
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "closeButtonText": "Done",
+            "keyboardActionLabel": 1
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "keyboardactionlabel": 1,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "f3b1dfefa9a145e7935c857ebbaa7862",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "paddinginpixel": false,
+    "parent": "flxSegMessages",
+    "pf": "frmMessages",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "tabrcandroid": {
+        "psp": {
+            "placeholderSkin": "s1f5dd5e631048bb8d90705541864d24"
+        }
+    },
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "zindex": 10
+}

@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s30d39ca8c744d388569c1d52d0824b6",
+    "_text_": "ADD NEW ADDRESS",
+    "_width_": {
+        "type": "string",
+        "value": "56%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "ADD NEW ADDRESS"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sd85a0f475ff4b3b9f0a5e4b82f68213",
+    "id": "btnContinue",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a2a3dfbd42384079842ba3f1bc3f88a5",
+    "name": "kony.ui.Button",
+    "parent": "flxMainContainer",
+    "pf": "frmProfileEditAddressList",
+    "texti18n": "kony.mb.Profile.AddNewAddress",
+    "wType": "Button",
+    "zindex": 1
+}

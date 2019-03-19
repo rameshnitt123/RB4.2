@@ -1,0 +1,23 @@
+{
+    "AS_Form_f1fcbcfe50eb4d42986fd2c519f6e619": {
+        "id": "AS_Form_f1fcbcfe50eb4d42986fd2c519f6e619",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBFinancialInfoExpenditure",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h4f8f2ed9ebb479a92829405d7cc9b0f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_i4b6bbca8bac4164bffc28132bf811bf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "callbackType": null
+        }]
+    }
+}

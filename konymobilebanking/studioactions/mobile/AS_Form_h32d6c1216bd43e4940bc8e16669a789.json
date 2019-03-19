@@ -1,0 +1,24 @@
+{
+    "AS_Form_h32d6c1216bd43e4940bc8e16669a789": {
+        "id": "AS_Form_h32d6c1216bd43e4940bc8e16669a789",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayConfirmation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fada5a082a614a14b010926ece425ca9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ga762242a9c24c0982c992d644f014d8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_dfeda88dcb7044058c5069e2c9a445e8": {
+        "id": "AS_Button_dfeda88dcb7044058c5069e2c9a445e8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterSSN",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e006b837bb15411c9c857aee4bf993a5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_g09230bceb034552826684b8b6237fc7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(7);",
+            "callbackType": null
+        }]
+    }
+}

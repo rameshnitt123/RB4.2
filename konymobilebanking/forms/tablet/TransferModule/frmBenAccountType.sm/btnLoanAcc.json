@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa0ed98d681a44b8bdb14de43741a1dd",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "167dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd18f66115504d8282ebb457e47943e5",
+    "id": "btnLoanAcc",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "be6e4adec12b44848e4a6f5725069f1a",
+    "name": "kony.ui.Button",
+    "parent": "flxTransferLeftPanel",
+    "pf": "frmBenAccountType",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.tab.addBen.loanAccount",
+    "wType": "Button",
+    "zindex": 1
+}

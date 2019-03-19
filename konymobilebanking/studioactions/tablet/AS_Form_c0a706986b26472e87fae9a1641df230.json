@@ -1,0 +1,28 @@
+{
+    "AS_Form_c0a706986b26472e87fae9a1641df230": {
+        "id": "AS_Form_c0a706986b26472e87fae9a1641df230",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardLessCashRec",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e1a426adb81a43809099f4176494522a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bf106ed0300841be9b3a04855e589eda",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

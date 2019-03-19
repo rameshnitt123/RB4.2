@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_fd91f61a65164b1da06129bee9747b1e": {
+        "id": "AS_FlexContainer_fd91f61a65164b1da06129bee9747b1e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ea668f521007462185826eacf5716d10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ecab04ed848540c0ba8613acc785ccea",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.customAlertPopUpFlxCancelOnClick();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Label_cd1e5d8e77824c0994f8b908fa350af1": {
+        "id": "AS_Label_cd1e5d8e77824c0994f8b908fa350af1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_f655301ac23742d3a3f94d0ecd8ee1c3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showMoreDetails",
+            "display": "showMoreDetails",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_d76f5bef011d4bc09855981bee9ac4ff": {
+        "id": "AS_Button_d76f5bef011d4bc09855981bee9ac4ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileConfirmDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i2adb2c8c75a4944afc5cd4fed5dd55e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f0115a0b12064cac9231ce7b614d0f59",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(7);",
+            "callbackType": null
+        }]
+    }
+}

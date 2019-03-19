@@ -1,0 +1,28 @@
+{
+    "AS_Form_c6f5820d23aa45d98b040101685ffe9a": {
+        "id": "AS_Form_c6f5820d23aa45d98b040101685ffe9a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBMembershipEligibility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ic87b71c52fe423fb1da40aba2be95dc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___jfea6695c92948e98620cc12892cf652",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

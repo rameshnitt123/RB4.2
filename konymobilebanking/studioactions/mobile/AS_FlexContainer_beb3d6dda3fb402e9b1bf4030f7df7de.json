@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_beb3d6dda3fb402e9b1bf4030f7df7de": {
+        "id": "AS_FlexContainer_beb3d6dda3fb402e9b1bf4030f7df7de",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDevRegLoginType",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d364d2a719d9467a8bf002796c63284f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bbf0a03fbcb944df8af266b317c31b7e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgSelFaceOnTouchEnd",
+            "display": "imgSelFaceOnTouchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

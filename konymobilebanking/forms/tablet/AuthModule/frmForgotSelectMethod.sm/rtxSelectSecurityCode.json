@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s48627a2a42d43d5bec11d0fa3c5b047",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxSelectSecurityCode",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ge482b3b00e7466887b9f558b8e8e276",
+    "name": "kony.ui.RichText",
+    "parent": "flxSelectSecurityCode",
+    "pf": "frmForgotSelectMethod",
+    "texti18n": "kony.mb.Forgot.RtxSelectSecurityCode",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

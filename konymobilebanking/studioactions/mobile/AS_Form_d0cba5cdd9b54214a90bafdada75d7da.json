@@ -1,0 +1,23 @@
+{
+    "AS_Form_d0cba5cdd9b54214a90bafdada75d7da": {
+        "id": "AS_Form_d0cba5cdd9b54214a90bafdada75d7da",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageTravelPhoneNumber",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bbfb9ffa68744e769c6a9b44c7028f87"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_df9eba505ce84c52b8624615fdb16668",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

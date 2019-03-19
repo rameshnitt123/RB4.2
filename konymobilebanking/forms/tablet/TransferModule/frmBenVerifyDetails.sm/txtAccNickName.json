@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Acc",
+    "_skin_": "sa9f1e95eea14fc79844274529d995d4",
+    "_text_": "Gertrude Moore",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s78f2c8fb05d41f987e92eb6240a2253",
+    "id": "txtAccNickName",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "ba2578ea398b4d0cbbe12e99793190b7",
+    "maxtextlength": "",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxTransferLeftPanel",
+    "pf": "frmBenVerifyDetails",
+    "placeholderi18n": "kony.mb.accdetails.AccNickName",
+    "placeholderskin": "s65806028bfc4369b7d2c475b5214ca1",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

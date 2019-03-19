@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s48627a2a42d43d5bec11d0fa3c5b047",
+    "_text_": "Reset your password",
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxSelectSecurityCode",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bc0028eabdb144d19eebca20449fe2c9",
+    "name": "kony.ui.RichText",
+    "parent": "flxSelectSecurityCode",
+    "pf": "frmForgotMain",
+    "texti18n": "kony.mb.ForgotMain.ResetYourPassword",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

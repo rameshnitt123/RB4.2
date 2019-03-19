@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s95fdc214e754758a478364273bd696b",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "56%"
+    },
+    "accessibilityconfig": {
+        "a11yHint": "Tap Resend to resend the information",
+        "a11yLabel": "Resend"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s5f469f16d004c759a49f8e712f5face",
+    "id": "btnResend",
+    "ide_onClick": "AS_Button_efc40018843848a7ac66eeb30d09a5ae",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g044d6d75264483fa7b337a880a7f141",
+    "name": "kony.ui.Button",
+    "parent": "flxMainContainer",
+    "pf": "frmDevRegSecCode",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.common.Resend",
+    "wType": "Button",
+    "zindex": 1
+}

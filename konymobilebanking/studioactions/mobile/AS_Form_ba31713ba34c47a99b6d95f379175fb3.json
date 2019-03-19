@@ -1,0 +1,23 @@
+{
+    "AS_Form_ba31713ba34c47a99b6d95f379175fb3": {
+        "id": "AS_Form_ba31713ba34c47a99b6d95f379175fb3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWireTransferEnterAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ie369e9ed5814098a3661264daa52b94"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_a1b95665cf174061ae12b79262fe4fe4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

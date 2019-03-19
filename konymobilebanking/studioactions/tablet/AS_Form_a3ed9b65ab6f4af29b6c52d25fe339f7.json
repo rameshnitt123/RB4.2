@@ -1,0 +1,28 @@
+{
+    "AS_Form_a3ed9b65ab6f4af29b6c52d25fe339f7": {
+        "id": "AS_Form_a3ed9b65ab6f4af29b6c52d25fe339f7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransfersRecurrence",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ecd90208448444cfb1eb915012943827"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___aa23ee352b8b497c841c9406b330d713",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

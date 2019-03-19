@@ -1,0 +1,23 @@
+{
+    "AS_Button_bb020b3ea5db40c6afb1c4d5f9196588": {
+        "id": "AS_Button_bb020b3ea5db40c6afb1c4d5f9196588",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileEditAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e8b4d80edeab45858b68d1505b5e19be"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b17184e75b4f4af1894729da143f871b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.validateAndNavigate();",
+            "callbackType": null
+        }]
+    }
+}

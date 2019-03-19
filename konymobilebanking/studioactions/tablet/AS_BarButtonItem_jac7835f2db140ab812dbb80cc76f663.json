@@ -1,0 +1,22 @@
+{
+    "AS_BarButtonItem_jac7835f2db140ab812dbb80cc76f663": {
+        "id": "AS_BarButtonItem_jac7835f2db140ab812dbb80cc76f663",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e7e0aed404404008b022db3f2b7fc681",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "callOnClickOfFlxBack",
+            "display": "callOnClickOfFlxBack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

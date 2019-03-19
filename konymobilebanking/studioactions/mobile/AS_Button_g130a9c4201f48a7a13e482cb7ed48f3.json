@@ -1,0 +1,23 @@
+{
+    "AS_Button_g130a9c4201f48a7a13e482cb7ed48f3": {
+        "id": "AS_Button_g130a9c4201f48a7a13e482cb7ed48f3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotCreatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fd4ec4e85a614e788aa27f17ad94a6c5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d6efbfe08b3c4fa1b86ad4f3b7fc1970",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(2);",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_b6795a845ecf4d2a9a22240f2815b455": {
+        "id": "AS_Button_b6795a845ecf4d2a9a22240f2815b455",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f01a1161f8284798a363b71e653f715b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnContinueSignUpOnClick",
+            "display": "btnContinueSignUpOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }, {
+            "id": "ADD_SNIPPET__ia547ab38e5f402196144017a8dfceff",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.btnContinueSignUpOnClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

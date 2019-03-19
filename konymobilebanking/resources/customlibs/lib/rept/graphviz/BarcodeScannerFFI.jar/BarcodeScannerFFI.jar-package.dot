@@ -1,0 +1,16 @@
+digraph BarcodeScannerFFI_package_dependencies {
+  node [shape = box, fontsize=10.0];
+  com_google_zxing_integration_android -> android_app;
+  com_google_zxing_integration_android -> android_content;
+  com_google_zxing_integration_android -> android_content_pm;
+  com_google_zxing_integration_android -> android_net;
+  com_google_zxing_integration_android -> android_os;
+  com_google_zxing_integration_android -> android_util;
+  com_konydemo_thirdparty_intent -> android_app;
+  com_konydemo_thirdparty_intent -> android_content;
+  com_konydemo_thirdparty_intent -> android_util;
+  com_konydemo_thirdparty_intent -> com_google_zxing_integration_android;
+  com_konydemo_thirdparty_intent -> com_konylabs_android;
+  com_konydemo_thirdparty_intent -> com_konylabs_ffi;
+  com_konydemo_thirdparty_intent -> com_konylabs_vm;
+}

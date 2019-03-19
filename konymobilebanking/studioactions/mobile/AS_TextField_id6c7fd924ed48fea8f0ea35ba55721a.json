@@ -1,0 +1,30 @@
+{
+    "AS_TextField_id6c7fd924ed48fea8f0ea35ba55721a": {
+        "id": "AS_TextField_id6c7fd924ed48fea8f0ea35ba55721a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "i12c1ee247194beda9069c83ef14bedb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b70e136699be4f278578f1f4c709be8a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "txtReEnterPassOnTextChange",
+            "display": "txtReEnterPassOnTextChange",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

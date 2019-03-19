@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa0ed98d681a44b8bdb14de43741a1dd",
+    "_text_": "Number of Recurrence",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sa0ed98d681a44b8bdb14de43741a1dd",
+    "id": "btnNumberOfOccurances",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d983bb44fbd9427097079deb02276d7d",
+    "name": "kony.ui.Button",
+    "parent": "flxFrequencyOperation",
+    "pf": "frmBillPayDuration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.frequency.NumberofRecurrence",
+    "wType": "Button",
+    "zindex": 1
+}

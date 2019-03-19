@@ -1,0 +1,223 @@
+{
+    "classname": "inputAmount",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "f47c163067a346d9a00c01ffedb5c959",
+                    "paramList": [
+                        {
+                            "name": "char"
+                        }
+                    ],
+                    "propertyKey": "addDigit",
+                    "pw": {
+                        "displayName": "addDigit",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "f33c8e57138549b2a677813dfc0803e5",
+                    "paramList": [],
+                    "propertyKey": "removeDigit",
+                    "pw": {
+                        "displayName": "removeDigit",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "h0f5f04ffb854c2ea972f7d380a85008",
+                    "paramList": [],
+                    "propertyKey": "getAmount",
+                    "pw": {
+                        "displayName": "getAmount",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "bca5215969e84bf596da1e8a60fb781f",
+                    "paramList": [
+                        {
+                            "name": "amount"
+                        }
+                    ],
+                    "propertyKey": "setAmount",
+                    "pw": {
+                        "displayName": "setAmount",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "i77119ce1c604c5e91ad183d227493ed",
+                    "paramList": [],
+                    "propertyKey": "clear",
+                    "pw": {
+                        "displayName": "clear",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "Currency",
+                "Amount"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "sknFlxBgFFFFFFTab",
+                    "group": "General",
+                    "kuid": "e39c597d828e4067ae531b5fa14a7e1a",
+                    "originalPropertyKey": "mainFlx",
+                    "propertyIndex": 1,
+                    "propertyKey": "mainFlx",
+                    "pw": {
+                        "displayName": "Main",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "00",
+                    "group": "Amount",
+                    "kuid": "jd89e21cd58c4bf1b47832d609e66ef4",
+                    "originalPropertyKey": "defaultAmount",
+                    "propertyIndex": 1,
+                    "propertyKey": "defaultAmount",
+                    "pw": {
+                        "displayName": "Default",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl4a4a4aSSP72PxTab",
+                    "group": "Amount",
+                    "kuid": "h5ebacc1437e498b9ae4c13b3b528b02",
+                    "originalPropertyKey": "currencyAmountSkin",
+                    "propertyIndex": 2,
+                    "propertyKey": "currencyAmountSkin",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl4a4a4aSSP50PxTab",
+                    "group": "Currency",
+                    "kuid": "ac51ce89981842c0b424eef199168d0c",
+                    "originalPropertyKey": "currencySymbolSkin",
+                    "propertyIndex": 3,
+                    "propertyKey": "currencySymbolSkin",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": true,
+                    "group": "General",
+                    "kuid": "bcb5400d54eb4748a989116536dce8f4",
+                    "originalPropertyKey": "enableAmountMode",
+                    "propertyIndex": 3,
+                    "propertyKey": "enableAmountMode",
+                    "pw": {
+                        "displayName": "Enable amount mode",
+                        "uiRepresentation": "Label-Radiobuttongroup"
+                    },
+                    "srcWgtKUID": "f8ea4be8d8854a74974eba3cad198bc5",
+                    "type": "boolean",
+                    "value": "true/false"
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "Currency",
+                    "kuid": "e2e11a5d83fc48588e5d9f27eeed37f9",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "defaultSymbol",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Symbol",
+                        "srcWidget": "lblDollar",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "icbe4e699983429c85d6a2a8e7bc8c76"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Currency",
+                    "kuid": "f70691b0e2064cd48d1ea178566aa758",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 2,
+                    "propertyKey": "currencySymbolVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Currency symbol visibility",
+                        "srcWidget": "lblDollar",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "icbe4e699983429c85d6a2a8e7bc8c76"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.banking",
+    "version": "1.0.0"
+}

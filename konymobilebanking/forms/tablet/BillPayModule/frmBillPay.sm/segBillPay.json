@@ -1,0 +1,351 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Upcomming Bills"
+                }
+            },
+            [
+                {
+                    "imgEbill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebill.png"
+                    },
+                    "imgPayBill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "billpayheader_2.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: xx/xx/xxxx"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "-$ summ"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Peter Reeves...8932"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1647 Hirthe Mountains"
+                    },
+                    "lblPayBill": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Pay Bill"
+                    }
+                },
+                {
+                    "imgEbill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "ebillinactive.png"
+                    },
+                    "imgPayBill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "billpayheader_2.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: xx/xx/xxxx"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "-$ summ"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Peter Reeves...8932"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1647 Hirthe Mountains"
+                    },
+                    "lblPayBill": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Pay Bill"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ScheduledTransactions"
+                }
+            },
+            [
+                {
+                    "imgEbill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgPayBill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "billpayheader_2.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: xx/xx/xxxx"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "-$ summ"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Peter Reeves...8932"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1647 Hirthe Mountains"
+                    },
+                    "lblPayBill": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Pay Bill"
+                    }
+                },
+                {
+                    "imgEbill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgPayBill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "billpayheader_2.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: xx/xx/xxxx"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "-$ summ"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Peter Reeves...8932"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1647 Hirthe Mountains"
+                    },
+                    "lblPayBill": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Pay Bill"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgUpArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Posted Transactions"
+                }
+            },
+            [
+                {
+                    "imgEbill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgPayBill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "billpayheader_2.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: xx/xx/xxxx"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "-$ summ"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Peter Reeves...8932"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1647 Hirthe Mountains"
+                    },
+                    "lblPayBill": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Pay Bill"
+                    }
+                },
+                {
+                    "imgEbill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "imagedrag.png"
+                    },
+                    "imgPayBill": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "billpayheader_2.png"
+                    },
+                    "lblAccountBal": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Due on: xx/xx/xxxx"
+                    },
+                    "lblAccountBalValue": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "-$ summ"
+                    },
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Peter Reeves...8932"
+                    },
+                    "lblBankName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "1647 Hirthe Mountains"
+                    },
+                    "lblPayBill": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Pay Bill"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "685dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "21",
+    "disabledSkins": {
+        "alternateRowSkin": "s920c4b1575a49bf93ed095025aca23a",
+        "widgetSkin": "sc49afa47fac44df973f4cc7a85f503a"
+    },
+    "enabledictionary": true,
+    "enablereordering": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segBillPay",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "enableDictionary": true,
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c3c66f45734e4dccb760edc64404a49d",
+    "masterdata": {},
+    "maxheight": {
+        "type": "string",
+        "value": "600dp"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_9.png",
+    "pageondotimage": "pageondot_9.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMain",
+    "pf": "frmBillPay",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "a714005c864441bab78ccd6ffb22eb68",
+    "rowcounter": 1,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "sd2d67c791804f578820295b84a50b08",
+    "rowtemplate": "flxAccountsNoImageBillPay",
+    "screenlevelwidget": false,
+    "seccounter": 2,
+    "sectionHeaderTemplateId": "g4fce1a596714490b9577496fe0d8408",
+    "sectionheaderskin": "sd1b8ae3f5334d6bafd6df3e30b183aa",
+    "sectionheadertemplate": "flxTransHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAccountName": "flxAccountName",
+        "flxAccountsNoImageBillPay": "flxAccountsNoImageBillPay",
+        "flxEbill": "flxEbill",
+        "flxMain": "flxMain",
+        "flxPayBill": "flxPayBill",
+        "flxSeparator": "flxSeparator",
+        "flxShadowBottom": "flxShadowBottom",
+        "flxTransHeader": "flxTransHeader",
+        "flxTypeOneShadow": "flxTypeOneShadow",
+        "imgEbill": "imgEbill",
+        "imgPayBill": "imgPayBill",
+        "imgUpArrow": "imgUpArrow",
+        "lblAccountBal": "lblAccountBal",
+        "lblAccountBalValue": "lblAccountBalValue",
+        "lblAccountName": "lblAccountName",
+        "lblBankName": "lblBankName",
+        "lblHeader": "lblHeader",
+        "lblPayBill": "lblPayBill"
+    },
+    "zindex": 1
+}

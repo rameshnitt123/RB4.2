@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_b4a7e1b4ab554610b8dbc0adc0a54b69": {
+        "id": "AS_FlexContainer_b4a7e1b4ab554610b8dbc0adc0a54b69",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b7e9d35a76e14a19aa43f469e9992572",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showEnterCVV();",
+            "callbackType": null
+        }]
+    }
+}

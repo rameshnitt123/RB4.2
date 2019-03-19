@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "21dp"
+    },
+    "_skin_": "s679032976ec4441b527ec218f32745a",
+    "_src_": "chevronright.png",
+    "_width_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "tablet",
+        "formID": "frmForgotSelectMethod",
+        "platform": "ipad",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgArrowSelectSecurityCode",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "e75ded486c354f97a0c9c2f3740609ce",
+    "name": "kony.ui.Image2",
+    "parent": "flxSelectSecurityCode",
+    "pf": "frmForgotSelectMethod",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

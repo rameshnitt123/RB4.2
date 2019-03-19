@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_a4f78625be814035b4d762e0d8284d49": {
+        "id": "AS_FlexContainer_a4f78625be814035b4d762e0d8284d49",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPay",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e6b208621ec04fb7b16cfb2fafe66dc1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j3a692a933c04d02a5a548528a637fce",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateToSelectPayees",
+            "display": "navigateToSelectPayees",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+
+
+### OSGi information
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.kony
+Bundle-Description: signCapture
+Bundle-Name: signCapture
+Bundle-Version: 0.0.0
+Export-Package: com.kony;uses:="android.app,android.content,android.gr
+ aphics,android.os,android.provider,android.util,android.view,android.
+ widget,com.konylabs.android,com.konylabs.ffi,com.konylabs.vm"
+Import-Package: android.app,android.content,android.graphics,android.o
+ s,android.provider,android.util,android.view,android.widget,com.konyl
+ abs.android,com.konylabs.ffi,com.konylabs.vm,java.io,java.lang,java.u
+ til

@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_e50b39c895914092b24f213c2a4e05f1": {
+        "id": "AS_BarButtonItem_e50b39c895914092b24f213c2a4e05f1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g663e0a656134a6793290f5562180456",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transModPresentationController = applicationManager.getModulesPresentationController(\"TransactionModule\");\ntransModPresentationController.commonFunctionForNavigation(\"frmMenu\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

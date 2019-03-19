@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_a03a286da33d45948d59ddb4d55a176e": {
+        "id": "AS_FlexContainer_a03a286da33d45948d59ddb4d55a176e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_j9ec732520e04418a61f21b067bcafe9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxCancelDialPadOnClick",
+            "display": "flxCancelDialPadOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

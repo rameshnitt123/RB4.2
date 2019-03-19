@@ -1,0 +1,27 @@
+{
+    "AS_Image_be29513e337546a59aa7e7014c635d1d": {
+        "id": "AS_Image_be29513e337546a59aa7e7014c635d1d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_ebd311a517264a5ea360ca040efc50b7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgPwdVisiblityToggleOnClick",
+            "display": "imgPwdVisiblityToggleOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_b8706a6b278e4e7981c3ce8cd358f7ef": {
+        "id": "AS_FlexContainer_b8706a6b278e4e7981c3ce8cd358f7ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgot",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fabc653950774f86a578cb382970af65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b3ec5e8bef2e40589e4eaa5fe5eed9e0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showEnterSecurityCode();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

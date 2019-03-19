@@ -1,0 +1,165 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.TransferNow",
+                "text": "Transfer Now"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.OneTime",
+                "text": "One Time"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.Daily",
+                "text": "Daily"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.Weekly",
+                "text": "Weekly"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.EveryTwoWeeks",
+                "text": "Every Two Weeks"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.Monthly",
+                "text": "Monthly"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.Quaterly",
+                "text": "Quaterly"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.HalfYearly",
+                "text": "Half Yearly"
+            }
+        },
+        {
+            "lblFrequency": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.frequency.Yearly",
+                "text": "Yearly"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "08",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segFrequency",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c4b4d31f1f5f4f499c70fe037dd21e52",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxLeft",
+    "pf": "frmTransferFrequency",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": true,
+    "rowTemplateId": "bcb0fb5fed784897ac52295ab9b4c9f9",
+    "rowcounter": 8,
+    "rowfocusskin": "sc136398c03045c09d4cf581fa1d780c",
+    "rowskin": "sb40e93c789242d088af0b707f338654",
+    "rowtemplate": "flxFrequencyTab",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxFrequencyTab": "flxFrequencyTab",
+        "flxMain": "flxMain",
+        "lblFrequency": "lblFrequency"
+    },
+    "zindex": 1
+}

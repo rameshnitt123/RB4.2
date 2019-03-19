@@ -1,0 +1,24 @@
+{
+    "AS_Form_de6dcda1d7bd47b8a6159a475c0bfde7": {
+        "id": "AS_Form_de6dcda1d7bd47b8a6159a475c0bfde7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAlertsDealsAndSecurity",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a811cfb18997412695b9a0e81ba2c467"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d5027854562c4122b5d3e02e8e4d7051",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

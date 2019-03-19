@@ -1,0 +1,36 @@
+{
+    "AS_Segment_fdfb07f506624ef281b9b70b6e22395a": {
+        "id": "AS_Segment_fdfb07f506624ef281b9b70b6e22395a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmTransfersFromAccountEurope",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e817adb43e384568b14ef4a1769efd61"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e8b697db45c04fd6b264fffd348dabf4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransfersToAccountEurope",
+            "friendlyName": "frmTransfersToAccountEurope",
+            "formKUID": "ae1a926984ff4cd48905f7e0a0102adb",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "TransferModuleEurope"
+        }]
+    }
+}

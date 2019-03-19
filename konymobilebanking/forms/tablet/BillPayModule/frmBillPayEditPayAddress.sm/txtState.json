@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "31dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s68672528a0f46f2a5041b134cd98433",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "14dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 4
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s68672528a0f46f2a5041b134cd98433",
+    "id": "txtState",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "closeButtonText": "Cancel",
+            "keyboardActionLabel": 4,
+            "showCloseButton": true
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardtype": "A",
+    "kuid": "f8955e032c2247f29acb1fa9e2d30c30",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxResidentialAddressWrapper",
+    "pf": "frmBillPayEditPayAddress",
+    "placeholderi18n": "kony.mb.common.EnterHere",
+    "placeholderskin": "s0523794a64e41d082afa54cf7ec3a1c",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 2
+}

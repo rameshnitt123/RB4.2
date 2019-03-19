@@ -1,0 +1,50 @@
+<project name="valuechange" default="valuechange">
+<target name="valuechange">
+			<propertyfile file="sgconfig.properties">
+			<entry key="username" value="${username}" />
+			<entry key="username2" value="${username2}" />
+			<entry key="password" value="${password}" />
+			<entry key="password2" value="${password2}" />
+			<entry key="dbURL" value="${dbURL}" />
+			<entry key="dbusername" value="${dbusername}" />
+			<entry key="dbpassword" value="${dbpassword}" />
+			<entry key="appname" value="${appname}" />
+			<entry key="apppackage" value="${apppackage}" />
+			<entry key="launchactivity" value="${launchactivity}" />
+			<entry key="pathToApkRootDir" value="${pathToApkRootDir}" />
+			<entry key="screenshotsRootDirectory" value="${screenshotsRootDirectory}" />
+			<entry key="logRootDir" value="${logRootDir}" />
+			<entry key="Device" value="${Device}" />
+			<entry key="deviceType" value="${deviceType}"/>
+			<entry key="isMobileOrDesktop" value="${isMobileOrDesktop}" />
+			<entry key="platformOS" value="${platformOS}" />
+			<entry key="mobileOS" value="${mobileOS}" />
+			<entry key="mobilePlatformName" value="${mobilePlatformName}" />
+			<entry key="androidVersion" value="${androidVersion}" />
+			<entry key="iOSDeviceName" value="${iOSDeviceName}" />
+			<entry key="iOSVersion" value="${iOSVersion}" />
+			<entry key="browser" value="${browser}" />
+			<entry key="browserURL" value="${browserURL}" />
+			<entry key="driverPath" value="${driverPath}" />
+			<entry key="bundle_id" value="${bundle_id}" />
+			<entry key="autoStartAppium" value="${autoStartAppium}"/>
+			<entry key="automationName" value="${automationName}"/>	
+			
+			<entry key="udid" value="${udid}"/>
+			<entry key="xcodeOrgId" value="${xcodeOrgId}"/>
+			<entry key="xcodeSigningId" value="${xcodeSigningId}"/>
+			
+			<entry key="DeviceSerialNumber" value="${DeviceSerialNumber}"/>
+			<entry key="CodeCoverage" value="${CodeCoverage}"/>
+          
+          
+		  </propertyfile>
+	 </target>
+			
+     <target name="main">
+		
+		<antcall target="valuechange" />
+
+	</target>
+
+</project>

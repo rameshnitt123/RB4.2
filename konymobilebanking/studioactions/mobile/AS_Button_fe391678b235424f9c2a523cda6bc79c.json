@@ -1,0 +1,23 @@
+{
+    "AS_Button_fe391678b235424f9c2a523cda6bc79c": {
+        "id": "AS_Button_fe391678b235424f9c2a523cda6bc79c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBSignInWithPhoneNumber",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ef415b78639d490fa221d2ca51e587aa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bb18da2e199a4a8fb540730c5faa12f3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setChar(3);",
+            "callbackType": null
+        }]
+    }
+}

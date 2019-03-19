@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd41f0625be0469b85d3fd584850f571",
+    "_text_": "",
+    "_top_": {
+        "type": "number",
+        "value": "130"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd41f0625be0469b85d3fd584850f571",
+    "id": "btnEditRecipientContactDetail",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e70b0513b8b540e48f7fc508c49181db",
+    "name": "kony.ui.Button",
+    "parent": "FlxPopMain",
+    "pf": "frmManageP2pRecipient",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.tab.Manage.RecipientContactDetail",
+    "wType": "Button",
+    "zindex": 1
+}

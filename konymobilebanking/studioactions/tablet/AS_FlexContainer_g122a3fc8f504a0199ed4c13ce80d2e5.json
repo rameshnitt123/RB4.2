@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_g122a3fc8f504a0199ed4c13ce80d2e5": {
+        "id": "AS_FlexContainer_g122a3fc8f504a0199ed4c13ce80d2e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d54df163b178412aa13e2f1f775db85d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.maketransferOnclick();",
+            "callbackType": null
+        }]
+    }
+}

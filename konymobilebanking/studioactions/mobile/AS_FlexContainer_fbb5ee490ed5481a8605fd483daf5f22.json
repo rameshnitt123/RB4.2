@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_fbb5ee490ed5481a8605fd483daf5f22": {
+        "id": "AS_FlexContainer_fbb5ee490ed5481a8605fd483daf5f22",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrollSSn",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a15114bd0e9642f99fe77b6ae30e3dde"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e4c4dbf7ec3b47bd9770d0717a71695a",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "i12c1ee247194beda9069c83ef14bedb",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

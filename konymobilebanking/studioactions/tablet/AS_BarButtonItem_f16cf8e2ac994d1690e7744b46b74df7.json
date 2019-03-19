@@ -1,0 +1,22 @@
+{
+    "AS_BarButtonItem_f16cf8e2ac994d1690e7744b46b74df7": {
+        "id": "AS_BarButtonItem_f16cf8e2ac994d1690e7744b46b74df7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d254f5f0f0954d28950356d6af3e78a9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClose",
+            "display": "onClose",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

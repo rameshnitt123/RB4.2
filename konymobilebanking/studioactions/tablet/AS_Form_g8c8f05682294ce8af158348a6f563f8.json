@@ -1,0 +1,28 @@
+{
+    "AS_Form_g8c8f05682294ce8af158348a6f563f8": {
+        "id": "AS_Form_g8c8f05682294ce8af158348a6f563f8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBFinancialInfoAssets",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aa90391017df483998c35fa6cf961f47"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ea25da26f70f49cf8b636c914fc5ce32",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

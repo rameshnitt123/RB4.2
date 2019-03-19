@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_h630e27da64e44c3ab517f4b7b021ca2": {
+        "id": "AS_FlexContainer_h630e27da64e44c3ab517f4b7b021ca2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d58bf4cc2c094782914f56e160babbd4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navToNUOPhone();",
+            "callbackType": null
+        }]
+    }
+}

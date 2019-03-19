@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd41f0625be0469b85d3fd584850f571",
+    "_text_": "Nickname",
+    "_top_": {
+        "type": "number",
+        "value": "130"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd41f0625be0469b85d3fd584850f571",
+    "id": "btnEditNickName",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g9dc3df823fc444a926ed151bc52504f",
+    "name": "kony.ui.Button",
+    "parent": "FlxPopMain",
+    "pf": "frmBillPayPayeeDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

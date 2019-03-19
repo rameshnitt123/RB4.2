@@ -1,0 +1,24 @@
+{
+    "AS_Button_aea9cc7593804addb598c0e6a568ddcb": {
+        "id": "AS_Button_aea9cc7593804addb598c0e6a568ddcb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardMngConfirmDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ffd594c9a89d44c485463b03b4eb6621"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b143e00c03ff49d096c7749bb69854b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.btnSubmitOnClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

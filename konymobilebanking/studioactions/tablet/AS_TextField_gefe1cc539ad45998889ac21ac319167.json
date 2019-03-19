@@ -1,0 +1,33 @@
+{
+    "AS_TextField_gefe1cc539ad45998889ac21ac319167": {
+        "id": "AS_TextField_gefe1cc539ad45998889ac21ac319167",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_b3400bfdf2a34e86bdee2e867abd25e6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSkinsOfUsernameAndPwd",
+            "display": "resetSkinsOfUsernameAndPwd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "INVOKE_FUNCTION__ide_onTextChange_a397edccc91b4bc999336eb917f01c54",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "enableLoginButton",
+            "display": "enableLoginButton",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

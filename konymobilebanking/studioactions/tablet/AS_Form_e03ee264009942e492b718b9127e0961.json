@@ -1,0 +1,23 @@
+{
+    "AS_Form_e03ee264009942e492b718b9127e0961": {
+        "id": "AS_Form_e03ee264009942e492b718b9127e0961",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h3363588e6ba49ada631b98fb5c8e651"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_a936dcb00a8e4cf3bd5a0dff50c6653c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

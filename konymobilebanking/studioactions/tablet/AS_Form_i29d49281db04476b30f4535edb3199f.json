@@ -1,0 +1,28 @@
+{
+    "AS_Form_i29d49281db04476b30f4535edb3199f": {
+        "id": "AS_Form_i29d49281db04476b30f4535edb3199f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPreferencesTouchId",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f78e1dd2764f426ab3ddb0886ea8cac9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a109cc2496d549ffa89d70fe834b78b1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

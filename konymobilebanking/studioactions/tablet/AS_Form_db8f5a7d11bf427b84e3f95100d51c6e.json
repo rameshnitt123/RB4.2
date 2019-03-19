@@ -1,0 +1,28 @@
+{
+    "AS_Form_db8f5a7d11bf427b84e3f95100d51c6e": {
+        "id": "AS_Form_db8f5a7d11bf427b84e3f95100d51c6e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBSignInWithPhoneNumber",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e71b82736a7942189f4fe98ccb379487"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i0409c24473a4cdf997df8834c7558c6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

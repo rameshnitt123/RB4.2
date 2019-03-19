@@ -1,0 +1,27 @@
+{
+    "AS_Button_b27e4a949e2f41e1996098a2c8c55f15": {
+        "id": "AS_Button_b27e4a949e2f41e1996098a2c8c55f15",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayZipCode",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dc336312264b45a88927cb20acece118"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ecb13d23aaee45339bed50561e3db4ca",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnContinueOnClick",
+            "display": "btnContinueOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

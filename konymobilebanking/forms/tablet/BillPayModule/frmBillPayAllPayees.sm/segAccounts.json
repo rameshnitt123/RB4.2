@@ -1,0 +1,828 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ebill.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deleteicon_2.png"
+            },
+            "imgEbill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "manageheader_1.png"
+            },
+            "imgPayBill": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "billpayheader_1.png"
+            },
+            "lblAccountBal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available"
+            },
+            "lblAccountBalValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblAccountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My_account..."
+            },
+            "lblAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBankName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank"
+            },
+            "lblDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblPayBill": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pay Bill"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "013",
+    "disabledSkins": {},
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAccounts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "enableDictionary": true,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f79306d1146045e59296d7dc1f43ad88",
+    "masterdata": {},
+    "minwidth": {
+        "type": "string",
+        "value": "85%"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmBillPayAllPayees",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "f80f644077af4a46963137819f40012b",
+    "rowcounter": 13,
+    "rowfocusskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxAccountsNoImageBillPayList",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAccountName": "flxAccountName",
+        "flxAccountsNoImageBillPayList": "flxAccountsNoImageBillPayList",
+        "flxDelete": "flxDelete",
+        "flxDeleteEditPay": "flxDeleteEditPay",
+        "flxEbill": "flxEbill",
+        "flxEdit": "flxEdit",
+        "flxMain": "flxMain",
+        "flxPayBill": "flxPayBill",
+        "flxSeparator": "flxSeparator",
+        "imgDelete": "imgDelete",
+        "imgEbill": "imgEbill",
+        "imgEdit": "imgEdit",
+        "imgPayBill": "imgPayBill",
+        "lblAccountBal": "lblAccountBal",
+        "lblAccountBalValue": "lblAccountBalValue",
+        "lblAccountName": "lblAccountName",
+        "lblAccountNumber": "lblAccountNumber",
+        "lblBankName": "lblBankName",
+        "lblDelete": "lblDelete",
+        "lblEdit": "lblEdit",
+        "lblPayBill": "lblPayBill"
+    },
+    "widgetskin": "s69f28c050df43fb9bf92e79f4534943",
+    "zindex": 1
+}

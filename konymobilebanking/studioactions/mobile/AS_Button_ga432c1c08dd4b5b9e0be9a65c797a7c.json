@@ -1,0 +1,23 @@
+{
+    "AS_Button_ga432c1c08dd4b5b9e0be9a65c797a7c": {
+        "id": "AS_Button_ga432c1c08dd4b5b9e0be9a65c797a7c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmtransfersIBANEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g3620424935f41cd83896434e513810d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e827e1fd2084478db70ab2e81433b816",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(5);",
+            "callbackType": null
+        }]
+    }
+}

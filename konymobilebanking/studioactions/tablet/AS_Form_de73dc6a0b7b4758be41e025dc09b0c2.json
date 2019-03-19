@@ -1,0 +1,28 @@
+{
+    "AS_Form_de73dc6a0b7b4758be41e025dc09b0c2": {
+        "id": "AS_Form_de73dc6a0b7b4758be41e025dc09b0c2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileEditEmails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ec9a5ba76c4e4d1aa37f3651170d90bd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d1deb7524cef47e98d17ca88a88d69b6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

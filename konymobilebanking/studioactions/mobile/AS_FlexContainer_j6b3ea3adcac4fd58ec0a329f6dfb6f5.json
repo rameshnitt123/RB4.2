@@ -1,0 +1,20 @@
+{
+    "AS_FlexContainer_j6b3ea3adcac4fd58ec0a329f6dfb6f5": {
+        "id": "AS_FlexContainer_j6b3ea3adcac4fd58ec0a329f6dfb6f5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segAlertWithSwitch",
+            "type": "templates",
+            "KUID": "a766e46fe8da41b08755615e01c3dcbd"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

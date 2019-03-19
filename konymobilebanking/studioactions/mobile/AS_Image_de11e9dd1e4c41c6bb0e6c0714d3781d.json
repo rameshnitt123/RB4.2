@@ -1,0 +1,29 @@
+{
+    "AS_Image_de11e9dd1e4c41c6bb0e6c0714d3781d": {
+        "id": "AS_Image_de11e9dd1e4c41c6bb0e6c0714d3781d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterCVV",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb884581c9154390af4af6572938d7c4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_b1eb5038c7df4656a2652fd032097c4e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.maskUnmaskPassword();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_TextField_cb542922f817423e8b1811c5efd531f8": {
+        "id": "AS_TextField_cb542922f817423e8b1811c5efd531f8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmUpdatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b92d84aebf1f4797ae7c9b495c49be96"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_b8bddc0c7c6e4ecb92c2bb809b169e95",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSkinsOfUsernameAndPwd",
+            "display": "resetSkinsOfUsernameAndPwd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

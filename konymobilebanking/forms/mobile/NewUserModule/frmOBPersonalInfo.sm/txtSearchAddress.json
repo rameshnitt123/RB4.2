@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        3,
+        1,
+        3
+    ],
+    "_placeholder_": "Search by zipcode, city, street...",
+    "_skin_": "sdc14f85f7984e13bb5ed2544fe80fe6",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "87.50%"
+    },
+    "android": {
+        "padding": [
+            1,
+            3,
+            1,
+            3
+        ],
+        "paddingInPixel": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtSearchAddress",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "c9e74a39e26e4aeb9de0149de73975bc",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddingLocked": true,
+    "paddinginpixel": false,
+    "parent": "flxHeaderSearchAddress",
+    "pf": "frmOBPersonalInfo",
+    "placeholderi18n": "kony.mb.OB.SearchByInfo",
+    "placeholderskin": "s1bcf8b78d1649a9a56fc498f08472f8",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 3,
+    "accessibilityconfig": {
+        "a11yLabel": "Search by zip code, city, street"
+    }
+}

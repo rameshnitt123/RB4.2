@@ -1,0 +1,30 @@
+{
+    "AS_Button_c5268ff72e964aa1aaed169fd20df79f": {
+        "id": "AS_Button_c5268ff72e964aa1aaed169fd20df79f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileChangeAndUpdatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e9a6190c81034d669cce3baee3b28802"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_abc0972dbb5341b885617471af06b964",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "friendlyName": "frmLogin",
+            "formKUID": "h65c10a2cabc493c8ac9ef9c703d1486",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

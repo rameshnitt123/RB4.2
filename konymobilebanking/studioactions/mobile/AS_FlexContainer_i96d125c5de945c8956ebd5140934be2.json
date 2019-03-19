@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_i96d125c5de945c8956ebd5140934be2": {
+        "id": "AS_FlexContainer_i96d125c5de945c8956ebd5140934be2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBResidentialAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e1102f42ac1c427bb12219dac3d8ca73"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_bc064ae90888469abb57cf9b3f2a365d",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "e6a984831ef54772b96d956e420870db",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

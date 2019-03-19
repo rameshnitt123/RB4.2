@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+
+
+### OSGi information
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.kony.TaskFramework.Exceptions
+Bundle-Description: Task
+Bundle-Name: Task
+Bundle-Version: 0.0.0
+Export-Package: com.kony.TaskFramework.Constants,com.kony.TaskFramewor
+ k.Core;uses:="com.kony.TaskFramework.Constants,com.kony.TaskFramework
+ .Exceptions,com.kony.TaskFramework.Utils,com.kony.TaskFramework.jama"
+ ,com.kony.TaskFramework.Exceptions;uses:="com.kony.TaskFramework.Cons
+ tants",com.kony.TaskFramework.Utils;uses:="com.kony.TaskFramework.Cor
+ e,com.kony.TaskFramework.jama",com.kony.TaskFramework.jama;uses:="Jam
+ a,com.kony.TaskFramework.Constants,com.kony.TaskFramework.Utils"
+Import-Package: Jama;version="0.0.0",java.io,java.lang,java.util,java.
+ util.concurrent

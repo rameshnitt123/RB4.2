@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s01678023d2140d1bfcfd311cbf69d50",
+    "_text_": "Take a Picture",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "disabledSkins": {},
+    "focusskin": "s06d3481d1894d5a85be228fc1c1f142",
+    "id": "camera",
+    "ide_onCapture": "AS_Camera_e84a9345087149b0bc722ac4f0d7ff62",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "abe9a3ddbdd6482984d9c40bd8f16dfc",
+    "name": "kony.ui.Camera",
+    "oncapture": null,
+    "parent": "flxPopupDocumentsActions",
+    "pf": "frmOBDocument",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "zindex": 20
+}

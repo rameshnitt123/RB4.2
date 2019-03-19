@@ -1,0 +1,24 @@
+{
+    "AS_Form_d9bc76e4b8594b5fa9184940c01a76bd": {
+        "id": "AS_Form_d9bc76e4b8594b5fa9184940c01a76bd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPFMMyMoney",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bc28aafe36dd4298af158ca8ae2b9a91"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fd978eca18ae4b4e976ca5c2d933e3bc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.pfmPostshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

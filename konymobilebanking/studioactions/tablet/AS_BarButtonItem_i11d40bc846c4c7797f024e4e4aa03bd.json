@@ -1,0 +1,22 @@
+{
+    "AS_BarButtonItem_i11d40bc846c4c7797f024e4e4aa03bd": {
+        "id": "AS_BarButtonItem_i11d40bc846c4c7797f024e4e4aa03bd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ca55e5c6234c4fb8a4c89e76cd3d13dc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateBack",
+            "display": "navigateBack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

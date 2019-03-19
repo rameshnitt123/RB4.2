@@ -1,0 +1,22 @@
+{
+    "AS_BarButtonItem_e084a531852a449facc9a99bf7c4f4ae": {
+        "id": "AS_BarButtonItem_e084a531852a449facc9a99bf7c4f4ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a952a19c18df48e2a3a0fb0cfad8a570",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickEditNickName",
+            "display": "onClickEditNickName",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

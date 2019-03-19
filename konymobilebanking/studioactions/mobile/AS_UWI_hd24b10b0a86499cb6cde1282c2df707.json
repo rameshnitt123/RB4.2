@@ -1,0 +1,27 @@
+{
+    "AS_UWI_hd24b10b0a86499cb6cde1282c2df707": {
+        "id": "AS_UWI_hd24b10b0a86499cb6cde1282c2df707",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmTransfersStartDate",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b2195a82f58d4d9b98b8e24668ba577c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d921f2153b8344e9a36dfddb5d35e950",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert('date');",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

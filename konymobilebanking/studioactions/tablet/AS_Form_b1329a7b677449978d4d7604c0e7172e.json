@@ -1,0 +1,28 @@
+{
+    "AS_Form_b1329a7b677449978d4d7604c0e7172e": {
+        "id": "AS_Form_b1329a7b677449978d4d7604c0e7172e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEStmtChangeEmail",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d43a5637d54844b2b0fd7e2cc9f31a91"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e6c081f5f7534c48a63d0e7a10420079",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

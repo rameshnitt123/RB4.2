@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sdb020f78f0f4ddabf477b9a17c76f16",
+    "_top_": {
+        "type": "number",
+        "value": "52"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "lblflxLeftPaneStartDateName",
+        "lblflxLeftPaneStartDateValue"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxLeftPaneStartDate",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "e67f2dc0efb943df9d41b2b9a63b1d1f",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxFrequencyPayeeLeft",
+    "pf": "frmBillPayRecurrence",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 4
+}

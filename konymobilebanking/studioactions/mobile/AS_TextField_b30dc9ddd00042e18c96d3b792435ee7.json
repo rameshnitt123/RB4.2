@@ -1,0 +1,26 @@
+{
+    "AS_TextField_b30dc9ddd00042e18c96d3b792435ee7": {
+        "id": "AS_TextField_b30dc9ddd00042e18c96d3b792435ee7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterLastName",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d0d81d43004144de9a14ad0b419cf299"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTextChange_f7c773dd29554053a7467ab11b256bd8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.matchPasswords();",
+            "callbackType": null
+        }]
+    }
+}

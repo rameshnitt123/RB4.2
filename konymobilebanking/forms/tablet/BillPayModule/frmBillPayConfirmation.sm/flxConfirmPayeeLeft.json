@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s01be612e2d84c22893a8dcf08389c87",
+    "_width_": {
+        "type": "string",
+        "value": "60.80%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxTransferAmount",
+        "flxbtnConfirm"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxConfirmPayeeLeft",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b47f633becb1453c8d4cc44792fc70c9",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxConfirmPayeeMain",
+    "pf": "frmBillPayConfirmation",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {},
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 5
+}

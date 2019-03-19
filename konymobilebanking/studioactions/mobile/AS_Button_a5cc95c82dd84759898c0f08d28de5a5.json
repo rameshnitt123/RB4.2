@@ -1,0 +1,24 @@
+{
+    "AS_Button_a5cc95c82dd84759898c0f08d28de5a5": {
+        "id": "AS_Button_a5cc95c82dd84759898c0f08d28de5a5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBsetUserNamePwd",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h653f834a94f4f3c912480c214fc0cd9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c7b0fca72f9d4feeb2d5d243f8db0d0e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var NUOMod = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"NewUserModule\");\nNUOMod.presentationController.commonFunctionForNavigation(\"frmLogin\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgAccount": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "imgCancel": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "closewhite.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "replyicon.png"
+            },
+            "imgRecurrance": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblAccount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12/13/2018"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.common.CancelSmall",
+                "text": "Cancel"
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Linda Checking Account"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblTransaction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$83.54"
+            }
+        },
+        {
+            "imgAccount": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "imgCancel": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "closewhite.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "replyicon.png"
+            },
+            "imgRecurrance": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblAccount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12/13/2018"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.common.CancelSmall",
+                "text": "Cancel"
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Linda Checking Account"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblTransaction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$83.54"
+            }
+        },
+        {
+            "imgAccount": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "recurrenceindication.png"
+            },
+            "imgCancel": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "closewhite.png"
+            },
+            "imgEdit": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "replyicon.png"
+            },
+            "imgRecurrance": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblAccount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12/13/2018"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "i18nkey": "kony.mb.common.CancelSmall",
+                "text": "Cancel"
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Linda Checking Account"
+            },
+            "lblEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblTransaction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$83.54"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segSelectAccounts",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a26ce705d0234c78bfcbb5cfb62f82cb",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmBillPayAllPayments",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "b82072080e8941acb9ee7a181baca993",
+    "rowcounter": 2,
+    "rowfocusskin": "s02d7ca459a74168b4573e79b9d8efec",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxTransfers",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxAccount": "flxAccount",
+        "flxCancel": "flxCancel",
+        "flxCancelEdit": "flxCancelEdit",
+        "flxEdit": "flxEdit",
+        "flxMain": "flxMain",
+        "flxSeparator": "flxSeparator",
+        "flxTransfers": "flxTransfers",
+        "imgAccount": "imgAccount",
+        "imgCancel": "imgCancel",
+        "imgEdit": "imgEdit",
+        "imgRecurrance": "imgRecurrance",
+        "lblAccount": "lblAccount",
+        "lblAmount": "lblAmount",
+        "lblCancel": "lblCancel",
+        "lblDate": "lblDate",
+        "lblEdit": "lblEdit",
+        "lblTransaction": "lblTransaction"
+    },
+    "widgetskin": "s69f28c050df43fb9bf92e79f4534943",
+    "zindex": 1
+}

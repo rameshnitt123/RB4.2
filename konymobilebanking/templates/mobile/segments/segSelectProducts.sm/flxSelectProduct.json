@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7b436962d6a4647b197083ac7d03d39",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxShadowUser",
+        "lblProductTitle",
+        "lblProductSubTitle",
+        "lblProductInfo",
+        "btnViewDetails",
+        "imgCheckbox"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "flxSelectProductController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxSelectProduct",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "e9eb45a3c3e84c75816fc02ec30060a2",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segSelectProducts",
+    "pf": "segSelectProducts",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

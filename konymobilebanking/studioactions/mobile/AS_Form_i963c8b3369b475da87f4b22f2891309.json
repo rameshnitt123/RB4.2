@@ -1,0 +1,24 @@
+{
+    "AS_Form_i963c8b3369b475da87f4b22f2891309": {
+        "id": "AS_Form_i963c8b3369b475da87f4b22f2891309",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2pFromAccount",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b897e1fe20ad4012891e057ffae95cbe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h5556303071a4b1d8f1d34f275ac8372",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "AS_TextField_cdf654ad6fbd476981464e6b430aa8f8": {
+        "id": "AS_TextField_cdf654ad6fbd476981464e6b430aa8f8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmEnrollSignUp",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d6dbc1325b3540b19ec2c5cf5fb53325"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d009ef988384441d84dc92476b917f33",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "txtPasswordOnEndEditing",
+            "display": "txtPasswordOnEndEditing",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

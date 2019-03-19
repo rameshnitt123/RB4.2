@@ -1,0 +1,197 @@
+{
+    "classname": "pickContact",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "i78df38d0c1a4a9e8edcf40fcc232b1d",
+                    "paramList": [
+                        {
+                            "name": "data"
+                        }
+                    ],
+                    "propertyKey": "setData",
+                    "pw": {
+                        "displayName": "setData",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "da7d150bf08549f793016b4a02873b29",
+                    "paramList": [],
+                    "propertyKey": "getSelectedItem",
+                    "pw": {
+                        "displayName": "getSelectedItem",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "c9a70d5a05454cb78153ecfc9525fd66",
+                    "paramList": [
+                        {
+                            "name": "value"
+                        }
+                    ],
+                    "propertyIndex": 1,
+                    "propertyKey": "onClickContinue",
+                    "pw": {
+                        "displayName": "onClickContinue",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "fd85fdf26bb24dc2b0c18456f5e3abb0",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onClickCancel",
+                    "pw": {
+                        "displayName": "onClickCancel",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "Continue button",
+                "Cancel button",
+                "First row",
+                "Second row"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "sknFlxBgFFFFFFRound13PxTab",
+                    "group": "General",
+                    "kuid": "ccc52b89534b464f818ff093ca1f14a3",
+                    "originalPropertyKey": "mainFlx",
+                    "propertyIndex": 1,
+                    "propertyKey": "mainFlx",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl000000SSP34PxTab",
+                    "group": "First row",
+                    "kuid": "ff658cc2852b4d589aedaa7192e1b01b",
+                    "originalPropertyKey": "firstRowSkin",
+                    "propertyIndex": 2,
+                    "propertyKey": "firstRowSkin",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl8C8C8CSSP28PxTab",
+                    "group": "Second row",
+                    "kuid": "e92446241f284d07af7dacf4dda6f01e",
+                    "originalPropertyKey": "secondRowSkin",
+                    "propertyIndex": 2,
+                    "propertyKey": "secondRowSkin",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknBtnBgOp0SSP34Px0A78D1Tab",
+                    "group": "Continue button",
+                    "kuid": "f8539ea6647d48bb9e530aa4c0c5b02c",
+                    "originalPropertyKey": "buttonContinue",
+                    "propertyIndex": 2,
+                    "propertyKey": "buttonContinue",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknBtnBgFFFFFFSSP34PxFF3B30Tab",
+                    "group": "Cancel button",
+                    "kuid": "f3100b2c714d4a2faf67d22a1c655b10",
+                    "originalPropertyKey": "buttonCancel",
+                    "propertyIndex": 3,
+                    "propertyKey": "buttonCancel",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "aea3effd998544eaad3b49412f6e970a",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e86968e74cab4ff3b09997bee6ab16d5",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "headerText",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Header Text",
+                        "srcWidget": "lblSelectId",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "b5dbad7d8320417683cbb82cd1ad9d57"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.banking",
+    "version": "1.0.0"
+}

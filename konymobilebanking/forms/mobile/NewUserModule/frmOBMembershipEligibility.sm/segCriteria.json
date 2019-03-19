@@ -1,0 +1,178 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnViewList": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View list of membership organization we serve "
+            },
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttonactive.png"
+            },
+            "lblCriteriaType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "I am an employee,retiree or family member of an employee of a company"
+            },
+            "lbldescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Eligible relationships include spouse, domestic  partner, parent, grandparent, child, sibling, grandchild, step sibling or adopted children."
+            },
+            "tbxCriteria": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "btnViewList": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View list of membership organization we serve "
+            },
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttonactive.png"
+            },
+            "lblCriteriaType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "I am an employee,retiree or family member of an employee of a company"
+            },
+            "lbldescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Eligible relationships include spouse, domestic  partner, parent, grandparent, child, sibling, grandchild, step sibling or adopted children."
+            },
+            "tbxCriteria": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "btnViewList": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View list of membership organization we serve "
+            },
+            "imgCheckbox": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "radiobuttonactive.png"
+            },
+            "lblCriteriaType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "I am an employee,retiree or family member of an employee of a company"
+            },
+            "lbldescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Eligible relationships include spouse, domestic  partner, parent, grandparent, child, sibling, grandchild, step sibling or adopted children."
+            },
+            "tbxCriteria": {
+                "@class": "com.viz.ide.model.segment.ComplexTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segCriteria",
+    "info": null,
+    "invokedProperty": "selectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ba4b1617a7b248ba80f1907ba7f28e60",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxCriteria",
+    "pf": "frmOBMembershipEligibility",
+    "retainselection": false,
+    "rowTemplateId": "f082c336829948178f797bf6c3ae7052",
+    "rowcounter": 2,
+    "rowfocusskin": "sec47134c53840738acea176209ff716",
+    "rowskin": "s18472307db04580a2a9cb6f4681ebec",
+    "rowtemplate": "flxEligibilityCriteria",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectimage": "radiobtn.png",
+    "selectionbehavior": "singleselect",
+    "selectionbehaviorconfig": {
+        "imageIdentifier": "imgCheckbox",
+        "selectedStateImage": "radiobtn.png",
+        "unselectedStateImage": "radiobuttoninactive.png"
+    },
+    "selectionindicator": "imgCheckbox",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "unselectimage": "radiobuttoninactive.png",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "btnViewList": "btnViewList",
+        "flxCheckbox": "flxCheckbox",
+        "flxCheckboxMain": "flxCheckboxMain",
+        "flxEligibilityCriteria": "flxEligibilityCriteria",
+        "flxMain": "flxMain",
+        "flxSeparator": "flxSeparator",
+        "imgCheckbox": "imgCheckbox",
+        "lblCriteriaType": "lblCriteriaType",
+        "lbldescription": "lbldescription",
+        "tbxCriteria": "tbxCriteria"
+    },
+    "zindex": 3
+}

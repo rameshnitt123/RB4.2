@@ -1,0 +1,24 @@
+{
+    "AS_Form_i8772749d5b04236adf515981df872ca": {
+        "id": "AS_Form_i8772749d5b04236adf515981df872ca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocationMap",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i951a66396dc4e2c83b1e019f7f0cb40"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aaf5f8bb674d42ffbbb5c9700b4bcce1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.frmLocationPreshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

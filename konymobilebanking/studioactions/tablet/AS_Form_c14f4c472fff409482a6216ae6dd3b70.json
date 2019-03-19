@@ -1,0 +1,24 @@
+{
+    "AS_Form_c14f4c472fff409482a6216ae6dd3b70": {
+        "id": "AS_Form_c14f4c472fff409482a6216ae6dd3b70",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayVerifyDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e19182479b24440fb74bbb608fd317b4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ed9aab8b47d547fe882d29a7cc801339",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

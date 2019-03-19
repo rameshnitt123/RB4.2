@@ -1,0 +1,69 @@
+{
+    "AS_Segment_e65331251a9e486285ed2d30c5890000": {
+        "id": "AS_Segment_e65331251a9e486285ed2d30c5890000",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmtransfersAccountNumberEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a8cfc87106fe4ba8a7ff56c020bbfb08"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____fba3bfeeb6b34180a946f022d2f39db8",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmTransfersToAccountEurope",
+            "widgetId": "segToAccount",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "ae1a926984ff4cd48905f7e0a0102adb",
+            "widgetKUID": "ifa092584ac245c799db4010969ef9e4",
+            "isSkinProperty": false,
+            "wType": "Segment",
+            "forkedPlatform": "all",
+            "callbackType": null,
+            "widgetPath": "this.view.segToAccount"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____g906b3fdaa1940709c9874039ea05fd4",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmTransfersToAccountEurope",
+            "widgetId": "flxNewRecipient",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "ae1a926984ff4cd48905f7e0a0102adb",
+            "widgetKUID": "aec255d29afd43e4bf0d513091aa211b",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "callbackType": null,
+            "widgetPath": "this.view.flxNewRecipient"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____d7a15547909948129723da39b0887237",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmTransfersToAccountEurope",
+            "widgetId": "tbxTo",
+            "propertyName": "text",
+            "propertyValue": "FR 4567 7456 3425 4532 1423 4356 664 ",
+            "itemKUID": "ae1a926984ff4cd48905f7e0a0102adb",
+            "widgetKUID": "d410c3974fef46f69c9810be4bc408ae",
+            "isSkinProperty": false,
+            "wType": "TextField",
+            "forkedPlatform": "all",
+            "callbackType": null,
+            "widgetPath": "this.view.tbxTo"
+        }]
+    }
+}

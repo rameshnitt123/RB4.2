@@ -1,0 +1,23 @@
+{
+    "AS_Form_g68c294179584bf18828d05af2c34ea7": {
+        "id": "AS_Form_g68c294179584bf18828d05af2c34ea7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBResidentialAddress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e1102f42ac1c427bb12219dac3d8ca73"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_h2a9c2dc7c984f22a6a9953d75743031",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

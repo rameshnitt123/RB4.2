@@ -1,0 +1,17 @@
+{
+    "AS_Button_h1c291ae0d844ad89a3d57256253a4b2": {
+        "id": "AS_Button_h1c291ae0d844ad89a3d57256253a4b2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c4839b5096884e9dae72b549055763f4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.updatePasswordAction();",
+            "callbackType": null
+        }]
+    }
+}

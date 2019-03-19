@@ -1,0 +1,28 @@
+{
+    "AS_Form_a9a3517fec8846b4883e686771ef5625": {
+        "id": "AS_Form_a9a3517fec8846b4883e686771ef5625",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileChangePassword",
+            "type": "forms",
+            "platform": "",
+            "KUID": "daee48aafb94469f8e826ae9917d873a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c13ec74b8a92499aa4a80bd4337e353c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

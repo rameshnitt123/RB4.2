@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfbeee1fcbbd406e895e9215da082c5b",
+    "_text_": "I agree to your <font color=\"#0095e4\">Terms & Conditions </font>of<br/> online banking",
+    "_top_": {
+        "type": "string",
+        "value": "140dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxAgreeTermsConditions",
+    "info": null,
+    "isvisible": false,
+    "kuid": "ab792f8ba42f48608f685757aa1ed6df",
+    "name": "kony.ui.RichText",
+    "parent": "flxEnterEmailWrapper",
+    "pf": "frmOBEmail",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yLabel": "I agree to your <font color=\"#0095e4\">Terms & Conditions </font>of<br/> online banking"
+    }
+}

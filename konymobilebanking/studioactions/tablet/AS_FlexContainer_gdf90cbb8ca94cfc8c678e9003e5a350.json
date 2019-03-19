@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_gdf90cbb8ca94cfc8c678e9003e5a350": {
+        "id": "AS_FlexContainer_gdf90cbb8ca94cfc8c678e9003e5a350",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b0ac198dec6d422790a756d940218dc2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgSelectUserOnTouchEnd",
+            "display": "imgSelectUserOnTouchEnd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_a650f341f36f46e68b588647bedc6dd2": {
+        "id": "AS_Button_a650f341f36f46e68b588647bedc6dd2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDevRegPin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d6dead6323d74c7ca7c87b113b5c9fe7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aaba0b54626646b484f41e7b2922fa64",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.btnNextOnClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

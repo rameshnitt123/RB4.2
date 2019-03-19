@@ -1,0 +1,22 @@
+{
+    "AS_Button_ffa592c44d214311b53c41771132ecea": {
+        "id": "AS_Button_ffa592c44d214311b53c41771132ecea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnterBenAccNoEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i7fcb0574dc84af8b7c23cefc21a3573"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_gb59a61adc584e8eb02a75cbe7eda5a4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(2);"
+        }]
+    }
+}

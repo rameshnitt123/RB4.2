@@ -1,0 +1,162 @@
+{
+    "classname": "inputPhoneNumber",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "eecb47d1757a4f38ae21aa955db2d6d7",
+                    "paramList": [
+                        {
+                            "name": "char"
+                        }
+                    ],
+                    "propertyKey": "addDigit",
+                    "pw": {
+                        "displayName": "addDigit",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ac1b7dd033a049fb9c9a8a11c326c6d3",
+                    "paramList": [],
+                    "propertyKey": "removeDigits",
+                    "pw": {
+                        "displayName": "removeDigits",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "i34e6f8b5769445a9679e58b91c9c526",
+                    "paramList": [],
+                    "propertyKey": "getPhoneNumber",
+                    "pw": {
+                        "displayName": "getPhoneNumber",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "cb67ea46c36640d6883e3cea4c01155e",
+                    "paramList": [
+                        {
+                            "name": "number"
+                        }
+                    ],
+                    "propertyKey": "setPhoneNumber",
+                    "pw": {
+                        "displayName": "setPhoneNumber",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "hea6d52cf9bb4e08bdc97302dde55b26",
+                    "paramList": [],
+                    "propertyKey": "clearPhoneNumber",
+                    "pw": {
+                        "displayName": "clearPhoneNumber",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "e9056d5d5e13499e8a45b7fbe3c15630",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onPhoneNumberEntered",
+                    "pw": {
+                        "displayName": "onPhoneNumberEntered",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "j285aec2b8ef45178ce6545d0e887bac",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "onPhoneNumberRemoved",
+                    "pw": {
+                        "displayName": "onPhoneNumberRemoved",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "Phone number"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "sknFlxffffffTab",
+                    "group": "General",
+                    "kuid": "e4c440757c64469dac8d9075bad4de77",
+                    "originalPropertyKey": "mainFlx",
+                    "propertyIndex": 1,
+                    "propertyKey": "mainFlx",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl424242SSP62PxTab",
+                    "group": "Phone number",
+                    "kuid": "dd8d41515bee4a72a95905e16cbcb00b",
+                    "originalPropertyKey": "inputPhoneNumber",
+                    "propertyIndex": 1,
+                    "propertyKey": "inputPhoneNumber",
+                    "pw": {
+                        "displayName": "Skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a167ebe7af4d44e18d731e91536a18f1",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.banking",
+    "version": "1.0.0"
+}

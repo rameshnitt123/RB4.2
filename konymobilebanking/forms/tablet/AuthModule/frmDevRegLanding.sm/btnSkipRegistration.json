@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4796a40148a493fb64ed877df0898b4",
+    "_text_": "No Thanks",
+    "_top_": {
+        "type": "number",
+        "value": "26"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4796a40148a493fb64ed877df0898b4",
+    "id": "btnSkipRegistration",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j24b911a3947469d93b79e0db144b78a",
+    "name": "kony.ui.Button",
+    "parent": "flxRegister",
+    "pf": "frmDevRegLanding",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.devReg.noThanks",
+    "wType": "Button",
+    "zindex": 3
+}

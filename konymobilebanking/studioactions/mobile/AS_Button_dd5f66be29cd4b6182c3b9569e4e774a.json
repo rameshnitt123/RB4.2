@@ -1,0 +1,27 @@
+{
+    "AS_Button_dd5f66be29cd4b6182c3b9569e4e774a": {
+        "id": "AS_Button_dd5f66be29cd4b6182c3b9569e4e774a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "i12c1ee247194beda9069c83ef14bedb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___de0ae0264d9c460fa43dcb3e3cee0e22",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showSignUpFlex",
+            "display": "showSignUpFlex",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_fd3411d297d746a18e53d59e8622813c": {
+        "id": "AS_Form_fd3411d297d746a18e53d59e8622813c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2pFrequency",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dc03f643511b452b8eb2e14faeded9fb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a171d33b76f34ca49cf8016028b7348d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

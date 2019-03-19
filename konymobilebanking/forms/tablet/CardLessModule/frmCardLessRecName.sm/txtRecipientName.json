@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s3bbea33efdb442da316a5e7e14401d3",
+    "_text_": "|",
+    "_width_": {
+        "type": "string",
+        "value": "79%"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 4
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.03%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "focusskin": "s3bbea33efdb442da316a5e7e14401d3",
+    "id": "txtRecipientName",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "closeButtonText": "Cancel",
+            "keyboardActionLabel": 4,
+            "showCloseButton": true
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardtype": "A",
+    "kuid": "gafda0805f0341b3a66b2b2e68e2f686",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxEnter",
+    "pf": "frmCardLessRecName",
+    "placeholderskin": "s0523794a64e41d082afa54cf7ec3a1c",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 10
+}

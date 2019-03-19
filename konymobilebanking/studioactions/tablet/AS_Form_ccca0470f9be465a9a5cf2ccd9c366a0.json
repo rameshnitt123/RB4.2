@@ -1,0 +1,28 @@
+{
+    "AS_Form_ccca0470f9be465a9a5cf2ccd9c366a0": {
+        "id": "AS_Form_ccca0470f9be465a9a5cf2ccd9c366a0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PPickContact",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dff0cf32289d4522b0fc08b0885e644c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b299fee3944f4d498bbcf75e7d342f26",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

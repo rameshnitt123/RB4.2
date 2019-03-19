@@ -1,0 +1,28 @@
+{
+    "AS_Form_bc35bc651763402e98b52afdab5de6e9": {
+        "id": "AS_Form_bc35bc651763402e98b52afdab5de6e9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayReEnterAccNo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ece31f5faa524c54b0ba0e85c5eaf7d5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ad72020eacd4499aa35de24a1a791f08",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPreshow",
+            "display": "frmPreshow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_aa3a40010c324b4e9359b2657d428b3b": {
+        "id": "AS_Button_aa3a40010c324b4e9359b2657d428b3b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f1e8007d01224d38b15b9bcc4ed649a4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar(3);",
+            "callbackType": null
+        }]
+    }
+}

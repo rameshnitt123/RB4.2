@@ -1,0 +1,28 @@
+{
+    "AS_Form_d2f501f0bfd24847a52e9e38daee7886": {
+        "id": "AS_Form_d2f501f0bfd24847a52e9e38daee7886",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBFinancialInfoAnnualIncome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e715efd8ac2b49b9a199ada4e8052d37"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___edfdcc84f3d144c6bcdc003c9fcfa3ec",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

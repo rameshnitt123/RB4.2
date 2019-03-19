@@ -1,0 +1,22 @@
+{
+    "AS_BarButtonItem_h61d172e79824f74b2f4c7cc7b4439b2": {
+        "id": "AS_BarButtonItem_h61d172e79824f74b2f4c7cc7b4439b2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i455721cd91e4047a1bebad66e4ec14c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onHandleCancelAction",
+            "display": "onHandleCancelAction",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

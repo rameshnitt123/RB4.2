@@ -1,0 +1,24 @@
+{
+    "AS_Form_e6aff399ac9d494cbd4d3e85967c35cb": {
+        "id": "AS_Form_e6aff399ac9d494cbd4d3e85967c35cb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBMaritialStatus",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a5a1452fcc7e4b6a8b46fa41a2160ec8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ce2f0e9e96ea4f5caf5c17d3bbda6954",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

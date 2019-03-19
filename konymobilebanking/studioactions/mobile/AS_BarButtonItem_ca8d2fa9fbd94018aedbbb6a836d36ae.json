@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_ca8d2fa9fbd94018aedbbb6a836d36ae": {
+        "id": "AS_BarButtonItem_ca8d2fa9fbd94018aedbbb6a836d36ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h443dec63bc14d62bd748e5436f7cc7c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var payeeMod = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"PayAPersonModule\");\npayeeMod.presentationController.commonFunctionForNavigation(\"frmTransfers\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

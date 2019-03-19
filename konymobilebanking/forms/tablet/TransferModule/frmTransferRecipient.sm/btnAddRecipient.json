@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "101dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_skin_": "s99e800092424bcebb768c1ed7a3260e",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": ""
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s14bec6136414c7c976c68408449b259",
+    "id": "btnAddRecipient",
+    "info": null,
+    "ipad": {
+        "bottom": {
+            "type": "string",
+            "value": "101dp"
+        },
+        "top": {
+            "type": "string",
+            "value": ""
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i6178569f7a5442390ae7999b85afe6c",
+    "name": "kony.ui.Button",
+    "parent": "frmTransferRecipient",
+    "pf": "frmTransferRecipient",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.tab.Transfers.AddRecipient",
+    "wType": "Button",
+    "zindex": 10
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_d56dbc82c93b4db7bfbe097d1d5b368d": {
+        "id": "AS_Form_d56dbc82c93b4db7bfbe097d1d5b368d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmExternalBankLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f1cfc7db1ff94fd1a769cb46e43d2fc0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c7a6f95302e04a57a0b1d9fd25e808f7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.initializeWidgetActionsAndGlobalVariables();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

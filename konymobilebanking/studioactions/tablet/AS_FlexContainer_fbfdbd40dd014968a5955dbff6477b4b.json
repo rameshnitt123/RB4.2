@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_fbfdbd40dd014968a5955dbff6477b4b": {
+        "id": "AS_FlexContainer_fbfdbd40dd014968a5955dbff6477b4b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segAccountsNoImageBillPayList",
+            "type": "templates",
+            "platform": "",
+            "KUID": "f80f644077af4a46963137819f40012b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a8925bb14e2a46f4be23e3f3eed9b86a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.callOnDeletePayee();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

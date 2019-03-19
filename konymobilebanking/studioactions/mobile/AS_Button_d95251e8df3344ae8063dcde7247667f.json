@@ -1,0 +1,22 @@
+{
+    "AS_Button_d95251e8df3344ae8063dcde7247667f": {
+        "id": "AS_Button_d95251e8df3344ae8063dcde7247667f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ea668f521007462185826eacf5716d10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_jc1bd157e0954f48a0e38a7bc7967941",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var ntf = new kony.mvc.Navigation(\"frmEnrollLastName\");\nntf.navigate();",
+            "callbackType": null
+        }]
+    }
+}

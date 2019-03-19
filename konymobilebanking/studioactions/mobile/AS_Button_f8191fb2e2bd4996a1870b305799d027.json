@@ -1,0 +1,30 @@
+{
+    "AS_Button_f8191fb2e2bd4996a1870b305799d027": {
+        "id": "AS_Button_f8191fb2e2bd4996a1870b305799d027",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmProfileChangePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f2953cd42c4243fc9f97739f3017bf50"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b625e99c3b27405ab6401c8d79e979d6",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "friendlyName": "frmLogin",
+            "formKUID": "h65c10a2cabc493c8ac9ef9c703d1486",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

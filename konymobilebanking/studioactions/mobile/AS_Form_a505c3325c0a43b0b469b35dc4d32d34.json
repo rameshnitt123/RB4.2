@@ -1,0 +1,24 @@
+{
+    "AS_Form_a505c3325c0a43b0b469b35dc4d32d34": {
+        "id": "AS_Form_a505c3325c0a43b0b469b35dc4d32d34",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOBEmploymentDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d1f5c585529e4310bb717aee47f0fec6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d17db2ce792c49189c897d5badc04795",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

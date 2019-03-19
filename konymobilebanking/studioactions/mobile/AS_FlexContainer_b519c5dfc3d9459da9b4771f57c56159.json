@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_b519c5dfc3d9459da9b4771f57c56159": {
+        "id": "AS_FlexContainer_b519c5dfc3d9459da9b4771f57c56159",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmEnrollSSn",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a15114bd0e9642f99fe77b6ae30e3dde"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,13 @@
+digraph Task_package_dependencies {
+  node [shape = box, fontsize=10.0];
+  com_kony_TaskFramework_Core -> com_kony_TaskFramework_Constants;
+  com_kony_TaskFramework_Core -> com_kony_TaskFramework_Exceptions;
+  com_kony_TaskFramework_Core -> com_kony_TaskFramework_Utils;
+  com_kony_TaskFramework_Core -> com_kony_TaskFramework_jama;
+  com_kony_TaskFramework_Exceptions -> com_kony_TaskFramework_Constants;
+  com_kony_TaskFramework_Utils -> com_kony_TaskFramework_Core;
+  com_kony_TaskFramework_Utils -> com_kony_TaskFramework_jama;
+  com_kony_TaskFramework_jama -> Jama;
+  com_kony_TaskFramework_jama -> com_kony_TaskFramework_Constants;
+  com_kony_TaskFramework_jama -> com_kony_TaskFramework_Utils;
+}

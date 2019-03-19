@@ -1,0 +1,18 @@
+{
+    "AS_BarButtonItem_a5415183a1d34551965c06ac44a1bab8": {
+        "id": "AS_BarButtonItem_a5415183a1d34551965c06ac44a1bab8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b1ffdf82772e40d181be288b135cfb2f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.goBackToBillPay();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

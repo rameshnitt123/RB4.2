@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_a1e8be64c1a04f85888c30ea375c7ed3": {
+        "id": "AS_FlexContainer_a1e8be64c1a04f85888c30ea375c7ed3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d70c215bf31548af8ac5a1c5007e0797",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flxCheckBoxOnClick",
+            "display": "flxCheckBoxOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

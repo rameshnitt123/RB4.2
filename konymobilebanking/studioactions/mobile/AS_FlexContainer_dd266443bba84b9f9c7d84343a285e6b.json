@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_dd266443bba84b9f9c7d84343a285e6b": {
+        "id": "AS_FlexContainer_dd266443bba84b9f9c7d84343a285e6b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ea668f521007462185826eacf5716d10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ha0eb511e87b4c7e90518f468ad0475d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// var ntf = new kony.mvc.Navigation(\"frmOBSignInWithPhoneNumber\");\n// ntf.navigate();\nvar controller = applicationManager.getPresentationUtility().getController('frmOBSignInWithPhoneNumber', true);\ncontroller.navToNUOPhone(); ",
+            "callbackType": null
+        }]
+    }
+}

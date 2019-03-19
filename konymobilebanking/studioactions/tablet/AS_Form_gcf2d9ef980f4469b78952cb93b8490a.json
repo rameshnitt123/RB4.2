@@ -1,0 +1,23 @@
+{
+    "AS_Form_gcf2d9ef980f4469b78952cb93b8490a": {
+        "id": "AS_Form_gcf2d9ef980f4469b78952cb93b8490a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboardAggregated",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c8a7dc6c7ee34a309865ec250710894b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_fea59e9e27fa4e38bc725e98b1ab96b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var date = new Date();\nthis.currentMonth = parseInt(date.getMonth()+1);\nthis.init();",
+            "callbackType": null
+        }]
+    }
+}

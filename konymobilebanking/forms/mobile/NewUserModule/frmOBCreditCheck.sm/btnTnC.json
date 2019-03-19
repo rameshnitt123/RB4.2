@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "85dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0fb4e3c170945a5bc8361899ba6d668",
+    "_text_": "Terms & Conditions",
+    "_top_": {
+        "type": "string",
+        "value": "67%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s31beeb1acb948a9ab9cfb48513042ca"
+    },
+    "displaytext": true,
+    "id": "btnTnC",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gfe10dec6024470aa94a26bbfa6bfc44",
+    "name": "kony.ui.Button",
+    "parent": "flxMainContainer",
+    "pf": "frmOBCreditCheck",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.Support.Terms",
+    "wType": "Button",
+    "zindex": 1,
+    "accessibilityconfig": {
+        "a11yHint": "Click on Terms & Conditions to see the terms and conditions you are agreeing to ",
+        "a11yLabel": "Terms & Conditions"
+    }
+}

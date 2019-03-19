@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_skin_": "s1e390ffacfd42049a1aca5c94a3b670",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "53%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "accessibilityconfig": {
+        "a11yHint": "Tap Touch ID to log in using touch biometrics",
+        "a11yLabel": "Touch ID"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1e390ffacfd42049a1aca5c94a3b670",
+    "id": "btnTouchId",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "ibcd21ecfb104b45962481b8989782db",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxContent",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.mb.devReg.TouchId",
+    "wType": "Button",
+    "zindex": 3
+}

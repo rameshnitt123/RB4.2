@@ -1,0 +1,24 @@
+{
+    "AS_Button_f47a2fe558204262b09af4bbcc6e2c74": {
+        "id": "AS_Button_f47a2fe558204262b09af4bbcc6e2c74",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayRecurrence",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g7e22c28197845999610464c98dff2f1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dca72b9c9155470cba9287ce630b1879",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setKeypadChar('2');",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

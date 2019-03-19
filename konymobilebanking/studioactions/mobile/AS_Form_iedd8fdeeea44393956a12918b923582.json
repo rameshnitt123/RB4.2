@@ -1,0 +1,27 @@
+{
+    "AS_Form_iedd8fdeeea44393956a12918b923582": {
+        "id": "AS_Form_iedd8fdeeea44393956a12918b923582",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferAccountNoEurope",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ad6b8622d6584b50a3c016fd03adc33b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_preShow_e276518f076d4ee69ebeb754df74b23c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPreshow",
+            "display": "frmPreshow",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

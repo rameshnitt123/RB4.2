@@ -1,0 +1,158 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_data_": [
+        {
+            "btnShowMore": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SHOW MORE"
+            },
+            "lblSubTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Basic information about this card. Show only very brief description here. If there are more info we can show the link here as show more. It brings more info by expanding the section. "
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "About Product"
+            },
+            "rtxData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "<b>About Product</b><br/>Basic information about this card. Show only very brief description here. If there are more info we can show the link here as show more. It brings more info by expanding the section. "
+            }
+        },
+        {
+            "btnShowMore": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SHOW MORE"
+            },
+            "lblSubTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Basic information about this card. Show only very brief description here. If there are more info we can show the link here as show more. It brings more info by expanding the section. "
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "About Product"
+            },
+            "rtxData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "<b>About Product</b><br/>Basic information about this card. Show only very brief description here. If there are more info we can show the link here as show more. It brings more info by expanding the section. "
+            }
+        },
+        {
+            "btnShowMore": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SHOW MORE"
+            },
+            "lblSubTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Basic information about this card. Show only very brief description here. If there are more info we can show the link here as show more. It brings more info by expanding the section. "
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "About Product"
+            },
+            "rtxData": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "<b>About Product</b><br/>Basic information about this card. Show only very brief description here. If there are more info we can show the link here as show more. It brings more info by expanding the section. "
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "41dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segProductDetails",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "e18add08522d427ca67093a9d7f81ef8",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxProductDetails",
+    "pf": "frmNAOProductDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "d82dad189563462d8d919aa713d8ed37",
+    "rowcounter": 2,
+    "rowfocusskin": "s69f28c050df43fb9bf92e79f4534943",
+    "rowskin": "s69f28c050df43fb9bf92e79f4534943",
+    "rowtemplate": "flxProductDetails",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s65e8b0a8be54624ac979cda71a22cac",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0je14ed46783344": "FlexContainer0je14ed46783344",
+        "btnShowMore": "btnShowMore",
+        "flxProductDetails": "flxProductDetails",
+        "lblSubTitle": "lblSubTitle",
+        "lblTitle": "lblTitle",
+        "rtxData": "rtxData"
+    },
+    "widgetskin": "s69f28c050df43fb9bf92e79f4534943",
+    "zindex": 4
+}

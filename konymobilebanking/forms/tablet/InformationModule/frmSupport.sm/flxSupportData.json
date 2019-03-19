@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "648dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0b97f70d2c34341ab14dba41258c17a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblBankTimingsTitle",
+        "btnCallBranch",
+        "btnBookAppointment",
+        "flxMondayFridayRow",
+        "flxSaturdayRow",
+        "lblContactUs",
+        "flxPhoneRow"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxSupportData",
+    "info": null,
+    "isvisible": true,
+    "kuid": "caf4b713f353475db3745d2d5c2a81ae",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxSupportMain",
+    "pf": "frmSupport",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

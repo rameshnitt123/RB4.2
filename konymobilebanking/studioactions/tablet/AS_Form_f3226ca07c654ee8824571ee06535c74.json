@@ -1,0 +1,24 @@
+{
+    "AS_Form_f3226ca07c654ee8824571ee06535c74": {
+        "id": "AS_Form_f3226ca07c654ee8824571ee06535c74",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBenSwiftCode",
+            "type": "forms",
+            "platform": "",
+            "KUID": "efa98f8177704fac9c8a0939a24e396a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__if7b095e05704aa1b3607aab42cc7fab",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.preShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

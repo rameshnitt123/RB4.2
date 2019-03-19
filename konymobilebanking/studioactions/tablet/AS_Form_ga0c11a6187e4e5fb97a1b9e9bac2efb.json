@@ -1,0 +1,23 @@
+{
+    "AS_Form_ga0c11a6187e4e5fb97a1b9e9bac2efb": {
+        "id": "AS_Form_ga0c11a6187e4e5fb97a1b9e9bac2efb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDevRegPinConfirmation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i65f483125934a629910c32de2a71898"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_cc97a4ba1da74f69916142193c3c1229",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.callOnPreShow();",
+            "callbackType": null
+        }]
+    }
+}

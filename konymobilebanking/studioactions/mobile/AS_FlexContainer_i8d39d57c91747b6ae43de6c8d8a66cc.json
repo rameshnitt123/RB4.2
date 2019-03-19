@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_i8d39d57c91747b6ae43de6c8d8a66cc": {
+        "id": "AS_FlexContainer_i8d39d57c91747b6ae43de6c8d8a66cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmForgotEnterDOB",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fc40338e7ea64c55bfbabdaf9eacd83a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_h839d18781be4ebcb7d909f141962982",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmForgotEnterSecurityCode",
+            "friendlyName": "frmForgotEnterSecurityCode",
+            "formKUID": "bd407b4f1db84aaf857350c5154838d3",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "AuthModule"
+        }]
+    }
+}

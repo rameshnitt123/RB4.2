@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s68672528a0f46f2a5041b134cd98433",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "400dp"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 4
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s68672528a0f46f2a5041b134cd98433",
+    "id": "txtReEnterPass",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "closeButtonText": "Cancel",
+            "keyboardActionLabel": 4,
+            "showClearButton": false,
+            "showCloseButton": true
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardtype": "A",
+    "kuid": "i26987a1d6824aed9718bf40034cb80f",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxReenterPassword",
+    "pf": "frmEnrollSignUp",
+    "placeholderskin": "s0523794a64e41d082afa54cf7ec3a1c",
+    "securetextentry": false,
+    "showclearbutton": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 2
+}

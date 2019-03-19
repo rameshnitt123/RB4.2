@@ -1,0 +1,14 @@
+digraph signCapture_package_dependencies {
+  node [shape = box, fontsize=10.0];
+  com_kony -> android_app;
+  com_kony -> android_content;
+  com_kony -> android_graphics;
+  com_kony -> android_os;
+  com_kony -> android_provider;
+  com_kony -> android_util;
+  com_kony -> android_view;
+  com_kony -> android_widget;
+  com_kony -> com_konylabs_android;
+  com_kony -> com_konylabs_ffi;
+  com_kony -> com_konylabs_vm;
+}

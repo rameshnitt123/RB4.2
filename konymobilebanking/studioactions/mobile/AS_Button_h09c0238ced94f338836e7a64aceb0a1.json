@@ -1,0 +1,27 @@
+{
+    "AS_Button_h09c0238ced94f338836e7a64aceb0a1": {
+        "id": "AS_Button_h09c0238ced94f338836e7a64aceb0a1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDevRegPin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d6dead6323d74c7ca7c87b113b5c9fe7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e41bda3998f24f17bea0f4303e107e8c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnLoginOnClick",
+            "display": "btnLoginOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

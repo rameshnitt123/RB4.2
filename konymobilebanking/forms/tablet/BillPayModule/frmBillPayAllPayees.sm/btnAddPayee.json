@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7eb079bc65c4ab58dce1e7b96fbe456",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "53%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sd712d1817a7421d9e809e46f12b0c98",
+    "id": "btnAddPayee",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d52f984c5ce84f70b01999a61bf56349",
+    "name": "kony.ui.Button",
+    "parent": "flxMainContainer",
+    "pf": "frmBillPayAllPayees",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.tab.BillPay.AddPayee",
+    "wType": "Button",
+    "zindex": 3
+}

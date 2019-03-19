@@ -1,0 +1,28 @@
+{
+    "AS_Form_gc4c4f259e594bf49550cc9097b3bec8": {
+        "id": "AS_Form_gc4c4f259e594bf49550cc9097b3bec8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrollSignUp",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d6dbc1325b3540b19ec2c5cf5fb53325"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fb8c9b6d9347424bb96e4c8cb88908e7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

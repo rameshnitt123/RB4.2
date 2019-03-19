@@ -1,0 +1,22 @@
+{
+    "AS_BarButtonItem_da91e974ffdb435ea81f97256ecfbbee": {
+        "id": "AS_BarButtonItem_da91e974ffdb435ea81f97256ecfbbee",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c007581bf2cf48b3aac59bd7f9512a49",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navToLogin",
+            "display": "navToLogin",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

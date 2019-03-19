@@ -1,0 +1,28 @@
+{
+    "AS_Form_i3742932027942b1b85aa3285835575d": {
+        "id": "AS_Form_i3742932027942b1b85aa3285835575d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardLessOverdraft",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i2f9438b31ca47aba047f80bed36bfcb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d4a1cc2398734baab35ab6282772e55d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_jea09ec7cac04a39bf7069b3b8d47255": {
+        "id": "AS_Form_jea09ec7cac04a39bf7069b3b8d47255",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCardLessPickContacts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bf0394825bc043e189563682b80cd6fa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c54750de6b8640fca618cdd09ab8d341",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

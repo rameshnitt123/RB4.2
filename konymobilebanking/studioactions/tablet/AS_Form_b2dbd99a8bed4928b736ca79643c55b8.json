@@ -1,0 +1,28 @@
+{
+    "AS_Form_b2dbd99a8bed4928b736ca79643c55b8": {
+        "id": "AS_Form_b2dbd99a8bed4928b736ca79643c55b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillPayAmount",
+            "type": "forms",
+            "platform": "",
+            "KUID": "id8b3a26b155402796513a09b156fd38"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___hda09f43d55a4233bdf3ac8bf2960f8e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "init",
+            "display": "init",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

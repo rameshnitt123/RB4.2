@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5eba78686f643ccbe21a04d1c3c4f8c",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5eba78686f643ccbe21a04d1c3c4f8c",
+    "id": "btnYes",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a50445f573a845d58cc2440883b91f6e",
+    "name": "kony.ui.Button",
+    "parent": "flxPopDeleteMenu",
+    "pf": "frmManageP2pRecipient",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.tab.common.Yes",
+    "wType": "Button",
+    "zindex": 1
+}

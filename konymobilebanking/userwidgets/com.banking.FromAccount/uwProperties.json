@@ -1,0 +1,265 @@
+{
+    "classname": "FromAccount",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "c2a3c4efb0e44b888c355acab65c6ead",
+                    "paramList": [
+                        {
+                            "name": "accountName"
+                        },
+                        {
+                            "name": "bankName"
+                        },
+                        {
+                            "name": "accountBalance"
+                        },
+                        {
+                            "name": "balanceStatus"
+                        }
+                    ],
+                    "propertyKey": "setData",
+                    "pw": {
+                        "displayName": "setData",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "c13b55c5fdc6472c9151e67747649e89",
+                    "paramList": [
+                        {
+                            "name": "value"
+                        }
+                    ],
+                    "propertyKey": "setActionTitle",
+                    "pw": {
+                        "displayName": "setActionTitle",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "de2964c51a6348bdbe1f08686800056a",
+                    "paramList": [
+                        {
+                            "name": "name"
+                        }
+                    ],
+                    "propertyKey": "setTitleName",
+                    "pw": {
+                        "displayName": "setTitleName",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "dc17f08105284aa7b71599c7a5502867",
+                    "paramList": [
+                        {
+                            "name": "key"
+                        }
+                    ],
+                    "propertyKey": "setTitleI18Name",
+                    "pw": {
+                        "displayName": "setTitleI18Name",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "a3fc610805034a3a81f24257a95a53e8",
+                    "paramList": [
+                        {
+                            "name": "key"
+                        }
+                    ],
+                    "propertyKey": "setActionI18Title",
+                    "pw": {
+                        "displayName": "setActionI18Title",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ab1f2fe5c35d434cae2565365cc16525",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "onActionHandler",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "onActionHandler",
+                        "srcWidget": "btnChange",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "c365d8347ec740ecb7b2217f63b9cd54"
+                }
+            ]
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "First Column",
+                "Second Column",
+                "Active Button",
+                "Skins"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl424242SSP30PxTab",
+                    "group": "Skins",
+                    "kuid": "g1c89328bcb34b5b8ed8106caf641ccc",
+                    "originalPropertyKey": "firstRowSkin",
+                    "propertyIndex": 1,
+                    "propertyKey": "firstRowSkin",
+                    "pw": {
+                        "displayName": "First row label skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbl727272SSP26pxTab",
+                    "group": "Skins",
+                    "kuid": "f0087e172ef144819af1d802e393b31c",
+                    "originalPropertyKey": "secondRowSkin",
+                    "propertyIndex": 2,
+                    "propertyKey": "secondRowSkin",
+                    "pw": {
+                        "displayName": "Second row label skin",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknBtnBgffffffF0a78D1SSP30PxTab",
+                    "group": "Skins",
+                    "kuid": "i94a35bd155d4b0b9d695dd21a90cfb7",
+                    "originalPropertyKey": "activeBtn",
+                    "propertyIndex": 3,
+                    "propertyKey": "activeBtn",
+                    "pw": {
+                        "displayName": "Active button",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknFlxBgF9F9F9Tab",
+                    "group": "Skins",
+                    "kuid": "gd1b1e9f607b47feb51d9aede12f1ca7",
+                    "originalPropertyKey": "componentSkin",
+                    "propertyIndex": 4,
+                    "propertyKey": "componentSkin",
+                    "pw": {
+                        "displayName": "Main",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "sknLbla0a0a0SSP30pxTab",
+                    "group": "Skins",
+                    "kuid": "eed64a7851f04127aa25df5880770c08",
+                    "originalPropertyKey": "titleSkin",
+                    "propertyIndex": 5,
+                    "propertyKey": "titleSkin",
+                    "pw": {
+                        "displayName": "Title",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "fdd1e4124f80467d95bfe837a2aed56b",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "d5f61d11f8834406a850b65ef51a3b81",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "titleName",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Title name",
+                        "srcWidget": "lblFromAccount",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "df98141acee945e9a190c90b1d579fe6"
+                },
+                {
+                    "access": "Enable",
+                    "group": "Active Button",
+                    "kuid": "b53087aa6a3f4808939f7af6ddf80c1b",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "btnTitle",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Button title",
+                        "srcWidget": "btnChange",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "c365d8347ec740ecb7b2217f63b9cd54"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.banking",
+    "version": "1.0.0"
+}

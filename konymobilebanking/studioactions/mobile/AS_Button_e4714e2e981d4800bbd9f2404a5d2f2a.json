@@ -1,0 +1,24 @@
+{
+    "AS_Button_e4714e2e981d4800bbd9f2404a5d2f2a": {
+        "id": "AS_Button_e4714e2e981d4800bbd9f2404a5d2f2a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDevRegLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ef6aaa3acd014f7cad8d60cb17123f90"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fb07d6ba6d6b474793ad53860a107dc9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var authMode = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"AuthModule\");\nauthMode.presentationController.defaultLoginToAccounts();\nauthMode.presentationController.setDeviceRegisterflag(false);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
